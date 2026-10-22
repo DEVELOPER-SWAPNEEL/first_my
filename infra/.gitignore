@@ -1,0 +1,7 @@
+# Local operator config and plans can contain account identifiers or sensitive values.
+aws/backend.tf
+aws/backend.s3.hcl
+*.tfplan
+*.tfplan.json
+crash.log
+crash.*.log

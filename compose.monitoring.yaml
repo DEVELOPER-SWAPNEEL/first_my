@@ -1,0 +1,62 @@
+services:
+  prometheus:
+    image: prom/prometheus:v3.15.0
+    ports: ["127.0.0.1:${PROMETHEUS_PORT:-9090}:9090"]
+    command:
+      - --config.file=/etc/prometheus/prometheus.yml
+      - --storage.tsdb.retention.time=7d
+    volumes:
+      - ./monitoring/prometheus.yml:/etc/prometheus/prometheus.yml:ro
+      - ./monitoring/alert-rules.yml:/etc/prometheus/alert-rules.yml:ro
+      - prometheus_data:/prometheus
+    depends_on: [app, alertmanager, postgres-exporter]
+    restart: unless-stopped
+  alertmanager:
+    image: prom/alertmanager:v0.34.1
+    ports: ["127.0.0.1:${ALERTMANAGER_PORT:-9093}:9093"]
+    volumes:
+      - ./monitoring/alertmanager.yml:/etc/alertmanager/alertmanager.yml:ro
+      - alertmanager_data:/alertmanager
+    command: [--config.file=/etc/alertmanager/alertmanager.yml]
+    restart: unless-stopped
+  grafana:
+    image: grafana/grafana:13.2.4
+    ports: ["127.0.0.1:${GRAFANA_PORT:-3000}:3000"]
+    environment:
+      GF_SECURITY_ADMIN_USER: ${GRAFANA_ADMIN_USER:-admin}
+      GF_SECURITY_ADMIN_PASSWORD: ${GRAFANA_ADMIN_PASSWORD:?Set GRAFANA_ADMIN_PASSWORD before monitoring startup}
+      GF_USERS_ALLOW_SIGN_UP: "false"
+      GF_AUTH_ANONYMOUS_ENABLED: "false"
+    volumes:
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning:ro
+      - ./monitoring/grafana/dashboards:/var/lib/grafana/dashboards:ro
+      - grafana_data:/var/lib/grafana
+    depends_on: [prometheus]
+    restart: unless-stopped
+  postgres-exporter:
+    image: quay.io/prometheuscommunity/postgres-exporter:v0.20.1
+    environment:
+      DATA_SOURCE_URI: db:5432/launchops?sslmode=disable
+      DATA_SOURCE_USER: launchops
+      DATA_SOURCE_PASS: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+      PG_EXPORTER_AUTO_DISCOVER_DATABASES: "false"
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: unless-stopped
+  caddy:
+    image: caddy:2.11.7-alpine
+    ports: ["127.0.0.1:${HTTPS_PORT:-8443}:8443"]
+    volumes:
+      - ./ops/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on: [app]
+    restart: unless-stopped
+
+volumes:
+  prometheus_data:
+  alertmanager_data:
+  grafana_data:
+  caddy_data:
+  caddy_config:

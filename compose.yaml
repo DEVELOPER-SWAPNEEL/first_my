@@ -1,0 +1,139 @@
+x-app-environment: &app-environment
+  DB_HOST: db
+  DB_PORT: "5432"
+  DB_NAME: launchops
+  DB_USER: launchops
+  DB_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+  APP_VERSION: ${APP_VERSION:-local}
+  APP_AUTO_MIGRATE: "0"
+  BACKUP_STATUS_FILE: /backups/latest.json
+
+services:
+  db:
+    image: postgres:17.11
+    environment:
+      POSTGRES_DB: launchops
+      POSTGRES_USER: launchops
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: [CMD-SHELL, 'pg_isready -U "$${POSTGRES_USER}" -d "$${POSTGRES_DB}"']
+      interval: 5s
+      timeout: 3s
+      retries: 20
+      start_period: 10s
+    restart: unless-stopped
+  migrate:
+    image: ${APP_IMAGE:-launchops:local}
+    build: .
+    environment: *app-environment
+    command: [python, -m, app.migrate]
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: "no"
+  app:
+    image: ${APP_IMAGE:-launchops:local}
+    build: .
+    environment: *app-environment
+    ports:
+      - 127.0.0.1:${APP_PORT:-8000}:8000
+    volumes:
+      - ${BACKUP_STATUS_DIRECTORY:-./runtime/backup-status}:/backups:ro
+    depends_on:
+      db:
+        condition: service_healthy
+      migrate:
+        condition: service_completed_successfully
+    healthcheck:
+      test: [CMD, python, -c, 'import urllib.request; urllib.request.urlopen("http://localhost:8000/health/live", timeout=3)']
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    restart: unless-stopped
+    init: true
+    security_opt:
+      - no-new-privileges:true
+    cap_drop: [ALL]
+  backup:
+    profiles: [ops]
+    image: ${APP_IMAGE:-launchops:local}
+    build: .
+    # This one-shot operation owns mode600 artifacts, not the web application.
+    user: "0:0"
+    environment:
+      <<: *app-environment
+      BACKUP_DIRECTORY: /backups
+      BACKUP_STATUS_FILE: /status/latest.json
+      BACKUP_S3_URI: ${BACKUP_S3_URI:-}
+    volumes:
+      - ${BACKUP_DIRECTORY:-./backups}:/backups
+      - ${BACKUP_STATUS_DIRECTORY:-./runtime/backup-status}:/status
+    command: [python, scripts/backup.py]
+    depends_on:
+      db:
+        condition: service_healthy
+    restart: "no"
+  db-restore:
+    profiles: [recovery]
+    image: postgres:17.11
+    environment:
+      POSTGRES_DB: launchops_restore
+      POSTGRES_USER: launchops
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+    # Separate volume: the source database is never mounted here.
+    volumes:
+      - restore_data:/var/lib/postgresql/data
+    healthcheck:
+      test: [CMD-SHELL, 'pg_isready -U "$${POSTGRES_USER}" -d "$${POSTGRES_DB}"']
+      interval: 3s
+      timeout: 3s
+      retries: 20
+    restart: "no"
+  restore:
+    profiles: [recovery]
+    image: ${APP_IMAGE:-launchops:local}
+    build: .
+    user: "0:0"
+    environment:
+      RESTORE_DB_HOST: db-restore
+      RESTORE_DB_PORT: "5432"
+      RESTORE_DB_NAME: launchops_restore
+      RESTORE_DB_USER: launchops
+      RESTORE_DB_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD in .env}
+      BACKUP_DIRECTORY: /backups
+    volumes:
+      - ${BACKUP_DIRECTORY:-./backups}:/backups
+    # Operator supplies an explicit archive; never guesses a backup.
+    entrypoint: [python, scripts/restore.py]
+    command: [--help]
+    depends_on:
+      db-restore:
+        condition: service_healthy
+    restart: "no"
+  recovered-app:
+    profiles: [recovery]
+    image: ${APP_IMAGE:-launchops:local}
+    build: .
+    environment:
+      <<: *app-environment
+      DB_HOST: db-restore
+      DB_NAME: launchops_restore
+      APP_VERSION: ${APP_VERSION:-local}-restored
+    ports:
+      - 127.0.0.1:${RESTORED_APP_PORT:-8001}:8000
+    depends_on:
+      db-restore:
+        condition: service_healthy
+    healthcheck:
+      test: [CMD, python, -c, 'import urllib.request; urllib.request.urlopen("http://localhost:8000/health/ready", timeout=3)']
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    restart: "no"
+
+volumes:
+  postgres_data:
+  restore_data:

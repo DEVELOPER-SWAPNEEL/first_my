@@ -1,0 +1,17 @@
+# Replace with operator-approved values; this file contains no credentials.
+aws_region         = "REPLACE_WITH_APPROVED_REGION"
+backup_bucket_name = "replace-with-globally-unique-backup-bucket"
+instance_type      = "t3.small"
+# Pin a reviewed Ubuntu 24.04 amd64 AMI after resolving the public SSM selector.
+# ami_id = "ami-..."
+
+# Enable delivery only after a repository + protected release1 environment exist.
+# github_repository = "owner/repository"
+# github_oidc_subject = "repo:owner/repository:environment:release1"
+# New repositories may require repo:owner@OWNER_ID/repository@REPO_ID:environment:release1.
+# Use the actual configured JWT sub, not a guessed subject.
+# existing_github_oidc_provider_arn = "arn:aws:iam::ACCOUNT:oidc-provider/token.actions.githubusercontent.com"
+
+# Optional runtime .env secret provisioned outside Terraform; never put its value here.
+# application_secret_arn = "arn:aws:secretsmanager:REGION:ACCOUNT:secret:NAME-SUFFIX"
+# application_secret_kms_key_arn = "arn:aws:kms:REGION:ACCOUNT:key/UUID"

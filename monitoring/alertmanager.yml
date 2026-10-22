@@ -1,0 +1,12 @@
+global:
+  resolve_timeout: 5m
+route:
+  receiver: local-only
+  group_by: [alertname]
+  group_wait: 10s
+  group_interval: 1m
+  repeat_interval: 4h
+receivers:
+  - name: local-only
+# This receiver intentionally has no external notification destination.
+# View local alerts at localhost:9093; configure a secret-backed receiver before claiming notifications.

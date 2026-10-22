@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#000000"><meta name="description" content="LaunchOps. Ship with confidence. Recover with proof. A hands-on deployment and recovery lab.">
+<title>LaunchOps · Ship. Observe. Recover.</title>
+<link rel="stylesheet" href="/static/style.css">
+<script src="/static/motion.js" defer></script><script src="/static/app.js" defer></script>
+</head>
+<body>
+<section class="hero" aria-labelledby="hero-title">
+<div class="ambient" aria-hidden="true"></div><canvas id="flow" aria-hidden="true"></canvas>
+<div class="star-stage" aria-hidden="true"><img class="star" src="/static/star.png" alt=""></div>
+<nav class="top-nav" aria-label="Main navigation"><a href="#workspace" title="Ticket workspace">App</a><a href="/docs" title="API documentation">API</a><button id="motion-toggle" aria-pressed="true" title="Pause animation">V3</button></nav>
+<main class="hero-content">
+<div class="badge"><span class="wordmark">launchops</span><span class="spark">✦</span><span id="release">local lab</span></div>
+<h1 id="hero-title">Ship with confidence.<br>Recover with proof.</h1>
+<p class="intro">A small platform. A real workload.<br>Deploy, observe, and learn to recover.</p>
+<form id="quick-create" class="capsule"><label class="sr-only" for="quick-title">Synthetic ticket title</label><input id="quick-title" name="title" placeholder="Your first synthetic ticket" maxlength="120" required autocomplete="off"><button type="submit">Create Ticket</button></form>
+<p id="hero-message" class="hero-message" role="status" aria-live="polite"></p>
+<div class="hero-links"><a href="#workspace">Workspace</a><span>·</span><a href="/docs">API docs</a><span>·</span><button id="check-ready">Readiness</button></div>
+</main>
+<footer class="hero-footer"><span>Built to learn. Designed to recover.</span><span>·</span><span>Synthetic data only</span></footer>
+</section>
+<section id="workspace" class="workspace" aria-labelledby="workspace-title">
+<header class="workspace-header"><div><p class="eyebrow">THE WORKLOAD</p><h2 id="workspace-title">Small tickets. Real transactions.</h2><p>Create a record, change its status, and verify it persists.</p></div><span class="service-state" id="service-state">Checking readiness</span></header>
+<section class="operations" aria-label="Live operational signals">
+<div class="signal"><span class="eyebrow">STORAGE</span><strong id="ops-database">Checking…</strong><span id="ops-schema">Supported schema check pending</span></div>
+<div class="signal"><span class="eyebrow">RUNNING RELEASE</span><strong id="ops-version">Checking…</strong><span>Reported by this application process</span></div>
+<div class="signal"><span class="eyebrow">BACKUP EVIDENCE</span><strong id="ops-backup">Checking…</strong><span id="ops-backup-detail">Local completion metadata</span></div>
+</section>
+<details class="recovery-guide"><summary>Recovery workflow <span>Safe, separate targets ↗</span></summary><div><p>A backup job proves a dump was written. Restore it into an empty, separate database, compare the saved ticket manifest, then verify a transaction through the restored application. Never replace the active database to demonstrate recovery.</p><p>From the repository: <code>python scripts/backup.py --help</code> and <code>python scripts/restore.py --help</code>. The complete procedure and measured evidence are in <code>docs/RECOVERY.md</code> and <code>docs/EVIDENCE_INDEX.md</code>.</p><p>Cloud transfer, certificate trust, and external notifications require their configured dependencies. This interface performs no infrastructure or recovery actions.</p><a href="/metrics">View actual Prometheus metrics →</a></div></details>
+<div class="workspace-grid"><form id="create" class="panel"><div class="panel-top"><h3>New ticket</h3><span>01</span></div><label for="title">Title</label><input id="title" name="title" maxlength="120" required placeholder="What needs attention?"><label for="description">Description <span class="optional">optional</span></label><textarea id="description" name="description" maxlength="2000" rows="4" placeholder="Use synthetic details for this lab."></textarea><button class="primary" type="submit">Create ticket <span>↗</span></button><p id="message" class="form-message" role="status" aria-live="polite"></p></form>
+<div class="panel ticket-panel"><div class="panel-top"><h3>Recent tickets <span id="ticket-count"></span></h3><button id="refresh" class="subtle">Refresh ↻</button></div><label class="sr-only" for="status-filter">Filter by status</label><select id="status-filter" class="status-filter"><option value="">All statuses</option><option value="open">Open</option><option value="in_progress">In progress</option><option value="resolved">Resolved</option></select><div id="tickets" aria-live="polite"><p class="empty">Loading tickets…</p></div><div class="pagination"><button id="previous" class="subtle" disabled>← Previous</button><span id="page-label">Page 1</span><button id="next" class="subtle" disabled>Next →</button></div></div></div>
+<footer class="workspace-footer"><span>LaunchOps · Release 1 in progress</span><a href="#hero-title">Back to the top ↑</a></footer>
+</section>
+<dialog id="ticket-dialog" aria-labelledby="dialog-title"><div class="dialog-top"><h2 id="dialog-title">Inspect ticket</h2><button id="close-dialog" aria-label="Close ticket editor">×</button></div><form id="edit-ticket"><input id="edit-id" type="hidden"><label for="edit-title">Title</label><input id="edit-title" name="title" required maxlength="120"><label for="edit-description">Description</label><textarea id="edit-description" name="description" maxlength="2000" rows="4"></textarea><label for="edit-status">Status</label><select id="edit-status" name="status"><option value="open">Open</option><option value="in_progress">In progress</option><option value="resolved">Resolved</option></select><button class="primary" type="submit">Save changes <span>↗</span></button><p id="edit-message" role="status" aria-live="polite"></p></form></dialog>
+</body></html>

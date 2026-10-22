@@ -1,0 +1,16 @@
+.git
+.venv
+.env
+*.db
+__pycache__
+.pytest_cache
+docs
+tests
+backups
+runtime
+.tools
+infra
+.gitignore
+*.dump
+*.tfstate*
+.env.*

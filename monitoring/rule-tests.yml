@@ -1,0 +1,60 @@
+rule_files:
+  - alert-rules.yml
+evaluation_interval: 15s
+tests:
+  - name: Unavailable application remains actionable
+    interval: 15s
+    input_series:
+      - series: 'up{job="launchops",instance="app:8000"}'
+        values: '0x12'
+    alert_rule_test:
+      - eval_time: 2m
+        alertname: LaunchOpsUnavailable
+        exp_alerts:
+          - exp_labels:
+              job: launchops
+              instance: app:8000
+              severity: critical
+            exp_annotations:
+              summary: Ticket application cannot be scraped
+              description: Check app process and networking; then perform a real transaction.
+  - name: Database outage and missing backup
+    interval: 15s
+    input_series:
+      - series: launchops_database_ready
+        values: '0x48'
+      - series: launchops_backup_metadata_valid
+        values: '0x48'
+      - series: launchops_backup_last_success_timestamp_seconds
+        values: '0x48'
+    alert_rule_test:
+      - eval_time: 10m
+        alertname: LaunchOpsDatabaseUnavailable
+        exp_alerts:
+          - exp_labels: {severity: critical}
+            exp_annotations:
+              summary: Ticket database or schema is unavailable
+              description: Liveness can remain healthy. Inspect database logs/connectivity and schema version before restarting anything.
+      - eval_time: 10m
+        alertname: LaunchOpsBackupMissingOrStale
+        exp_alerts:
+          - exp_labels: {severity: warning}
+            exp_annotations:
+              summary: No completed backup recorded within 24 hours
+              description: Inspect backup logs. A successful local backup is not proof of S3 transfer or fresh-target restore.
+  - name: Healthy database and recently completed backup stay quiet
+    interval: 15s
+    input_series:
+      - series: launchops_database_ready
+        values: '1x48'
+      - series: launchops_backup_metadata_valid
+        values: '1x48'
+      - series: launchops_backup_last_success_timestamp_seconds
+        values: '0+15x48'
+    alert_rule_test:
+      - eval_time: 10m
+        alertname: LaunchOpsDatabaseUnavailable
+        exp_alerts: []
+      - eval_time: 10m
+        alertname: LaunchOpsBackupMissingOrStale
+        exp_alerts: []

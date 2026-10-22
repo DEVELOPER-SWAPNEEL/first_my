@@ -1,0 +1,6 @@
+# Provision a SEPARATE state bucket with infra/state-bootstrap first.
+bucket       = "replace-with-state-bucket"
+key          = "launchops/release1/terraform.tfstate"
+region       = "REPLACE_WITH_APPROVED_REGION"
+encrypt      = true
+use_lockfile = true

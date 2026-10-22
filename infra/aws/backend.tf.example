@@ -1,0 +1,6 @@
+# Local backend is the default until remote state is explicitly configured.
+# After approved separate state bootstrap, copy this to backend.tf and run:
+# terraform init -migrate-state -backend-config=backend.s3.hcl
+terraform {
+  backend "s3" {}
+}

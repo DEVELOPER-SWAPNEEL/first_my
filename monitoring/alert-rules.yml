@@ -1,0 +1,38 @@
+groups:
+  - name: launchops
+    rules:
+      - alert: LaunchOpsUnavailable
+        expr: up{job="launchops"} == 0
+        for: 1m
+        labels: {severity: critical}
+        annotations:
+          summary: Ticket application cannot be scraped
+          description: Check app process and networking; then perform a real transaction.
+      - alert: LaunchOpsDatabaseUnavailable
+        expr: launchops_database_ready == 0
+        for: 1m
+        labels: {severity: critical}
+        annotations:
+          summary: Ticket database or schema is unavailable
+          description: Liveness can remain healthy. Inspect database logs/connectivity and schema version before restarting anything.
+      - alert: LaunchOpsHighErrors
+        expr: sum(rate(launchops_http_requests_total{status=~"5.."}[5m])) / clamp_min(sum(rate(launchops_http_requests_total[5m])), 0.001) > 0.05 and sum(increase(launchops_http_requests_total[5m])) > 20
+        for: 2m
+        labels: {severity: warning}
+        annotations:
+          summary: More than 5% of requests failed over five minutes
+          description: Requires at least 20 requests; compare release, readiness and request IDs.
+      - alert: LaunchOpsBackupMissingOrStale
+        expr: launchops_backup_metadata_valid == 0 or (time() - launchops_backup_last_success_timestamp_seconds > 86400)
+        for: 5m
+        labels: {severity: warning}
+        annotations:
+          summary: No completed backup recorded within 24 hours
+          description: Inspect backup logs. A successful local backup is not proof of S3 transfer or fresh-target restore.
+      - alert: LaunchOpsPostgresExporterUnavailable
+        expr: pg_up == 0 or up{job="postgres"} == 0
+        for: 1m
+        labels: {severity: warning}
+        annotations:
+          summary: PostgreSQL exporter cannot report database signals
+          description: Check exporter credentials and database reachability.

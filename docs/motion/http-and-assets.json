@@ -1,0 +1,168 @@
+{
+  "htmlStatus": 200,
+  "robots": "noindex, nofollow",
+  "noindexMeta": true,
+  "qaReferenced": false,
+  "qaAssetStatus": 404,
+  "internalLinks": [
+    {
+      "href": "/",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/about",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/contact",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/cookies",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/downloads/Swapneel-Purohit-Resume.pdf",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/faq",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/icon.svg?icon.1m_5iz9-go6l-.svg",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/lab",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/lab/a11y-probe",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/lab/glyphfield",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/lab/shader-notes",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/lab/tinyflip",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/lab/tokens-to-css",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/lab/use-latency",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/now",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/privacy",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/process",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/resume",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/reviews",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/services",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/stack",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/terms",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/uses",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/work",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/writing",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/writing/an-inp-budget-you-can-keep",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/writing/code-review-is-writing",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/writing/server-components-after-a-year",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/writing/the-last-hundred-milliseconds",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    },
+    {
+      "href": "/writing/what-a-design-system-is-for",
+      "status": 200,
+      "robots": "noindex, nofollow"
+    }
+  ],
+  "pdf": {
+    "contentType": "application/pdf",
+    "sameBytes": true,
+    "sha256": "66493531e567bb9e6e1cb64c273396da61018e892fe6f76462f9f473e116d584"
+  },
+  "publicFiles": [
+    "public/images/swapneel-portrait.webp",
+    "public/downloads/Swapneel-Purohit-Resume.pdf"
+  ]
+}

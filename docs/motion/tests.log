@@ -1,0 +1,20 @@
+
+> personal-website@0.1.0 test
+> node --experimental-strip-types --test scripts/content.test.ts
+
+✔ finite motion owns one callback, settles exactly once and cancels pending work (0.696625ms)
+✔ compile resolves real Unicode text and crop retains the approved focal region (0.165792ms)
+✔ private and draft values cannot enter presentation even if approved (0.054417ms)
+✔ aspirations and learning cannot become verified profile facts (0.370667ms)
+✔ route registry matches the audited scope without extra proposed routes (1.447375ms)
+✔ homepage structural fixtures stay draft and only link to registered destinations (1.590959ms)
+✔ contact handoff fixes recipient and encodes user text only in the body (0.648833ms)
+✔ personalized work stays sanitized and cannot target fictional case pages (0.236667ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 68.286334

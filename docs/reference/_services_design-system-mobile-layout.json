@@ -1,0 +1,99 @@
+{
+  "headings": [
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "Design system "
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "From the first note to the handover. "
+    },
+    {
+      "line": "24.2px",
+      "size": "22px",
+      "text": "Inventory"
+    },
+    {
+      "line": "24.2px",
+      "size": "22px",
+      "text": "Tokens"
+    },
+    {
+      "line": "24.2px",
+      "size": "22px",
+      "text": "Components"
+    },
+    {
+      "line": "24.2px",
+      "size": "22px",
+      "text": "Adoption"
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "Asked about this service. "
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "01We already have a component library."
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "02Does it work with our design tool?"
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "03How do you get teams to use it?"
+    },
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "line": "normal",
+      "size": "18px",
+      "text": "Footer"
+    }
+  ],
+  "scrollWidth": 390,
+  "sections": [
+    {
+      "class": "sh sh-sec shsd is-ph is-on",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec sh-well shct is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "shct-form",
+      "columns": "350px",
+      "padding": "0px",
+      "tag": "FORM",
+      "width": 350
+    },
+    {
+      "class": "sh sh-sec shft is-ph is-bar",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "FOOTER",
+      "width": 390
+    }
+  ],
+  "size": [
+    390,
+    844
+  ]
+}

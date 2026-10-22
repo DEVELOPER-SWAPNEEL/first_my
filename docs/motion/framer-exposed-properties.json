@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-14",
+  "access": "Existing authenticated editor session now accessible; no new login or project mutations",
+  "component": "ShHero",
+  "visibleBreakpoints": {
+    "Desktop": 1200,
+    "Tablet": "1199\u2013810",
+    "Phone": "809\u20130"
+  },
+  "instanceFocus": {
+    "x": "50%",
+    "y": "18%"
+  },
+  "sourceText": "Empty; default React component hint displayed",
+  "labels": [
+    "View source",
+    "View render"
+  ],
+  "unknown": [
+    "glyph grid/radius/algorithm",
+    "internal motion/compile timing",
+    "reuse license"
+  ],
+  "sourceCodeOpened": false
+}

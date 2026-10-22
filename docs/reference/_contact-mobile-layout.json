@@ -1,0 +1,74 @@
+{
+  "headings": [
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "Quick answers. "
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "01When are you available?"
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "02Do you work alone or with a team?"
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "03How do you price a project?"
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "04Do you only work in React?"
+    },
+    {
+      "line": "normal",
+      "size": "18px",
+      "text": "Footer"
+    }
+  ],
+  "scrollWidth": 390,
+  "sections": [
+    {
+      "class": "sh sh-sec shfm is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "pg-form sh-plate shfm-form",
+      "columns": "318px",
+      "padding": "18px 16px 20px",
+      "tag": "FORM",
+      "width": 350
+    },
+    {
+      "class": "sh sh-sec shfq is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shft is-ph is-bar",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "FOOTER",
+      "width": 390
+    }
+  ],
+  "size": [
+    390,
+    844
+  ]
+}

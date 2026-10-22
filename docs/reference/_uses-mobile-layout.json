@@ -1,0 +1,86 @@
+{
+  "headings": [
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "The desk, the editor and the rest. "
+    },
+    {
+      "line": "27.3px",
+      "size": "26px",
+      "text": "Hardware"
+    },
+    {
+      "line": "27.3px",
+      "size": "26px",
+      "text": "Editor"
+    },
+    {
+      "line": "27.3px",
+      "size": "26px",
+      "text": "Editor config"
+    },
+    {
+      "line": "27.3px",
+      "size": "26px",
+      "text": "Apps"
+    },
+    {
+      "line": "27.3px",
+      "size": "26px",
+      "text": "Desk"
+    },
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "line": "normal",
+      "size": "18px",
+      "text": "Footer"
+    }
+  ],
+  "scrollWidth": 390,
+  "sections": [
+    {
+      "class": "sh sh-sec shph is-none is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shus is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec sh-well shct is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "shct-form",
+      "columns": "350px",
+      "padding": "0px",
+      "tag": "FORM",
+      "width": 350
+    },
+    {
+      "class": "sh sh-sec shft is-ph is-bar",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "FOOTER",
+      "width": 390
+    }
+  ],
+  "size": [
+    390,
+    844
+  ]
+}

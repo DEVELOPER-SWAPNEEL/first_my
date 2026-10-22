@@ -1,0 +1,192 @@
+{
+  "cards": [
+    {
+      "height": 689.765625,
+      "position": "relative",
+      "width": 335
+    },
+    {
+      "height": 689.765625,
+      "position": "relative",
+      "width": 335
+    },
+    {
+      "height": 689.765625,
+      "position": "relative",
+      "width": 335
+    },
+    {
+      "height": 689.765625,
+      "position": "relative",
+      "width": 335
+    },
+    {
+      "height": 689.765625,
+      "position": "relative",
+      "width": 335
+    }
+  ],
+  "fonts": "loaded",
+  "images": [
+    {
+      "height": 460.1875,
+      "label": "Portrait: image pending, neutral placeholder",
+      "width": 375
+    },
+    {
+      "height": 198.125,
+      "label": "Project image 1: image pending, neutral placeholder",
+      "width": 317
+    },
+    {
+      "height": 198.125,
+      "label": "Project image 2: image pending, neutral placeholder",
+      "width": 317
+    },
+    {
+      "height": 198.125,
+      "label": "Project image 3: image pending, neutral placeholder",
+      "width": 317
+    },
+    {
+      "height": 198.125,
+      "label": "Project image 4: image pending, neutral placeholder",
+      "width": 317
+    },
+    {
+      "height": 198.125,
+      "label": "Project image 5: image pending, neutral placeholder",
+      "width": 317
+    },
+    {
+      "height": 325,
+      "label": "Desk image: image pending, neutral placeholder",
+      "width": 260
+    },
+    {
+      "height": 198.75,
+      "label": "Lab image 01: image pending, neutral placeholder",
+      "width": 318
+    },
+    {
+      "height": 198.75,
+      "label": "Lab image 02: image pending, neutral placeholder",
+      "width": 318
+    },
+    {
+      "height": 198.75,
+      "label": "Lab image 03: image pending, neutral placeholder",
+      "width": 318
+    },
+    {
+      "height": 198.75,
+      "label": "Lab image 04: image pending, neutral placeholder",
+      "width": 318
+    },
+    {
+      "height": 198.75,
+      "label": "Lab image 05: image pending, neutral placeholder",
+      "width": 318
+    },
+    {
+      "height": 198.75,
+      "label": "Lab image 06: image pending, neutral placeholder",
+      "width": 318
+    },
+    {
+      "height": 187.078125,
+      "label": "Featured article image: image pending, neutral placeholder",
+      "width": 333
+    }
+  ],
+  "landmarks": {
+    "h1": 1,
+    "main": 1
+  },
+  "overflow": false,
+  "robots": "noindex, nofollow",
+  "sections": [
+    {
+      "height": 880.25,
+      "id": "hero",
+      "top": 0,
+      "width": 375
+    },
+    {
+      "height": 253.5,
+      "id": "clients",
+      "top": 880.25,
+      "width": 375
+    },
+    {
+      "height": 4039.6875,
+      "id": "work",
+      "top": 1133.75,
+      "width": 375
+    },
+    {
+      "height": 1249.8125,
+      "id": "about",
+      "top": 5173.4375,
+      "width": 375
+    },
+    {
+      "height": 1501.265625,
+      "id": "scores",
+      "top": 6423.25,
+      "width": 375
+    },
+    {
+      "height": 1341.046875,
+      "id": "stack",
+      "top": 7924.515625,
+      "width": 375
+    },
+    {
+      "height": 1613.828125,
+      "id": "services",
+      "top": 9265.5625,
+      "width": 375
+    },
+    {
+      "height": 2338.296875,
+      "id": "career",
+      "top": 10879.390625,
+      "width": 375
+    },
+    {
+      "height": 952.90625,
+      "id": "lab",
+      "top": 13217.6875,
+      "width": 375
+    },
+    {
+      "height": 1648.640625,
+      "id": "reviews",
+      "top": 14170.59375,
+      "width": 375
+    },
+    {
+      "height": 1417.140625,
+      "id": "writing",
+      "top": 15819.234375,
+      "width": 375
+    },
+    {
+      "height": 1432.75,
+      "id": "faq",
+      "top": 17236.375,
+      "width": 375
+    },
+    {
+      "height": 1310.34375,
+      "id": "brief",
+      "top": 18669.125,
+      "width": 375
+    }
+  ],
+  "viewport": {
+    "height": 844,
+    "width": 375
+  }
+}

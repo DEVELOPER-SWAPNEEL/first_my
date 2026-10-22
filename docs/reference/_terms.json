@@ -1,0 +1,750 @@
+{
+  "controls": [
+    {
+      "expanded": "false",
+      "label": "Menu",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": "false",
+      "label": "Menu",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": "false",
+      "label": "Menu",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Skip",
+      "type": "button"
+    }
+  ],
+  "headings": [
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H1",
+      "text": "Terms of use. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "This website"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Code samples"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Project work"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Numbers in case studies"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Changes"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "41.16px",
+      "size": "42px",
+      "tag": "H1",
+      "text": "Terms of use. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "This website"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Code samples"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Project work"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Numbers in case studies"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Changes"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H1",
+      "text": "Terms of use. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "This website"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Code samples"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Project work"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Numbers in case studies"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Changes"
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "18px",
+      "tag": "H2",
+      "text": "Footer"
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "18px",
+      "tag": "H2",
+      "text": "Footer"
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "18px",
+      "tag": "H2",
+      "text": "Footer"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "Soren Hale"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "02Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "03About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "04Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "05Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Get in touch"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "Soren Hale"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "02Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "03About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "04Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "05Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Get in touch"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "Soren Hale"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "02Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "03About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "04Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "05Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Get in touch"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2eqlqlp-this-website",
+      "text": "01This website"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2eqlqlp-code-samples",
+      "text": "02Code samples"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2eqlqlp-project-work",
+      "text": "03Project work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2eqlqlp-numbers-in-case-studies",
+      "text": "04Numbers in case studies"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2eqlqlp-changes",
+      "text": "05Changes"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to me"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2eqlqlp-this-website",
+      "text": "01This website"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2eqlqlp-code-samples",
+      "text": "02Code samples"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2eqlqlp-project-work",
+      "text": "03Project work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2eqlqlp-numbers-in-case-studies",
+      "text": "04Numbers in case studies"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2eqlqlp-changes",
+      "text": "05Changes"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to me"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2mqlqlp-this-website",
+      "text": "01This website"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2mqlqlp-code-samples",
+      "text": "02Code samples"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2mqlqlp-project-work",
+      "text": "03Project work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2mqlqlp-numbers-in-case-studies",
+      "text": "04Numbers in case studies"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2mqlqlp-changes",
+      "text": "05Changes"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to me"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2mqlqlp-this-website",
+      "text": "01This website"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2mqlqlp-code-samples",
+      "text": "02Code samples"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2mqlqlp-project-work",
+      "text": "03Project work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2mqlqlp-numbers-in-case-studies",
+      "text": "04Numbers in case studies"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2mqlqlp-changes",
+      "text": "05Changes"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to me"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2uqlqlp-this-website",
+      "text": "01This website"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2uqlqlp-code-samples",
+      "text": "02Code samples"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2uqlqlp-project-work",
+      "text": "03Project work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2uqlqlp-numbers-in-case-studies",
+      "text": "04Numbers in case studies"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2uqlqlp-changes",
+      "text": "05Changes"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to me"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2uqlqlp-this-website",
+      "text": "01This website"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2uqlqlp-code-samples",
+      "text": "02Code samples"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2uqlqlp-project-work",
+      "text": "03Project work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2uqlqlp-numbers-in-case-studies",
+      "text": "04Numbers in case studies"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms#lgR2uqlqlp-changes",
+      "text": "05Changes"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to me"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to mehello@sorenhale.dev"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "Process"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/reviews",
+      "text": "Reviews"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "Stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/uses",
+      "text": "Uses"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/now",
+      "text": "Now"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "GitHub↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.linkedin.com/",
+      "text": "LinkedIn↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://bsky.app/",
+      "text": "Bluesky↗ (opens in a new tab)"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to mehello@sorenhale.dev"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "Process"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/reviews",
+      "text": "Reviews"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "Stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/uses",
+      "text": "Uses"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/now",
+      "text": "Now"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "GitHub↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.linkedin.com/",
+      "text": "LinkedIn↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://bsky.app/",
+      "text": "Bluesky↗ (opens in a new tab)"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to mehello@sorenhale.dev"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "Process"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/reviews",
+      "text": "Reviews"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "Stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/uses",
+      "text": "Uses"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/now",
+      "text": "Now"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "GitHub↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.linkedin.com/",
+      "text": "LinkedIn↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://bsky.app/",
+      "text": "Bluesky↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.framer.com/",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    }
+  ],
+  "size": [
+    1280,
+    720
+  ],
+  "text": "Skip to content\nSoren Hale\n01\nWork\n02\nServices\n03\nAbout\n04\nLab\n05\nWriting\nOpen to work from November\nGet in touch\n\n// The small print\n\nTerms of use. \n\nLast updated October 1, 2026\n\nThese are the terms for using this website. It is sample text: replace it with your own terms before you publish.\n\nThis website\n\nThe case studies, articles and pictures here are mine unless marked otherwise. You are welcome to quote a short passage with a link back. Please ask before you reuse more than that.\n\nCode samples\n\nCode shown in articles and in the lab is free to use in your own projects under the licence named on its page. It comes without a warranty.\n\nProject work\n\nPaid work is agreed in writing. Scope, price, dates and ownership are set out in the proposal you sign, and that proposal comes first if it differs from this page.\n\nNumbers in case studies\n\nResults are reported as measured at the time, on the devices and traffic described. They are not a promise for another product.\n\nChanges\n\nThese terms may change. The date at the top shows the latest version.\n\nOn this page\n\n01\nThis website\n02\nCode samples\n03\nProject work\n04\nNumbers in case studies\n05\nChanges\n\nOther documents\n\nPrivacy\nTerms\nCookies\n\nA question about this page? Write to me\n\nFooter\n\nFrontend developer, Oslo\n\nWrite to me\nhello@sorenhale.dev\n\nOpen to work from November\n\n// Site\n\nWork\nServices\nProcess\nReviews\nContact\n\n// About\n\nAbout\nResume\nStack\nUses\nNow\n\n// More\n\nLab\nWriting\nFAQ\nPrivacy\nTerms\nCookies\n\n// Elsewhere\n\nGitHub\n↗\n(opens in a new tab)\nLinkedIn\n↗\n(opens in a new tab)\nBluesky\n↗\n(opens in a new tab)\n\nLocal time, Oslo\n--:--\n\n© 2026 Soren Hale. Written by hand in Oslo.\n\nSorenHale\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+  "url": "https://wild-hours-611915.framer.app/terms"
+}

@@ -1,0 +1,18 @@
+
+> personal-website@0.1.0 test
+> node --experimental-strip-types --test scripts/content.test.ts
+
+✔ private and draft values cannot enter presentation even if approved (0.302334ms)
+✔ aspirations and learning cannot become verified profile facts (0.057917ms)
+✔ route registry matches the audited scope without extra proposed routes (1.960458ms)
+✔ homepage structural fixtures stay draft and only link to registered destinations (3.259208ms)
+✔ contact handoff fixes recipient and encodes user text only in the body (2.023083ms)
+✔ personalized work stays sanitized and cannot target fictional case pages (0.318666ms)
+ℹ tests 6
+ℹ suites 0
+ℹ pass 6
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 74.046584

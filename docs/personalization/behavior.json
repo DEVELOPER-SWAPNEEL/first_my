@@ -1,0 +1,130 @@
+[
+  {
+    "key": 0,
+    "panel": "Linux"
+  },
+  {
+    "key": 1,
+    "panel": "SSH"
+  },
+  {
+    "key": 2,
+    "panel": "Nginx"
+  },
+  {
+    "key": 3,
+    "panel": "systemd"
+  },
+  {
+    "key": 4,
+    "panel": "AWS"
+  },
+  {
+    "key": 5,
+    "panel": "Podman"
+  },
+  {
+    "key": 6,
+    "panel": "Docker"
+  },
+  {
+    "key": 7,
+    "panel": "Omada"
+  },
+  {
+    "key": 8,
+    "panel": "Prometheus"
+  },
+  {
+    "key": 9,
+    "panel": "Grafana"
+  },
+  {
+    "key": 10,
+    "panel": "Node Exporter"
+  },
+  {
+    "key": 11,
+    "panel": "Alertmanager"
+  },
+  {
+    "key": 12,
+    "panel": "FastAPI"
+  },
+  {
+    "key": 13,
+    "panel": "SQLite"
+  },
+  {
+    "key": 14,
+    "panel": "PostgreSQL"
+  },
+  {
+    "key": 15,
+    "panel": "Python"
+  },
+  {
+    "section": "services",
+    "i": 0,
+    "expanded": 0
+  },
+  {
+    "section": "services",
+    "i": 1,
+    "expanded": 1
+  },
+  {
+    "section": "services",
+    "i": 2,
+    "expanded": 1
+  },
+  {
+    "section": "services",
+    "i": 3,
+    "expanded": 1
+  },
+  {
+    "section": "faq",
+    "i": 0,
+    "expanded": 0
+  },
+  {
+    "section": "faq",
+    "i": 1,
+    "expanded": 1
+  },
+  {
+    "section": "faq",
+    "i": 2,
+    "expanded": 1
+  },
+  {
+    "section": "faq",
+    "i": 3,
+    "expanded": 1
+  },
+  {
+    "section": "faq",
+    "i": 4,
+    "expanded": 1
+  },
+  {
+    "section": "faq",
+    "i": 5,
+    "expanded": 1
+  },
+  {
+    "section": "faq",
+    "i": 6,
+    "expanded": 1
+  },
+  {
+    "section": "faq",
+    "i": 7,
+    "expanded": 1
+  },
+  {
+    "mailto": "mailto:rsnikupurohit17@gmail.com?subject=Website+enquiry&body=Hello+Swapneel%2C%0A%0AOpportunity%3A+Collaboration%0ATopic%3A+LaunchOps%0A%0AHello+%26+bcc%3Dnot-a-recipient%40example.test%0A%3Cscript%3Eliteral%3C%2Fscript%3E",
+    "summary": "export const draftBrief = {\n  opportunity: \"Collaboration\",\n  topic: \"LaunchOps\",\n  message: \"Hello & bcc=not-a-recipient@example.test\\n<script>literal</script>\"\n}"
+  }
+]

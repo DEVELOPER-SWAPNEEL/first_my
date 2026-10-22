@@ -1,0 +1,354 @@
+{
+  "controls": [
+    {
+      "expanded": "false",
+      "label": "Menu",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Frontend build",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Performance audit",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Design system",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Team embed",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Something else",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Under €5k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€5–10k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€10–25k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€25k+",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Not sure yet",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "INPUT",
+      "text": "",
+      "type": "text"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Continue to contact",
+      "type": "submit"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "headings": [
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H1",
+      "text": "Four ways to work together. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "42.24px",
+      "size": "42.24px",
+      "tag": "H2",
+      "text": "Frontend build"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "42.24px",
+      "size": "42.24px",
+      "tag": "H2",
+      "text": "Performance audit"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "42.24px",
+      "size": "42.24px",
+      "tag": "H2",
+      "text": "Design system"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "42.24px",
+      "size": "42.24px",
+      "tag": "H2",
+      "text": "Team embed"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "55.04px",
+      "size": "55.04px",
+      "tag": "H2",
+      "text": "Reviewed, then approved. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H2",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "18px",
+      "tag": "H2",
+      "text": "Footer"
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "height": 240,
+      "src": "https://framerusercontent.com/images/0YJi935knEI050Ruc62VxyDuo0.webp?scale-down-to=512",
+      "width": 239
+    },
+    {
+      "alt": "",
+      "height": 240,
+      "src": "https://framerusercontent.com/images/DYXYtVPtrLgBRHlGpf2spqT3I.webp?scale-down-to=512",
+      "width": 239
+    },
+    {
+      "alt": "",
+      "height": 240,
+      "src": "https://framerusercontent.com/images/bKCYb8caoOC39QRbQtLSgyq0UI.webp?scale-down-to=512",
+      "width": 240
+    },
+    {
+      "alt": "",
+      "height": 238,
+      "src": "https://framerusercontent.com/images/gyZ6MhO7dYUyZCRwueJtdqGy8.webp?scale-down-to=512",
+      "width": 240
+    },
+    {
+      "alt": "",
+      "height": 239,
+      "src": "https://framerusercontent.com/images/0UzWw70BfdCoQXVbRUtmsgId64s.webp?scale-down-to=512",
+      "width": 240
+    }
+  ],
+  "links": [
+    {
+      "href": "https://wild-hours-611915.framer.app/services#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "Soren Hale"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "02Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "03About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "04Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "05Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Get in touch"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "How a project runs"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services/frontend-build",
+      "text": "Frontend build"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services/performance-audit",
+      "text": "Performance audit"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services/design-system",
+      "text": "Design system"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services/team-embed",
+      "text": "Team embed"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=New%20project",
+      "text": "hello@sorenhale.dev"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to mehello@sorenhale.dev"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "Process"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/reviews",
+      "text": "Reviews"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "Stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/uses",
+      "text": "Uses"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/now",
+      "text": "Now"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "GitHub↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.linkedin.com/",
+      "text": "LinkedIn↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://bsky.app/",
+      "text": "Bluesky↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.framer.com/",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    }
+  ],
+  "size": [
+    1280,
+    720
+  ],
+  "text": "Skip to content\nSoren Hale\n01\nWork\n02\nServices\n03\nAbout\n04\nLab\n05\nWriting\nOpen to work from November\nGet in touch\n\n// Services\n\nFour ways to work together. \n\nEach one has a defined scope, a timeline and a price to start from. Open one for the steps, or send a brief and I will tell you which fits.\n\nHow a project runs\nservices\n4\nproject at a time\n1\nto a first reply\n1 day\n01\n4 to 8 weeks\nFrontend build\n\nYour product's interface, from the first component to the production deploy.\n\nIncludes\n\nArchitecture note before any code\nTyped component library\nTests on every critical flow\nA handover call and written docs\n\nPrice\nFrom €9,500\n\nSee the service\n02\n1 week\nPerformance audit\n\nA measured list of what is slow, why, and what each fix is worth.\n\nIncludes\n\nField and lab measurements\nRanked findings with numbers\nThree fixes as pull requests\nA budget your CI can enforce\n\nPrice\nFrom €3,200\n\nSee the service\n03\n6 to 10 weeks\nDesign system\n\nOne set of tokens and components your whole team actually uses.\n\nIncludes\n\nToken pipeline for code and Figma\nAccessible components with usage notes\nVisual and interaction tests\nMigration plan for existing screens\n\nPrice\nFrom €12,000\n\nSee the service\n04\n3 months minimum\nTeam embed\n\nA senior frontend developer inside your team, three days a week.\n\nIncludes\n\nThree fixed days a week\nCode review and pairing\nWeekly written update\nNo lock-in after month three\n\nPrice\nFrom €6,400 a month\n\nSee the service\n\n// Code review\n\nReviewed, then approved. \n\nThe people who merged the work, in their own words.\n\nreviews/clients.md\n5 of 5 approved\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\nIngrid Solvang\nVP Engineering · Northwind\nWe had been tuning the backend for a year. Soren found two seconds in the browser in his first week, and checkout conversion has not been below the old record since.\nApproved\nMarcus Oyelaran\nEngineering manager · Kestrel Pay\nHe writes the kind of pull request you learn from. Our juniors started copying his commit messages, then his tests, then his habit of measuring before arguing.\nApproved\nHana Takeda\nHead of design · Halden\nThe design system shipped on time, and more to the point, people use it. Soren spent as much effort on the teams as on the components.\nApproved\nJonas Lindqvist\nFounder · Loopdocs\nI gave him a vague brief and a hard date. I got a plan in two days, a working build every Friday and no surprises at the end.\nApproved\nAmara Nwosu\nProduct lead · Tidewater\nOur analysts stopped exporting data to look at it. A million points, sixty frames a second, and it still works with a keyboard.\nApproved\n\n// Start a project\n\nTell me what you are building. \n\nThree quick picks so the first reply is useful. You finish the message on the contact page.\n\n01\nWhat do you need?\n\nFrontend build\nPerformance audit\nDesign system\nTeam embed\nSomething else\n\n02\nRough budget\n\nUnder €5k\n€5–10k\n€10–25k\n€25k+\nNot sure yet\n03\nYour name or company\nbrief.ts\ndraft, not sent\nexport const brief = {\nkind: null // not picked yet,\nbudget: null // not picked yet,\nname: null // not picked yet,\n}\n\nBrief so far: nothing picked yet\n\nContinue to contact\n\nor write to hello@sorenhale.dev\n\nNothing is sent from this page. Your picks are kept in this browser tab and wait for you on the contact form.\n\nFooter\n\nFrontend developer, Oslo\n\nWrite to me\nhello@sorenhale.dev\n\nOpen to work from November\n\n// Site\n\nWork\nServices\nProcess\nReviews\nContact\n\n// About\n\nAbout\nResume\nStack\nUses\nNow\n\n// More\n\nLab\nWriting\nFAQ\nPrivacy\nTerms\nCookies\n\n// Elsewhere\n\nGitHub\n↗\n(opens in a new tab)\nLinkedIn\n↗\n(opens in a new tab)\nBluesky\n↗\n(opens in a new tab)\n\nLocal time, Oslo\n17:01 CEST\n\n© 2026 Soren Hale. Written by hand in Oslo.\n\nSorenHale\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.\n\nEdit Content",
+  "url": "https://wild-hours-611915.framer.app/services"
+}

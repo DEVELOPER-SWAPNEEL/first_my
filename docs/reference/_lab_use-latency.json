@@ -1,0 +1,379 @@
+{
+  "controls": [
+    {
+      "expanded": "false",
+      "label": "Menu",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Copy",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Copy",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Frontend build",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Performance audit",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Design system",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Team embed",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Something else",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Under €5k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€5–10k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€10–25k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€25k+",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Not sure yet",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "INPUT",
+      "text": "",
+      "type": "text"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Continue to contact",
+      "type": "submit"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "headings": [
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "62.72px",
+      "size": "64px",
+      "tag": "H1",
+      "text": "use-latency "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Usage"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "What you get"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Why it exists"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "40.96px",
+      "size": "40.96px",
+      "tag": "H2",
+      "text": "More from the lab. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H2",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "18px",
+      "tag": "H2",
+      "text": "Footer"
+    }
+  ],
+  "images": [
+    {
+      "alt": "City avenues at dusk seen from above",
+      "height": 299,
+      "src": "https://framerusercontent.com/images/pHOBF7LHy4BbDr36flWPxPYRixo.webp?scale-down-to=1024",
+      "width": 537
+    }
+  ],
+  "links": [
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/use-latency#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "Soren Hale"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "02Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "03About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "04Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "05Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Get in touch"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "~"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "View the repo"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/use-latency#ltR9r6lqlp-usage",
+      "text": "01Usage"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/use-latency#ltR9r6lqlp-what-you-get",
+      "text": "02What you get"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/use-latency#ltR9r6lqlp-why-it-exists",
+      "text": "03Why it exists"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "github.com"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/use-latency#ltR9r6lqlp-usage",
+      "text": "01Usage"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/use-latency#ltR9r6lqlp-what-you-get",
+      "text": "02What you get"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/use-latency#ltR9r6lqlp-why-it-exists",
+      "text": "03Why it exists"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "github.com"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "06Everything in the lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/glyphfield",
+      "text": "Experiment · 1,260 starsglyphfieldDraws any picture as source code on a canvas. It runs the portrait at the top of this site."
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/tinyflip",
+      "text": "Library · 890 starstinyflipLayout animations in 1.1 kB, using the FLIP technique and nothing else."
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/a11y-probe",
+      "text": "Tool · 640 starsa11y-probeA command line check that tabs through your page and tells you where focus got lost."
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=New%20project",
+      "text": "hello@sorenhale.dev"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to mehello@sorenhale.dev"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "Process"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/reviews",
+      "text": "Reviews"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "Stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/uses",
+      "text": "Uses"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/now",
+      "text": "Now"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "GitHub↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.linkedin.com/",
+      "text": "LinkedIn↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://bsky.app/",
+      "text": "Bluesky↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.framer.com/",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    }
+  ],
+  "size": [
+    1280,
+    720
+  ],
+  "text": "Skip to content\nSoren Hale\n01\nWork\n02\nServices\n03\nAbout\n04\nLab\n05\nWriting\nOpen to work from November\nGet in touch\n~\nLab\nuse-latency\n\n// Library\n\nuse-latency \n\nA React hook that measures how long every interaction really takes, in production.\n\nView the repo\nstars\n2,140\ndownloads\n48,200\nlicense\nMIT\nInstall\nCopy\nnpm install use-latency\n\n\nREADME.md\nMIT\n\nuse-latency is a 900 byte React hook around the Event Timing API. It tells you which interactions were slow for a real visitor, and which component was under their finger at the time.\n\nUsage\ntsx\nCopy\nimport { useLatency } from \"use-latency\"\n\n\n\nexport function App() {\n\n  useLatency({\n\n    over: 200,\n\n    report: (entry) => send(\"/vitals\", entry),\n\n  })\n\n  return <Routes />\n\n}\n\nWhat you get\nentry.duration in milliseconds, measured from input to the next paint\nentry.target as a short selector, and the nearest component name in development\nentry.kind: pointer, keyboard or drag\nWhy it exists\n\nIt started as a debugging script on a payments dashboard. Lab tools said the table was fine; the people using it said it was not. The hook proved them right in an afternoon.\n\nNo dependencies. It does nothing at all in browsers without the Event Timing API.\n\nIn this readme\n\n01\nUsage\n02\nWhat you get\n03\nWhy it exists\nKind\nLibrary\nLicense\nMIT\nRepository\ngithub.com\nMore from the lab. \n06\nEverything in the lab\nExperiment · 1,260 stars\nglyphfield\nDraws any picture as source code on a canvas. It runs the portrait at the top of this site.\nLibrary · 890 stars\ntinyflip\nLayout animations in 1.1 kB, using the FLIP technique and nothing else.\nTool · 640 stars\na11y-probe\nA command line check that tabs through your page and tells you where focus got lost.\n\n// Start a project\n\nTell me what you are building. \n\nThree quick picks so the first reply is useful. You finish the message on the contact page.\n\n01\nWhat do you need?\n\nFrontend build\nPerformance audit\nDesign system\nTeam embed\nSomething else\n\n02\nRough budget\n\nUnder €5k\n€5–10k\n€10–25k\n€25k+\nNot sure yet\n03\nYour name or company\nbrief.ts\ndraft, not sent\nexport const brief = {\nkind: null // not picked yet,\nbudget: null // not picked yet,\nname: null // not picked yet,\n}\n\nBrief so far: nothing picked yet\n\nContinue to contact\n\nor write to hello@sorenhale.dev\n\nNothing is sent from this page. Your picks are kept in this browser tab and wait for you on the contact form.\n\nFooter\n\nFrontend developer, Oslo\n\nWrite to me\nhello@sorenhale.dev\n\nOpen to work from November\n\n// Site\n\nWork\nServices\nProcess\nReviews\nContact\n\n// About\n\nAbout\nResume\nStack\nUses\nNow\n\n// More\n\nLab\nWriting\nFAQ\nPrivacy\nTerms\nCookies\n\n// Elsewhere\n\nGitHub\n↗\n(opens in a new tab)\nLinkedIn\n↗\n(opens in a new tab)\nBluesky\n↗\n(opens in a new tab)\n\nLocal time, Oslo\n17:01 CEST\n\n© 2026 Soren Hale. Written by hand in Oslo.\n\nSorenHale\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.\n\nEdit Content",
+  "url": "https://wild-hours-611915.framer.app/lab/use-latency"
+}

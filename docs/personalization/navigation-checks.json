@@ -1,0 +1,51 @@
+{
+  "trapped": true,
+  "focusReturn": "Menu",
+  "skip": "main",
+  "labStates": [
+    {
+      "nextEnabled": true,
+      "scroll": {
+        "left": 334,
+        "max": 1235
+      }
+    },
+    {
+      "nextEnabled": true,
+      "scroll": {
+        "left": 668,
+        "max": 1235
+      }
+    },
+    {
+      "nextEnabled": true,
+      "scroll": {
+        "left": 1002,
+        "max": 1235
+      }
+    },
+    {
+      "nextEnabled": false,
+      "scroll": {
+        "left": 1235,
+        "max": 1235
+      }
+    },
+    {
+      "nextEnabled": false,
+      "scroll": {
+        "left": 1235,
+        "max": 1235
+      }
+    },
+    {
+      "nextEnabled": false,
+      "scroll": {
+        "left": 1235,
+        "max": 1235
+      }
+    }
+  ],
+  "previousRestoresNext": true,
+  "console": []
+}

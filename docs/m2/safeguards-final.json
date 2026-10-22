@@ -1,0 +1,31 @@
+{
+  "briefDisabled": "brief-blocked",
+  "clippedWorkBodies": [],
+  "h1": 1,
+  "overflow": false,
+  "reduced": false,
+  "robots": "noindex, nofollow",
+  "scoreLinkColor": "rgb(6, 7, 8)",
+  "work": [
+    {
+      "position": "sticky",
+      "transform": "matrix(0.84, 0, 0, 0.84, 0, 0)"
+    },
+    {
+      "position": "sticky",
+      "transform": "matrix(0.88, 0, 0, 0.88, 0, 0)"
+    },
+    {
+      "position": "sticky",
+      "transform": "matrix(0.92, 0, 0, 0.92, 0, 0)"
+    },
+    {
+      "position": "sticky",
+      "transform": "matrix(0.96, 0, 0, 0.96, 0, 0)"
+    },
+    {
+      "position": "sticky",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "test": "stack pointer",
+    "panel": "Key 02 of 16 · Languages\n\nKey 02\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "test": "stack keyboard",
+    "panel": "Key 03 of 16 · Languages\n\nKey 03\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "test": "service one open",
+    "states": [
+      "false",
+      "true",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "test": "faq one open",
+    "states": [
+      "false",
+      "false",
+      "false",
+      "true",
+      "false",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "test": "brief local summary",
+    "code": "export const draftBrief = {\n  kind: \"Draft option B\",\n  range: \"Draft range C\",\n  label: \"<script>draft</script>\"\n}",
+    "disabled": true
+  }
+]

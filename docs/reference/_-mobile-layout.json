@@ -1,0 +1,331 @@
+{
+  "headings": [
+    {
+      "line": "36.66px",
+      "size": "36.66px",
+      "text": "Frontend developer shipping interfaces that feel instant. "
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "Five products, each one measured. "
+    },
+    {
+      "line": "33.54px",
+      "size": "33.54px",
+      "text": "Northwind Checkout"
+    },
+    {
+      "line": "33.54px",
+      "size": "33.54px",
+      "text": "Ledgerline Console"
+    },
+    {
+      "line": "33.54px",
+      "size": "33.54px",
+      "text": "Kestrel Pay Dashboard"
+    },
+    {
+      "line": "33.54px",
+      "size": "33.54px",
+      "text": "Tidewater Charts"
+    },
+    {
+      "line": "33.54px",
+      "size": "33.54px",
+      "text": "Halden Design System"
+    },
+    {
+      "line": "33.7896px",
+      "size": "29.64px",
+      "text": "I build product interfaces that feel instant and stay that way. Eight years in fintech and developer tools taught me that speed is a feature, accessibility is not optional, and the best code is the code the next person can read.I build product interfaces that feel instant and stay that way. Eight years in fintech and developer tools taught me that speed is a feature, accessibility is not optional, and the best code is the code the next person can read. "
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "Numbers, not adjectives. "
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "The keys I press every day. "
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "Four ways to put me to work. "
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "01Frontend buildYour product's interface, from the first component to the production deploy.From €9,500"
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "02Performance auditA measured list of what is slow, why, and what each fix is worth.From €3,200"
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "03Design systemOne set of tokens and components your whole team actually uses.From €12,000"
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "04Team embedA senior frontend developer inside your team, three days a week.From €6,400 a month"
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "Eight years, every one committed. "
+    },
+    {
+      "line": "24.84px",
+      "size": "23px",
+      "text": "Independent frontend developer"
+    },
+    {
+      "line": "24.84px",
+      "size": "23px",
+      "text": "Staff frontend engineer"
+    },
+    {
+      "line": "24.84px",
+      "size": "23px",
+      "text": "Senior frontend engineer"
+    },
+    {
+      "line": "24.84px",
+      "size": "23px",
+      "text": "Frontend engineer"
+    },
+    {
+      "line": "24.84px",
+      "size": "23px",
+      "text": "Frontend developer"
+    },
+    {
+      "line": "24.84px",
+      "size": "23px",
+      "text": "Junior web developer"
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "What I build when nobody asks. "
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "Reviewed, then approved. "
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "Notes from the build. "
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "Asked before the first call. "
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "01When are you available?"
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "02Do you work alone or with a team?"
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "03How do you price a project?"
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "04Do you only work in React?"
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "05Can you work without a finished design?"
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "06Will you work in our existing codebase?"
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "07What happens when the project ends?"
+    },
+    {
+      "line": "normal",
+      "size": "12px",
+      "text": "08Which hours do you work?"
+    },
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "line": "normal",
+      "size": "18px",
+      "text": "Footer"
+    }
+  ],
+  "scrollWidth": 390,
+  "sections": [
+    {
+      "class": "sh shh is-live is-in is-fine is-ph has-sfbar",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shmk is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shwk is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "shwk-card sh-plate",
+      "columns": "334px",
+      "padding": "8px",
+      "tag": "ARTICLE",
+      "width": 350
+    },
+    {
+      "class": "shwk-card sh-plate",
+      "columns": "334px",
+      "padding": "8px",
+      "tag": "ARTICLE",
+      "width": 350
+    },
+    {
+      "class": "shwk-card sh-plate",
+      "columns": "334px",
+      "padding": "8px",
+      "tag": "ARTICLE",
+      "width": 350
+    },
+    {
+      "class": "shwk-card sh-plate",
+      "columns": "334px",
+      "padding": "8px",
+      "tag": "ARTICLE",
+      "width": 350
+    },
+    {
+      "class": "shwk-card sh-plate",
+      "columns": "334px",
+      "padding": "8px",
+      "tag": "ARTICLE",
+      "width": 350
+    },
+    {
+      "class": "sh sh-sec shab is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec sh-lime shbn is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shst is-ph is-col",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shsv is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shlg is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shlb sh-well is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shrv is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shwr is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shfq is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec sh-well shct is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "shct-form",
+      "columns": "350px",
+      "padding": "0px",
+      "tag": "FORM",
+      "width": 350
+    },
+    {
+      "class": "sh sh-sec shft is-ph is-bar",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "FOOTER",
+      "width": 390
+    }
+  ],
+  "size": [
+    390,
+    844
+  ]
+}

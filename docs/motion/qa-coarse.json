@@ -1,0 +1,28 @@
+{
+  "mode": "coarse",
+  "viewport": [
+    1440,
+    900
+  ],
+  "requested": 30,
+  "executed": 30,
+  "cancelled": 0,
+  "pending": 0,
+  "callbackIntervals": {
+    "count": 17,
+    "p50": 13.5,
+    "p95": 240
+  },
+  "longTasks": [],
+  "layoutShifts": [
+    {
+      "value": 0.0007425874628090693,
+      "recentInput": false
+    }
+  ],
+  "activeAnimations": 4,
+  "hidden": false,
+  "cursor": null,
+  "portrait": "source",
+  "compileActive": 0
+}

@@ -1,0 +1,281 @@
+[
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "clock": "Bengaluru · 14:46 ISTUnpublished preview · Editorial copy under review",
+    "portrait": {
+      "height": 260,
+      "position": "72% 42%",
+      "src": "http://127.0.0.1:3000/_next/image?url=%2Fimages%2Fswapneel-portrait.webp&w=640&q=75",
+      "width": 390
+    },
+    "sections": [
+      {
+        "height": 890.84375,
+        "id": "hero",
+        "top": 0,
+        "width": 375
+      },
+      {
+        "height": 408,
+        "id": "clients",
+        "top": 890.84375,
+        "width": 375
+      },
+      {
+        "height": 4092.5,
+        "id": "work",
+        "top": 1298.84375,
+        "width": 375
+      },
+      {
+        "height": 1312.140625,
+        "id": "about",
+        "top": 5391.34375,
+        "width": 375
+      },
+      {
+        "height": 1441.328125,
+        "id": "scores",
+        "top": 6703.484375,
+        "width": 375
+      },
+      {
+        "height": 1354.8125,
+        "id": "stack",
+        "top": 8144.8125,
+        "width": 375
+      },
+      {
+        "height": 1736.421875,
+        "id": "services",
+        "top": 9499.625,
+        "width": 375
+      },
+      {
+        "height": 1585.75,
+        "id": "career",
+        "top": 11236.046875,
+        "width": 375
+      },
+      {
+        "height": 970.90625,
+        "id": "lab",
+        "top": 12821.796875,
+        "width": 375
+      },
+      {
+        "height": 1516.921875,
+        "id": "reviews",
+        "top": 13792.703125,
+        "width": 375
+      },
+      {
+        "height": 1417.140625,
+        "id": "writing",
+        "top": 15309.625,
+        "width": 375
+      },
+      {
+        "height": 1431.3125,
+        "id": "faq",
+        "top": 16726.765625,
+        "width": 375
+      },
+      {
+        "height": 1387.140625,
+        "id": "brief",
+        "top": 18158.078125,
+        "width": 375
+      }
+    ]
+  },
+  {
+    "size": {
+      "width": 810,
+      "height": 1080
+    },
+    "clock": "Bengaluru · 14:46 ISTUnpublished preview · Editorial copy under review",
+    "portrait": {
+      "height": 540,
+      "position": "72% 42%",
+      "src": "http://127.0.0.1:3000/_next/image?url=%2Fimages%2Fswapneel-portrait.webp&w=828&q=75",
+      "width": 809
+    },
+    "sections": [
+      {
+        "height": 950.578125,
+        "id": "hero",
+        "top": -18799,
+        "width": 795
+      },
+      {
+        "height": 299.5,
+        "id": "clients",
+        "top": -17848.421875,
+        "width": 795
+      },
+      {
+        "height": 4706.65625,
+        "id": "work",
+        "top": -17548.921875,
+        "width": 795
+      },
+      {
+        "height": 1148.8125,
+        "id": "about",
+        "top": -12842.265625,
+        "width": 795
+      },
+      {
+        "height": 1482.15625,
+        "id": "scores",
+        "top": -11693.453125,
+        "width": 795
+      },
+      {
+        "height": 1244.59375,
+        "id": "stack",
+        "top": -10211.296875,
+        "width": 795
+      },
+      {
+        "height": 1391.765625,
+        "id": "services",
+        "top": -8966.703125,
+        "width": 795
+      },
+      {
+        "height": 1252.6875,
+        "id": "career",
+        "top": -7574.9375,
+        "width": 795
+      },
+      {
+        "height": 875.234375,
+        "id": "lab",
+        "top": -6322.25,
+        "width": 795
+      },
+      {
+        "height": 1246.5,
+        "id": "reviews",
+        "top": -5447.015625,
+        "width": 795
+      },
+      {
+        "height": 1545.421875,
+        "id": "writing",
+        "top": -4200.515625,
+        "width": 795
+      },
+      {
+        "height": 1359.484375,
+        "id": "faq",
+        "top": -2655.09375,
+        "width": 795
+      },
+      {
+        "height": 1180.671875,
+        "id": "brief",
+        "top": -1295.609375,
+        "width": 795
+      }
+    ]
+  },
+  {
+    "size": {
+      "width": 1440,
+      "height": 900
+    },
+    "clock": "Bengaluru · 14:46 ISTUnpublished preview · Editorial copy under review",
+    "portrait": {
+      "height": 460,
+      "position": "72% 42%",
+      "src": "http://127.0.0.1:3000/_next/image?url=%2Fimages%2Fswapneel-portrait.webp&w=750&q=75",
+      "width": 691
+    },
+    "sections": [
+      {
+        "height": 900,
+        "id": "hero",
+        "top": -15422,
+        "width": 1425
+      },
+      {
+        "height": 187.1875,
+        "id": "clients",
+        "top": -14522,
+        "width": 1425
+      },
+      {
+        "height": 3806.984375,
+        "id": "work",
+        "top": -14334.8125,
+        "width": 1425
+      },
+      {
+        "height": 1003.578125,
+        "id": "about",
+        "top": -10527.828125,
+        "width": 1425
+      },
+      {
+        "height": 1086.921875,
+        "id": "scores",
+        "top": -9524.25,
+        "width": 1425
+      },
+      {
+        "height": 1019.984375,
+        "id": "stack",
+        "top": -8437.328125,
+        "width": 1425
+      },
+      {
+        "height": 1176.546875,
+        "id": "services",
+        "top": -7417.34375,
+        "width": 1425
+      },
+      {
+        "height": 1159.640625,
+        "id": "career",
+        "top": -6240.796875,
+        "width": 1425
+      },
+      {
+        "height": 977.578125,
+        "id": "lab",
+        "top": -5081.15625,
+        "width": 1425
+      },
+      {
+        "height": 1200.734375,
+        "id": "reviews",
+        "top": -4103.578125,
+        "width": 1425
+      },
+      {
+        "height": 1106.984375,
+        "id": "writing",
+        "top": -2902.84375,
+        "width": 1425
+      },
+      {
+        "height": 1019.375,
+        "id": "faq",
+        "top": -1795.859375,
+        "width": 1425
+      },
+      {
+        "height": 983.359375,
+        "id": "brief",
+        "top": -776.484375,
+        "width": 1425
+      }
+    ]
+  }
+]

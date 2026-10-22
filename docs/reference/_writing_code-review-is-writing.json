@@ -1,0 +1,363 @@
+{
+  "controls": [
+    {
+      "expanded": "false",
+      "label": "Menu",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Copy",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Frontend build",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Performance audit",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Design system",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Team embed",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Something else",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Under €5k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€5–10k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€10–25k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€25k+",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Not sure yet",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "INPUT",
+      "text": "",
+      "type": "text"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Continue to contact",
+      "type": "submit"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "headings": [
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "57.7024px",
+      "size": "58.88px",
+      "tag": "H1",
+      "text": "Code review is writing "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Say what you understood first"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Separate must from would"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Approve more than you block"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Review the description too"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H2",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "18px",
+      "tag": "H2",
+      "text": "Footer"
+    }
+  ],
+  "images": [
+    {
+      "alt": "An open notebook, loose pages and a pen on dark walnut",
+      "height": 0,
+      "src": "",
+      "width": 0
+    }
+  ],
+  "links": [
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/code-review-is-writing#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "Soren Hale"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "02Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "03About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "04Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "05Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Get in touch"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "~"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/code-review-is-writing#poR9r6lqlp-say-what-you-understood-first",
+      "text": "01Say what you understood first"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/code-review-is-writing#poR9r6lqlp-separate-must-from-would",
+      "text": "02Separate must from would"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/code-review-is-writing#poR9r6lqlp-approve-more-than-you-block",
+      "text": "03Approve more than you block"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/code-review-is-writing#poR9r6lqlp-review-the-description-too",
+      "text": "04Review the description too"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=Re%3A%20Code%20review%20is%20writing",
+      "text": "Write to me"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/code-review-is-writing#poR9r6lqlp-say-what-you-understood-first",
+      "text": "01Say what you understood first"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/code-review-is-writing#poR9r6lqlp-separate-must-from-would",
+      "text": "02Separate must from would"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/code-review-is-writing#poR9r6lqlp-approve-more-than-you-block",
+      "text": "03Approve more than you block"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/code-review-is-writing#poR9r6lqlp-review-the-description-too",
+      "text": "04Review the description too"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=Re%3A%20Code%20review%20is%20writing",
+      "text": "Write to me"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/server-components-after-a-year",
+      "text": "Next postReactServer components, a year inWhat moved to the server, what moved back, and the one rule that survived."
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=New%20project",
+      "text": "hello@sorenhale.dev"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to mehello@sorenhale.dev"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "Process"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/reviews",
+      "text": "Reviews"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "Stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/uses",
+      "text": "Uses"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/now",
+      "text": "Now"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "GitHub↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.linkedin.com/",
+      "text": "LinkedIn↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://bsky.app/",
+      "text": "Bluesky↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.framer.com/",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    }
+  ],
+  "size": [
+    1280,
+    720
+  ],
+  "text": "Skip to content\nSoren Hale\n01\nWork\n02\nServices\n03\nAbout\n04\nLab\n05\nWriting\nOpen to work from November\nGet in touch\n~\nWriting\nCode review is writing\n\n// Writing\n\nCode review is writing \n\nThe comment you leave is read by a person on a deadline. Write it for them.\n\nto read\n2 min\npublished\n2026-06-19\nfiled under\nCareer\n\nI have reviewed a few thousand pull requests. The ones that went well had very little to do with how right I was, and a lot to do with how the comment read to a person who was tired, on a deadline and proud of the work.\n\nSay what you understood first\n\nHalf of all review arguments are two people describing different code. One sentence at the top removes most of them: this moves the price calculation to the server and keeps the old path behind a flag. If that sentence is wrong, the author learns something important before I have criticised anything.\n\nSeparate must from would\n\nI mark every comment. It takes five characters and it changes the whole conversation.\n\nCopy\nmust:   this drops the aria-label, so the icon button has no name\n\nshould: the retry lives in three places now, worth one helper\n\nnit:    name could say what it returns\n\nask:    why a ref here and not state? I may be missing something\n\n\nA review with one must and six nit lines is an approval with homework. A review with seven unmarked comments reads as seven objections.\n\nApprove more than you block\nIf the change is safe and better than what was there, I approve and leave the comments.\nIf I would have done it differently but it works, I say so once and approve.\nI block for correctness, accessibility and anything that is expensive to undo.\nReview the description too\n\nThe pull request text is the only documentation most changes ever get. I ask for three things in it: what changed, how to see it, and what was deliberately left out. When the description is good I can review the idea first and the code second, which is the right order.\n\nA review is a small piece of writing with one reader. Treat it like one and most of the friction goes away. The juniors on my last team started copying the prefixes within a month, and review time fell by about a third.\n\nOn this page\n\n01\nSay what you understood first\n02\nSeparate must from would\n03\nApprove more than you block\n04\nReview the description too\n\nA thought on this post? Write to me\n\nNext post\nReact\nServer components, a year in\nWhat moved to the server, what moved back, and the one rule that survived.\n\n// Start a project\n\nTell me what you are building. \n\nThree quick picks so the first reply is useful. You finish the message on the contact page.\n\n01\nWhat do you need?\n\nFrontend build\nPerformance audit\nDesign system\nTeam embed\nSomething else\n\n02\nRough budget\n\nUnder €5k\n€5–10k\n€10–25k\n€25k+\nNot sure yet\n03\nYour name or company\nbrief.ts\ndraft, not sent\nexport const brief = {\nkind: null // not picked yet,\nbudget: null // not picked yet,\nname: null // not picked yet,\n}\n\nBrief so far: nothing picked yet\n\nContinue to contact\n\nor write to hello@sorenhale.dev\n\nNothing is sent from this page. Your picks are kept in this browser tab and wait for you on the contact form.\n\nFooter\n\nFrontend developer, Oslo\n\nWrite to me\nhello@sorenhale.dev\n\nOpen to work from November\n\n// Site\n\nWork\nServices\nProcess\nReviews\nContact\n\n// About\n\nAbout\nResume\nStack\nUses\nNow\n\n// More\n\nLab\nWriting\nFAQ\nPrivacy\nTerms\nCookies\n\n// Elsewhere\n\nGitHub\n↗\n(opens in a new tab)\nLinkedIn\n↗\n(opens in a new tab)\nBluesky\n↗\n(opens in a new tab)\n\nLocal time, Oslo\n17:01 CEST\n\n© 2026 Soren Hale. Written by hand in Oslo.\n\nSorenHale\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.\n\nEdit Content",
+  "url": "https://wild-hours-611915.framer.app/writing/code-review-is-writing"
+}

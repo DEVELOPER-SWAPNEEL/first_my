@@ -1,0 +1,207 @@
+[
+  {
+    "path": "/",
+    "url": "http://127.0.0.1:3000/",
+    "heading": "Home"
+  },
+  {
+    "path": "/work",
+    "url": "http://127.0.0.1:3000/work",
+    "heading": "Work"
+  },
+  {
+    "path": "/services",
+    "url": "http://127.0.0.1:3000/services",
+    "heading": "Services"
+  },
+  {
+    "path": "/about",
+    "url": "http://127.0.0.1:3000/about",
+    "heading": "About"
+  },
+  {
+    "path": "/lab",
+    "url": "http://127.0.0.1:3000/lab",
+    "heading": "Lab"
+  },
+  {
+    "path": "/writing",
+    "url": "http://127.0.0.1:3000/writing",
+    "heading": "Writing"
+  },
+  {
+    "path": "/contact",
+    "url": "http://127.0.0.1:3000/contact",
+    "heading": "Contact"
+  },
+  {
+    "path": "/resume",
+    "url": "http://127.0.0.1:3000/resume",
+    "heading": "Resume"
+  },
+  {
+    "path": "/work/northwind-checkout",
+    "url": "http://127.0.0.1:3000/work/northwind-checkout",
+    "heading": "Unfinished case 06"
+  },
+  {
+    "path": "/work/ledgerline-console",
+    "url": "http://127.0.0.1:3000/work/ledgerline-console",
+    "heading": "Unfinished case 04"
+  },
+  {
+    "path": "/work/kestrel-pay-dashboard",
+    "url": "http://127.0.0.1:3000/work/kestrel-pay-dashboard",
+    "heading": "Unfinished case 03"
+  },
+  {
+    "path": "/work/tidewater-charts",
+    "url": "http://127.0.0.1:3000/work/tidewater-charts",
+    "heading": "Unfinished case 08"
+  },
+  {
+    "path": "/work/halden-design-system",
+    "url": "http://127.0.0.1:3000/work/halden-design-system",
+    "heading": "Unfinished case 02"
+  },
+  {
+    "path": "/stack",
+    "url": "http://127.0.0.1:3000/stack",
+    "heading": "Stack"
+  },
+  {
+    "path": "/services/frontend-build",
+    "url": "http://127.0.0.1:3000/services/frontend-build",
+    "heading": "Unfinished service 02"
+  },
+  {
+    "path": "/services/performance-audit",
+    "url": "http://127.0.0.1:3000/services/performance-audit",
+    "heading": "Unfinished service 03"
+  },
+  {
+    "path": "/services/design-system",
+    "url": "http://127.0.0.1:3000/services/design-system",
+    "heading": "Unfinished service 01"
+  },
+  {
+    "path": "/services/team-embed",
+    "url": "http://127.0.0.1:3000/services/team-embed",
+    "heading": "Unfinished service 04"
+  },
+  {
+    "path": "/lab/use-latency",
+    "url": "http://127.0.0.1:3000/lab/use-latency",
+    "heading": "Unfinished lab entry 06"
+  },
+  {
+    "path": "/lab/glyphfield",
+    "url": "http://127.0.0.1:3000/lab/glyphfield",
+    "heading": "Unfinished lab entry 02"
+  },
+  {
+    "path": "/lab/tinyflip",
+    "url": "http://127.0.0.1:3000/lab/tinyflip",
+    "heading": "Unfinished lab entry 04"
+  },
+  {
+    "path": "/lab/a11y-probe",
+    "url": "http://127.0.0.1:3000/lab/a11y-probe",
+    "heading": "Unfinished lab entry 01"
+  },
+  {
+    "path": "/lab/tokens-to-css",
+    "url": "http://127.0.0.1:3000/lab/tokens-to-css",
+    "heading": "Unfinished lab entry 05"
+  },
+  {
+    "path": "/lab/shader-notes",
+    "url": "http://127.0.0.1:3000/lab/shader-notes",
+    "heading": "Unfinished lab entry 03"
+  },
+  {
+    "path": "/writing/the-last-hundred-milliseconds",
+    "url": "http://127.0.0.1:3000/writing/the-last-hundred-milliseconds",
+    "heading": "Unfinished article 05"
+  },
+  {
+    "path": "/writing/what-a-design-system-is-for",
+    "url": "http://127.0.0.1:3000/writing/what-a-design-system-is-for",
+    "heading": "Unfinished article 06"
+  },
+  {
+    "path": "/writing/an-inp-budget-you-can-keep",
+    "url": "http://127.0.0.1:3000/writing/an-inp-budget-you-can-keep",
+    "heading": "Unfinished article 01"
+  },
+  {
+    "path": "/writing/code-review-is-writing",
+    "url": "http://127.0.0.1:3000/writing/code-review-is-writing",
+    "heading": "Unfinished article 02"
+  },
+  {
+    "path": "/writing/server-components-after-a-year",
+    "url": "http://127.0.0.1:3000/writing/server-components-after-a-year",
+    "heading": "Unfinished article 04"
+  },
+  {
+    "path": "/process",
+    "url": "http://127.0.0.1:3000/process",
+    "heading": "Process"
+  },
+  {
+    "path": "/reviews",
+    "url": "http://127.0.0.1:3000/reviews",
+    "heading": "Reviews"
+  },
+  {
+    "path": "/uses",
+    "url": "http://127.0.0.1:3000/uses",
+    "heading": "Uses"
+  },
+  {
+    "path": "/now",
+    "url": "http://127.0.0.1:3000/now",
+    "heading": "Now"
+  },
+  {
+    "path": "/faq",
+    "url": "http://127.0.0.1:3000/faq",
+    "heading": "FAQ"
+  },
+  {
+    "path": "/privacy",
+    "url": "http://127.0.0.1:3000/privacy",
+    "heading": "Privacy"
+  },
+  {
+    "path": "/terms",
+    "url": "http://127.0.0.1:3000/terms",
+    "heading": "Terms"
+  },
+  {
+    "path": "/cookies",
+    "url": "http://127.0.0.1:3000/cookies",
+    "heading": "Cookies"
+  },
+  {
+    "path": "/work/brattvik-onboarding",
+    "url": "http://127.0.0.1:3000/work/brattvik-onboarding",
+    "heading": "Unfinished case 01"
+  },
+  {
+    "path": "/work/loopdocs",
+    "url": "http://127.0.0.1:3000/work/loopdocs",
+    "heading": "Unfinished case 05"
+  },
+  {
+    "path": "/work/parcelway-tracking",
+    "url": "http://127.0.0.1:3000/work/parcelway-tracking",
+    "heading": "Unfinished case 07"
+  },
+  {
+    "path": "/writing/estimates-that-hold",
+    "url": "http://127.0.0.1:3000/writing/estimates-that-hold",
+    "heading": "Unfinished article 03"
+  }
+]

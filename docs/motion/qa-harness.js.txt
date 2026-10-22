@@ -1,0 +1,63 @@
+/* Temporary local QA fixture. Not part of the application or final build. */
+(() => {
+  let mode = new URLSearchParams(location.search).get('motion-qa') || 'native';
+  const media = window.matchMedia.bind(window), records = new Map();
+  const raf = window.requestAnimationFrame.bind(window), caf = window.cancelAnimationFrame.bind(window);
+  let requested = 0, executed = 0, cancelled = 0;
+  const pending = new Set(), times = [], tasks = [], shifts = [];
+  window.requestAnimationFrame = callback => {
+    requested++;
+    let id = raf(time => { pending.delete(id); executed++; times.push(time); callback(time); });
+    pending.add(id); return id;
+  };
+  window.cancelAnimationFrame = id => { if (pending.delete(id)) cancelled++; caf(id); };
+  window.matchMedia = query => {
+    if (!/prefers-reduced-motion|hover|pointer/.test(query)) return media(query);
+    if (records.has(query)) return records.get(query);
+    const native = media(query), events = new EventTarget();
+    const proxy = { media:query, get matches() {
+      if (query.includes('prefers-reduced-motion')) return mode === 'reduce' ? query.includes(': reduce') : native.matches;
+      if (mode === 'coarse') return false;
+      return native.matches;
+    }, addEventListener:events.addEventListener.bind(events), removeEventListener:events.removeEventListener.bind(events), addListener:fn=>events.addEventListener('change',fn), removeListener:fn=>events.removeEventListener('change',fn), dispatchEvent:events.dispatchEvent.bind(events) };
+    native.addEventListener('change',()=>proxy.dispatchEvent(new Event('change')));
+    records.set(query,proxy); return proxy;
+  };
+  const animate = Element.prototype.animate;
+  Element.prototype.animate = function(...args) { if (mode === 'entrance-fail') throw Error('QA simulated animation initialization failure'); return animate.apply(this,args); };
+  const getContext = HTMLCanvasElement.prototype.getContext;
+  HTMLCanvasElement.prototype.getContext = function(...args) { if (mode === 'fail') throw Error('QA simulated canvas initialization failure'); return getContext.apply(this,args); };
+  const hidden = Object.getOwnPropertyDescriptor(Document.prototype,'hidden');
+  Object.defineProperty(document,'hidden',{configurable:true,get:()=>mode==='hidden'||hidden.get.call(document)});
+  try { new PerformanceObserver(list=>tasks.push(...list.getEntries().map(e=>({start:e.startTime,duration:e.duration})))).observe({type:'longtask',buffered:true}); } catch {}
+  try { new PerformanceObserver(list=>shifts.push(...list.getEntries().map(e=>({value:e.value,recentInput:e.hadRecentInput,sources:(e.sources||[]).map(s=>({node:s.node?.tagName,classes:s.node?.className,previous:s.previousRect.toJSON(),current:s.currentRect.toJSON()}))})))).observe({type:'layout-shift',buffered:true}); } catch {}
+  function styles() {
+    const rules=[];
+    const collect = sheet => { for(const rule of sheet.cssRules||[]) {
+      if(rule.conditionText?.includes('prefers-reduced-motion: reduce')) for(const child of rule.cssRules||[]) {
+        if(child.selectorText) rules.push(child.selectorText.split(',').map(s=>`:root[data-qa-reduce] ${s}`).join(',')+'{'+child.style.cssText+'}');
+      }
+    }};
+    for(const sheet of document.styleSheets) { try { collect(sheet); } catch {} }
+    const style=document.createElement('style'); style.textContent=rules.join('\n'); document.head.append(style);
+    document.documentElement.toggleAttribute('data-qa-reduce', mode==='reduce');
+  }
+  function snapshot() {
+    const intervals=times.slice(1).map((t,i)=>t-times[i]).filter(t=>t>0&&t<250).sort((a,b)=>a-b);
+    document.querySelector('#motion-qa-output').textContent=JSON.stringify({mode,viewport:[innerWidth,innerHeight],requested,executed,cancelled,pending:pending.size,callbackIntervals:{count:intervals.length,p50:intervals[Math.floor(intervals.length*.5)],p95:intervals[Math.floor(intervals.length*.95)]},longTasks:tasks,layoutShifts:shifts,activeAnimations:document.getAnimations().filter(a=>a.playState==='running').length,hidden:document.hidden,cursor:document.documentElement.dataset.cursorActive||null,portrait:document.querySelector('.portrait-source')?.dataset.sourceState,compileActive:document.querySelectorAll('[data-compiling]').length},null,2);
+  }
+  function change(next) {
+    mode=next; document.documentElement.toggleAttribute('data-qa-reduce', mode==='reduce');
+    records.forEach(m=>m.dispatchEvent(new Event('change')));
+    document.dispatchEvent(new Event('visibilitychange')); snapshot();
+  }
+  const init = () => {
+    styles();
+    const tools=document.createElement('aside'); tools.id='motion-qa-tools'; tools.setAttribute('data-native-cursor','');
+    tools.style.cssText='position:fixed;bottom:0;left:0;z-index:10000;background:#fff;color:#000;font:12px monospace;max-height:160px;overflow:auto;max-width:600px;padding:8px';
+    for(const name of ['native','reduce','coarse','hidden','fail']) { const b=document.createElement('button'); b.textContent='QA '+name; b.style.color='#000'; b.onclick=()=>change(name); tools.append(b); }
+    const b=document.createElement('button'); b.textContent='QA snapshot'; b.style.color='#000'; b.onclick=snapshot; tools.append(b);
+    const out=document.createElement('pre'); out.id='motion-qa-output'; tools.append(out); document.body.append(tools); snapshot();
+  };
+  if (document.readyState === 'loading') window.addEventListener('DOMContentLoaded',init); else init();
+})();

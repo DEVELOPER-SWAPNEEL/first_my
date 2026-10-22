@@ -1,0 +1,60 @@
+{
+  "headings": [
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "Terms of use. "
+    },
+    {
+      "line": "28.08px",
+      "size": "26px",
+      "text": "This website"
+    },
+    {
+      "line": "28.08px",
+      "size": "26px",
+      "text": "Code samples"
+    },
+    {
+      "line": "28.08px",
+      "size": "26px",
+      "text": "Project work"
+    },
+    {
+      "line": "28.08px",
+      "size": "26px",
+      "text": "Numbers in case studies"
+    },
+    {
+      "line": "28.08px",
+      "size": "26px",
+      "text": "Changes"
+    },
+    {
+      "line": "normal",
+      "size": "18px",
+      "text": "Footer"
+    }
+  ],
+  "scrollWidth": 390,
+  "sections": [
+    {
+      "class": "sh sh-sec shlg is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shft is-ph is-bar",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "FOOTER",
+      "width": 390
+    }
+  ],
+  "size": [
+    390,
+    844
+  ]
+}

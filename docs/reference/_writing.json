@@ -1,0 +1,374 @@
+{
+  "controls": [
+    {
+      "expanded": "false",
+      "label": "Menu",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "All6",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Performance2",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Tooling1",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Career2",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "React1",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Frontend build",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Performance audit",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Design system",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Team embed",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Something else",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Under €5k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€5–10k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€10–25k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€25k+",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Not sure yet",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "INPUT",
+      "text": "",
+      "type": "text"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Continue to contact",
+      "type": "submit"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "headings": [
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H1",
+      "text": "Notes on making the web fast. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "32.256px",
+      "size": "30.72px",
+      "tag": "H2",
+      "text": "The last hundred milliseconds"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "32.256px",
+      "size": "30.72px",
+      "tag": "H2",
+      "text": "What a design system is actually for"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "32.256px",
+      "size": "30.72px",
+      "tag": "H2",
+      "text": "An INP budget you can keep"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "32.256px",
+      "size": "30.72px",
+      "tag": "H2",
+      "text": "Code review is writing"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "32.256px",
+      "size": "30.72px",
+      "tag": "H2",
+      "text": "Server components, a year in"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "32.256px",
+      "size": "30.72px",
+      "tag": "H2",
+      "text": "Estimates that hold"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H2",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "18px",
+      "tag": "H2",
+      "text": "Footer"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "href": "https://wild-hours-611915.framer.app/writing#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "Soren Hale"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "02Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "03About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "04Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "05Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Get in touch"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/the-last-hundred-milliseconds",
+      "text": "Posted 2026-09-18The last hundred millisecondsGetting a page from fast to instant is a different job from getting it from slow to fast.Performance2 min read"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/what-a-design-system-is-for",
+      "text": "Posted 2026-08-27What a design system is actually forIt is not for consistency. It is for making the right thing the easy thing.Tooling2 min read"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/an-inp-budget-you-can-keep",
+      "text": "Posted 2026-07-30An INP budget you can keepHow I set an interaction budget with a team, and what we do on the day it breaks.Performance2 min read"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/code-review-is-writing",
+      "text": "Posted 2026-06-19Code review is writingThe comment you leave is read by a person on a deadline. Write it for them.Career2 min read"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/server-components-after-a-year",
+      "text": "Posted 2026-05-08Server components, a year inWhat moved to the server, what moved back, and the one rule that survived.React2 min read"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/estimates-that-hold",
+      "text": "Posted 2026-03-21Estimates that holdWhy I quote in ranges, what goes in the gap, and how often I have been wrong.Career2 min read"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=New%20project",
+      "text": "hello@sorenhale.dev"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to mehello@sorenhale.dev"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "Process"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/reviews",
+      "text": "Reviews"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "Stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/uses",
+      "text": "Uses"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/now",
+      "text": "Now"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "GitHub↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.linkedin.com/",
+      "text": "LinkedIn↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://bsky.app/",
+      "text": "Bluesky↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.framer.com/",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    }
+  ],
+  "size": [
+    1280,
+    720
+  ],
+  "text": "Skip to content\nSoren Hale\n01\nWork\n02\nServices\n03\nAbout\n04\nLab\n05\nWriting\nOpen to work from November\nGet in touch\n\n// Writing\n\nNotes on making the web fast. \n\nWritten after the project, with the numbers and the code. About one a month.\n\narticles\n6\na month, roughly\n1\nAll\n6\nPerformance\n2\nTooling\n1\nCareer\n2\nReact\n1\n\n// 6 posts\n\nPosted\n2026-09-18\nThe last hundred milliseconds\n\nGetting a page from fast to instant is a different job from getting it from slow to fast.\n\nPerformance\n2 min read\nPosted\n2026-08-27\nWhat a design system is actually for\n\nIt is not for consistency. It is for making the right thing the easy thing.\n\nTooling\n2 min read\nPosted\n2026-07-30\nAn INP budget you can keep\n\nHow I set an interaction budget with a team, and what we do on the day it breaks.\n\nPerformance\n2 min read\nPosted\n2026-06-19\nCode review is writing\n\nThe comment you leave is read by a person on a deadline. Write it for them.\n\nCareer\n2 min read\nPosted\n2026-05-08\nServer components, a year in\n\nWhat moved to the server, what moved back, and the one rule that survived.\n\nReact\n2 min read\nPosted\n2026-03-21\nEstimates that hold\n\nWhy I quote in ranges, what goes in the gap, and how often I have been wrong.\n\nCareer\n2 min read\n\n// Start a project\n\nTell me what you are building. \n\nThree quick picks so the first reply is useful. You finish the message on the contact page.\n\n01\nWhat do you need?\n\nFrontend build\nPerformance audit\nDesign system\nTeam embed\nSomething else\n\n02\nRough budget\n\nUnder €5k\n€5–10k\n€10–25k\n€25k+\nNot sure yet\n03\nYour name or company\nbrief.ts\ndraft, not sent\nexport const brief = {\nkind: null // not picked yet,\nbudget: null // not picked yet,\nname: null // not picked yet,\n}\n\nBrief so far: nothing picked yet\n\nContinue to contact\n\nor write to hello@sorenhale.dev\n\nNothing is sent from this page. Your picks are kept in this browser tab and wait for you on the contact form.\n\nFooter\n\nFrontend developer, Oslo\n\nWrite to me\nhello@sorenhale.dev\n\nOpen to work from November\n\n// Site\n\nWork\nServices\nProcess\nReviews\nContact\n\n// About\n\nAbout\nResume\nStack\nUses\nNow\n\n// More\n\nLab\nWriting\nFAQ\nPrivacy\nTerms\nCookies\n\n// Elsewhere\n\nGitHub\n↗\n(opens in a new tab)\nLinkedIn\n↗\n(opens in a new tab)\nBluesky\n↗\n(opens in a new tab)\n\nLocal time, Oslo\n17:01 CEST\n\n© 2026 Soren Hale. Written by hand in Oslo.\n\nSorenHale\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.\n\nEdit Content",
+  "url": "https://wild-hours-611915.framer.app/writing"
+}

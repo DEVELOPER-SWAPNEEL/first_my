@@ -1,0 +1,28 @@
+{
+  "mode": "reduce",
+  "viewport": [
+    1440,
+    900
+  ],
+  "requested": 22,
+  "executed": 22,
+  "cancelled": 0,
+  "pending": 0,
+  "callbackIntervals": {
+    "count": 13,
+    "p50": 13.5,
+    "p95": 240
+  },
+  "longTasks": [],
+  "layoutShifts": [
+    {
+      "value": 0.0007425874628090693,
+      "recentInput": false
+    }
+  ],
+  "activeAnimations": 0,
+  "hidden": false,
+  "cursor": null,
+  "portrait": "source",
+  "compileActive": 0
+}

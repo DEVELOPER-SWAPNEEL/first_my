@@ -1,0 +1,46 @@
+{
+  "scripts": [
+    {
+      "url": "/_next/static/chunks/2r4s4h5xul1n-.js",
+      "bytes": 28739,
+      "gzipBytes": 7613
+    },
+    {
+      "url": "/_next/static/chunks/0s7mvllxht1mo.js",
+      "bytes": 229597,
+      "gzipBytes": 71714
+    },
+    {
+      "url": "/_next/static/chunks/0rm4bmi_uaeqm.js",
+      "bytes": 168168,
+      "gzipBytes": 46079
+    },
+    {
+      "url": "/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+      "bytes": 10030,
+      "gzipBytes": 3946
+    },
+    {
+      "url": "/_next/static/chunks/33mb3neicd44-.js",
+      "bytes": 28484,
+      "gzipBytes": 8690
+    },
+    {
+      "url": "/_next/static/chunks/1xkr71kl5dwxn.js",
+      "bytes": 26843,
+      "gzipBytes": 9181
+    },
+    {
+      "url": "/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "bytes": 112594,
+      "gzipBytes": 39373
+    },
+    {
+      "url": "/_next/static/chunks/1ckvzn7sfprko.js",
+      "bytes": 5584,
+      "gzipBytes": 2021
+    }
+  ],
+  "totalBytes": 610039,
+  "totalGzipBytes": 188617
+}

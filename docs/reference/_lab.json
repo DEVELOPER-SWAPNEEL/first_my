@@ -1,0 +1,353 @@
+{
+  "controls": [
+    {
+      "expanded": "false",
+      "label": "Menu",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "All6",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Library2",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Experiment2",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Tool2",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Frontend build",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Performance audit",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Design system",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Team embed",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Something else",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Under €5k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€5–10k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€10–25k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€25k+",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Not sure yet",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "INPUT",
+      "text": "",
+      "type": "text"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Continue to contact",
+      "type": "submit"
+    }
+  ],
+  "headings": [
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H1",
+      "text": "Open source and experiments. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H2",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "18px",
+      "tag": "H2",
+      "text": "Footer"
+    }
+  ],
+  "images": [
+    {
+      "alt": "City avenues at dusk seen from above",
+      "height": 235,
+      "src": "https://framerusercontent.com/images/pHOBF7LHy4BbDr36flWPxPYRixo.webp?scale-down-to=512",
+      "width": 422
+    },
+    {
+      "alt": "Concrete letterforms in hard light, black and white",
+      "height": 263,
+      "src": "https://framerusercontent.com/images/pdpM5ZpkjW3FJZ62wHeZYKUF4.webp?scale-down-to=512",
+      "width": 422
+    },
+    {
+      "alt": "Dark navy satin with one streak of gold light",
+      "height": 235,
+      "src": "https://framerusercontent.com/images/OXEQQ8bdmGvOph7lbqliYervcNk.webp?scale-down-to=512",
+      "width": 422
+    },
+    {
+      "alt": "A grid of light and shadow on concrete",
+      "height": 263,
+      "src": "https://framerusercontent.com/images/1AehyHUZKh0JRaCcsVJqyNjCfk.webp?scale-down-to=512",
+      "width": 422
+    },
+    {
+      "alt": "A dark metal lattice grid on black stone",
+      "height": 191,
+      "src": "https://framerusercontent.com/images/AXiA433zY758QPQ734IwJYbDpps.webp?scale-down-to=512",
+      "width": 422
+    },
+    {
+      "alt": "Water beads on dark navy paint, close up",
+      "height": 264,
+      "src": "https://framerusercontent.com/images/xh7hi06SnOdBxKKmGI2XGTqKs.webp?scale-down-to=512",
+      "width": 422
+    }
+  ],
+  "links": [
+    {
+      "href": "https://wild-hours-611915.framer.app/lab#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "Soren Hale"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "02Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "03About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "04Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "05Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Get in touch"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/use-latency",
+      "text": "Libraryuse-latencyA React hook that measures how long every interaction really takes, in production.$npm install use-latency0stars0downloadsOpen"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/glyphfield",
+      "text": "ExperimentglyphfieldDraws any picture as source code on a canvas. It runs the portrait at the top of this site.$npm install glyphfield0stars0downloadsOpen"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/tinyflip",
+      "text": "LibrarytinyflipLayout animations in 1.1 kB, using the FLIP technique and nothing else.$npm install tinyflip0stars0downloadsOpen"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/a11y-probe",
+      "text": "Toola11y-probeA command line check that tabs through your page and tells you where focus got lost.$npx a11y-probe https://your-site.com0stars0downloadsOpen"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/tokens-to-css",
+      "text": "Tooltokens-to-cssTurns a design token file into typed CSS custom properties, with dark mode built in.$npm install -D tokens-to-css0stars0downloadsOpen"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/shader-notes",
+      "text": "Experimentshader-notesForty small WebGL sketches, each one under fifty lines and explained line by line.$npx degit sorenhale/shader-notes0starsOpen"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=New%20project",
+      "text": "hello@sorenhale.dev"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to mehello@sorenhale.dev"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "Process"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/reviews",
+      "text": "Reviews"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "Stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/uses",
+      "text": "Uses"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/now",
+      "text": "Now"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "GitHub↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.linkedin.com/",
+      "text": "LinkedIn↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://bsky.app/",
+      "text": "Bluesky↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.framer.com/",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    }
+  ],
+  "size": [
+    1280,
+    720
+  ],
+  "text": "Skip to content\nSoren Hale\n01\nWork\n02\nServices\n03\nAbout\n04\nLab\n05\nWriting\nOpen to work from November\nGet in touch\n\n// Lab\n\nOpen source and experiments. \n\nSmall tools that started as a script on a client project, and a few sketches I keep to stay honest about what I understand.\n\nprojects\n6\nstars\n5,660\ndownloads\n85,400\nAll\n6\nLibrary\n2\nExperiment\n2\nTool\n2\n\n06 projects\n\nLibrary\nuse-latency\nA React hook that measures how long every interaction really takes, in production.\n$\nnpm install use-latency\n0\nstars\n0\ndownloads\nOpen\nExperiment\nglyphfield\nDraws any picture as source code on a canvas. It runs the portrait at the top of this site.\n$\nnpm install glyphfield\n0\nstars\n0\ndownloads\nOpen\nLibrary\ntinyflip\nLayout animations in 1.1 kB, using the FLIP technique and nothing else.\n$\nnpm install tinyflip\n0\nstars\n0\ndownloads\nOpen\nTool\na11y-probe\nA command line check that tabs through your page and tells you where focus got lost.\n$\nnpx a11y-probe https://your-site.com\n0\nstars\n0\ndownloads\nOpen\nTool\ntokens-to-css\nTurns a design token file into typed CSS custom properties, with dark mode built in.\n$\nnpm install -D tokens-to-css\n0\nstars\n0\ndownloads\nOpen\nExperiment\nshader-notes\nForty small WebGL sketches, each one under fifty lines and explained line by line.\n$\nnpx degit sorenhale/shader-notes\n0\nstars\nOpen\n\n// Start a project\n\nTell me what you are building. \n\nThree quick picks so the first reply is useful. You finish the message on the contact page.\n\n01\nWhat do you need?\n\nFrontend build\nPerformance audit\nDesign system\nTeam embed\nSomething else\n\n02\nRough budget\n\nUnder €5k\n€5–10k\n€10–25k\n€25k+\nNot sure yet\n03\nYour name or company\nbrief.ts\ndraft, not sent\nexport const brief = {\nkind: null // not picked yet,\nbudget: null // not picked yet,\nname: null // not picked yet,\n}\n\nBrief so far: nothing picked yet\n\nContinue to contact\n\nor write to hello@sorenhale.dev\n\nNothing is sent from this page. Your picks are kept in this browser tab and wait for you on the contact form.\n\nFooter\n\nFrontend developer, Oslo\n\nWrite to me\nhello@sorenhale.dev\n\nOpen to work from November\n\n// Site\n\nWork\nServices\nProcess\nReviews\nContact\n\n// About\n\nAbout\nResume\nStack\nUses\nNow\n\n// More\n\nLab\nWriting\nFAQ\nPrivacy\nTerms\nCookies\n\n// Elsewhere\n\nGitHub\n↗\n(opens in a new tab)\nLinkedIn\n↗\n(opens in a new tab)\nBluesky\n↗\n(opens in a new tab)\n\nLocal time, Oslo\n17:01 CEST\n\n© 2026 Soren Hale. Written by hand in Oslo.\n\nSorenHale\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.",
+  "url": "https://wild-hours-611915.framer.app/lab"
+}

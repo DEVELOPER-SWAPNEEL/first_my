@@ -1,0 +1,65 @@
+[
+  {
+    "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+    "letter": "-0.6px",
+    "size": "20px",
+    "text": "Soren Hale",
+    "weight": "600"
+  },
+  {
+    "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+    "letter": "-0.54px",
+    "size": "73.3px",
+    "text": "Soren Hale",
+    "weight": "600"
+  },
+  {
+    "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+    "letter": "-0.6px",
+    "size": "20px",
+    "text": "Soren Hale",
+    "weight": "600"
+  },
+  {
+    "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+    "letter": "-1.404px",
+    "size": "31.2px",
+    "text": "Home",
+    "weight": "600"
+  },
+  {
+    "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+    "letter": "-1.404px",
+    "size": "31.2px",
+    "text": "Work",
+    "weight": "600"
+  },
+  {
+    "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+    "letter": "-1.404px",
+    "size": "31.2px",
+    "text": "Services",
+    "weight": "600"
+  },
+  {
+    "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+    "letter": "-1.404px",
+    "size": "31.2px",
+    "text": "About",
+    "weight": "600"
+  },
+  {
+    "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+    "letter": "-1.404px",
+    "size": "31.2px",
+    "text": "Lab",
+    "weight": "600"
+  },
+  {
+    "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+    "letter": "-1.404px",
+    "size": "31.2px",
+    "text": "Writing",
+    "weight": "600"
+  }
+]

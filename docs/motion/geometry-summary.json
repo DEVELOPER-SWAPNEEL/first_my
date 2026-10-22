@@ -1,0 +1,164 @@
+{
+  "390": [
+    {
+      "id": "hero",
+      "height": 890.84375
+    },
+    {
+      "id": "clients",
+      "height": 408
+    },
+    {
+      "id": "work",
+      "height": 4092.5
+    },
+    {
+      "id": "about",
+      "height": 1312.140625
+    },
+    {
+      "id": "scores",
+      "height": 1441.328125
+    },
+    {
+      "id": "stack",
+      "height": 1354.8125
+    },
+    {
+      "id": "services",
+      "height": 1736.421875
+    },
+    {
+      "id": "career",
+      "height": 1585.75
+    },
+    {
+      "id": "lab",
+      "height": 970.90625
+    },
+    {
+      "id": "reviews",
+      "height": 1516.921875
+    },
+    {
+      "id": "writing",
+      "height": 1417.140625
+    },
+    {
+      "id": "faq",
+      "height": 1431.3125
+    },
+    {
+      "id": "brief",
+      "height": 1387.140625
+    }
+  ],
+  "810": [
+    {
+      "id": "hero",
+      "height": 950.578125
+    },
+    {
+      "id": "clients",
+      "height": 299.5
+    },
+    {
+      "id": "work",
+      "height": 4706.65625
+    },
+    {
+      "id": "about",
+      "height": 1148.8125
+    },
+    {
+      "id": "scores",
+      "height": 1482.15625
+    },
+    {
+      "id": "stack",
+      "height": 1244.59375
+    },
+    {
+      "id": "services",
+      "height": 1391.765625
+    },
+    {
+      "id": "career",
+      "height": 1252.6875
+    },
+    {
+      "id": "lab",
+      "height": 875.234375
+    },
+    {
+      "id": "reviews",
+      "height": 1246.5
+    },
+    {
+      "id": "writing",
+      "height": 1545.421875
+    },
+    {
+      "id": "faq",
+      "height": 1359.484375
+    },
+    {
+      "id": "brief",
+      "height": 1180.671875
+    }
+  ],
+  "1440": [
+    {
+      "id": "hero",
+      "height": 900
+    },
+    {
+      "id": "clients",
+      "height": 187.1875
+    },
+    {
+      "id": "work",
+      "height": 3806.984375
+    },
+    {
+      "id": "about",
+      "height": 1003.578125
+    },
+    {
+      "id": "scores",
+      "height": 1086.921875
+    },
+    {
+      "id": "stack",
+      "height": 1019.984375
+    },
+    {
+      "id": "services",
+      "height": 1176.546875
+    },
+    {
+      "id": "career",
+      "height": 1159.640625
+    },
+    {
+      "id": "lab",
+      "height": 977.578125
+    },
+    {
+      "id": "reviews",
+      "height": 1200.734375
+    },
+    {
+      "id": "writing",
+      "height": 1106.984375
+    },
+    {
+      "id": "faq",
+      "height": 1019.375
+    },
+    {
+      "id": "brief",
+      "height": 983.359375
+    }
+  ]
+}

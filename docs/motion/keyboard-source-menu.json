@@ -1,0 +1,30 @@
+{
+  "390": {
+    "source": "true",
+    "state": "source",
+    "canvas": {
+      "h": 460,
+      "w": 375
+    },
+    "overflow": false,
+    "menuFocus": {
+      "cursor": null,
+      "inside": true
+    },
+    "focusReturn": "Menu"
+  },
+  "810": {
+    "source": "true",
+    "state": "source",
+    "canvas": {
+      "h": 560,
+      "w": 795
+    },
+    "overflow": false,
+    "menuFocus": {
+      "cursor": null,
+      "inside": true
+    },
+    "focusReturn": "Menu"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "390": [
+    {
+      "id": "hero",
+      "target": 0,
+      "actual": 0
+    },
+    {
+      "id": "clients",
+      "target": 890.84375,
+      "actual": 891
+    },
+    {
+      "id": "work",
+      "target": 1298.84375,
+      "actual": 1299
+    },
+    {
+      "id": "about",
+      "target": 5391.34375,
+      "actual": 5391
+    },
+    {
+      "id": "scores",
+      "target": 6703.484375,
+      "actual": 6704
+    },
+    {
+      "id": "stack",
+      "target": 8144.8125,
+      "actual": 8144
+    },
+    {
+      "id": "services",
+      "target": 9499.625,
+      "actual": 9500
+    },
+    {
+      "id": "career",
+      "target": 11236.046875,
+      "actual": 11236
+    },
+    {
+      "id": "lab",
+      "target": 12821.796875,
+      "actual": 12822
+    },
+    {
+      "id": "reviews",
+      "target": 13792.703125,
+      "actual": 13793
+    },
+    {
+      "id": "writing",
+      "target": 15309.625,
+      "actual": 15309
+    },
+    {
+      "id": "faq",
+      "target": 16726.765625,
+      "actual": 16727
+    },
+    {
+      "id": "brief",
+      "target": 18158.078125,
+      "actual": 18158
+    }
+  ],
+  "810": [
+    {
+      "id": "hero",
+      "target": 0,
+      "actual": 0
+    },
+    {
+      "id": "clients",
+      "target": 950.578125,
+      "actual": 951
+    },
+    {
+      "id": "work",
+      "target": 1250.078125,
+      "actual": 1250
+    },
+    {
+      "id": "about",
+      "target": 5956.734375,
+      "actual": 5956
+    },
+    {
+      "id": "scores",
+      "target": 7105.546875,
+      "actual": 7106
+    },
+    {
+      "id": "stack",
+      "target": 8587.703125,
+      "actual": 8588
+    },
+    {
+      "id": "services",
+      "target": 9832.296875,
+      "actual": 9832
+    },
+    {
+      "id": "career",
+      "target": 11224.0625,
+      "actual": 11224
+    },
+    {
+      "id": "lab",
+      "target": 12476.75,
+      "actual": 12477
+    },
+    {
+      "id": "reviews",
+      "target": 13351.984375,
+      "actual": 13352
+    },
+    {
+      "id": "writing",
+      "target": 14598.484375,
+      "actual": 14598
+    },
+    {
+      "id": "faq",
+      "target": 16143.90625,
+      "actual": 16144
+    },
+    {
+      "id": "brief",
+      "target": 17503.390625,
+      "actual": 17504
+    }
+  ],
+  "1440": [
+    {
+      "id": "hero",
+      "target": 0,
+      "actual": 0
+    },
+    {
+      "id": "clients",
+      "target": 900,
+      "actual": 900
+    },
+    {
+      "id": "work",
+      "target": 1087.1875,
+      "actual": 1087
+    },
+    {
+      "id": "about",
+      "target": 4894.171875,
+      "actual": 4894
+    },
+    {
+      "id": "scores",
+      "target": 5897.75,
+      "actual": 5898
+    },
+    {
+      "id": "stack",
+      "target": 6984.671875,
+      "actual": 6985
+    },
+    {
+      "id": "services",
+      "target": 8004.65625,
+      "actual": 8004
+    },
+    {
+      "id": "career",
+      "target": 9181.203125,
+      "actual": 9182
+    },
+    {
+      "id": "lab",
+      "target": 10340.84375,
+      "actual": 10340
+    },
+    {
+      "id": "reviews",
+      "target": 11318.421875,
+      "actual": 11319
+    },
+    {
+      "id": "writing",
+      "target": 12519.15625,
+      "actual": 12519
+    },
+    {
+      "id": "faq",
+      "target": 13626.140625,
+      "actual": 13626
+    },
+    {
+      "id": "brief",
+      "target": 14645.515625,
+      "actual": 14646
+    }
+  ]
+}

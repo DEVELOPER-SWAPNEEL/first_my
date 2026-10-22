@@ -1,0 +1,213 @@
+- banner:
+  - link "Skip to content":
+    - /url: "#main"
+  - link "Soren Hale, home":
+    - /url: /
+    - text: Soren Hale
+  - navigation "Main":
+    - list:
+      - link "Work":
+        - /url: /work
+        - generic: "01"
+        - text: Work
+      - link "Services":
+        - /url: /services
+        - generic: "02"
+        - text: Services
+      - link "About":
+        - /url: /about
+        - generic: "03"
+        - text: About
+      - link "Lab":
+        - /url: /lab
+        - generic: "04"
+        - text: Lab
+      - link "Writing":
+        - /url: /writing
+        - generic: "05"
+        - text: Writing
+  - generic: Open to work from November
+  - link "Get in touch":
+    - /url: /contact
+    - generic: Get in touch
+- paragraph: // Contact
+- heading "Tell me what you are building." [level=1]:
+  - generic: Tell
+  - generic: me
+  - generic: what
+  - generic: you
+  - generic: are
+  - generic: building.
+- paragraph: A few lines are enough to start. I read every message myself and reply with questions, a rough range and the first date I am free.
+- link "Email hello@sorenhale.dev":
+  - /url: mailto:hello@sorenhale.dev
+  - generic: Email
+  - generic: hello@sorenhale.dev
+- link "Phone +47 21 55 01 42":
+  - /url: tel:+4721550142
+  - generic: Phone
+  - generic: +47 21 55 01 42
+- generic: Based in
+- generic: Oslo
+- paragraph: Replies within one working day
+- form "Tell me what you are building.":
+  - generic: message.md
+  - generic: draft
+  - paragraph: "// Carried over from your picks: Frontend build · Under €5k"
+  - group "What do you need?":
+    - generic: "01"
+    - text: What do you need?
+    - button "Frontend build" [pressed]
+    - button "Performance audit"
+    - button "Design system"
+    - button "Team embed"
+    - button "Something else"
+  - group "Rough budget":
+    - generic: "02"
+    - text: Rough budget
+    - button "Under €5k" [pressed]
+    - button "€5–10k"
+    - button "€10–25k"
+    - button "€25k+"
+    - button "Not sure yet"
+  - text: Your name
+  - generic: "*"
+  - textbox "Your name":
+    - /placeholder: Ada Lindqvist
+  - text: Email
+  - generic: "*"
+  - textbox "Email":
+    - /placeholder: you@company.com
+  - text: Your message
+  - generic: "*"
+  - textbox "Your message":
+    - /placeholder: What it is, where it stands today, and when it should ship.
+  - button "Send the message":
+    - generic: Send the message
+  - paragraph: I use this to reply to you and for nothing else.
+- paragraph: // Before you write
+- heading "Quick answers." [level=2]:
+  - generic: Quick
+  - generic: answers.
+- paragraph: Something else?
+- paragraph: Replies within one working day
+- link "Ask by email":
+  - /url: mailto:hello@sorenhale.dev
+  - generic: Ask by email
+- list "Questions":
+  - heading "When are you available?" [level=3]:
+    - button "When are you available?":
+      - generic: "01"
+      - generic: When are you available?
+  - heading "Do you work alone or with a team?" [level=3]:
+    - button "Do you work alone or with a team?":
+      - generic: "02"
+      - generic: Do you work alone or with a team?
+  - heading "How do you price a project?" [level=3]:
+    - button "How do you price a project?":
+      - generic: "03"
+      - generic: How do you price a project?
+  - heading "Do you only work in React?" [level=3]:
+    - button "Do you only work in React?":
+      - generic: "04"
+      - generic: Do you only work in React?
+- contentinfo:
+  - heading "Footer" [level=2]
+  - paragraph: Frontend developer, Oslo
+  - 'link "Write to me: hello@sorenhale.dev"':
+    - /url: mailto:hello@sorenhale.dev
+    - generic: Write to me
+    - generic: hello@sorenhale.dev
+  - paragraph: Open to work from November
+  - navigation "Footer":
+    - paragraph: // Site
+    - list "Site":
+      - link "Work":
+        - /url: /work
+      - link "Services":
+        - /url: /services
+      - link "Process":
+        - /url: /process
+      - link "Reviews":
+        - /url: /reviews
+      - link "Contact":
+        - /url: /contact
+    - paragraph: // About
+    - list "About":
+      - link "About":
+        - /url: /about
+      - link "Resume":
+        - /url: /resume
+      - link "Stack":
+        - /url: /stack
+      - link "Uses":
+        - /url: /uses
+      - link "Now":
+        - /url: /now
+    - paragraph: // More
+    - list "More":
+      - link "Lab":
+        - /url: /lab
+      - link "Writing":
+        - /url: /writing
+      - link "FAQ":
+        - /url: /faq
+      - link "Privacy":
+        - /url: /privacy
+      - link "Terms":
+        - /url: /terms
+      - link "Cookies":
+        - /url: /cookies
+    - paragraph: // Elsewhere
+    - list "Elsewhere":
+      - link "GitHub (opens in a new tab)":
+        - /url: https://github.com/
+        - text: GitHub
+        - generic: ↗
+        - generic: (opens in a new tab)
+      - link "LinkedIn (opens in a new tab)":
+        - /url: https://www.linkedin.com/
+        - text: LinkedIn
+        - generic: ↗
+        - generic: (opens in a new tab)
+      - link "Bluesky (opens in a new tab)":
+        - /url: https://bsky.app/
+        - text: Bluesky
+        - generic: ↗
+        - generic: (opens in a new tab)
+  - paragraph:
+    - generic: Local time, Oslo
+    - time: 17:03
+    - emphasis: CEST
+  - paragraph: © 2026 Soren Hale. Written by hand in Oslo.
+  - paragraph:
+    - generic: S
+    - generic: o
+    - generic: r
+    - generic: e
+    - generic: "n"
+    - generic: H
+    - generic: a
+    - generic: l
+    - generic: e
+- link "Create a free website with Framer, the website builder loved by startups, designers and agencies.":
+  - /url: https://www.framer.com
+  - paragraph: Create a free website with Framer, the website builder loved by startups, designers and agencies.
+- generic "Edit Framer Content": Edit Content
+- button "Edit Framer Content":
+- iframe [id="__framer-editorbar"]
+- region "Get Soren Hale":
+  - button "Get template Free":
+    - generic: Get template
+    - generic: Get template
+    - generic: Free
+  - button "Get All-Access $199":
+    - generic: Get All-Access
+    - generic: Get All-Access
+    - generic: $199
+  - link "Customization from $79":
+    - /url: https://solofoundryhq.com/customization.html?utm_source=demo&utm_medium=demo_bar&utm_campaign=soren-hale&utm_content=cust
+    - generic: Customization
+    - generic: Customization
+    - generic: from $79
+  - button "Hide these buttons": ×

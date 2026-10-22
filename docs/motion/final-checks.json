@@ -1,0 +1,71 @@
+[
+  {
+    "compiled": 0,
+    "h": 844,
+    "overflow": false,
+    "qa": false,
+    "sections": [
+      "hero",
+      "clients",
+      "work",
+      "about",
+      "scores",
+      "stack",
+      "services",
+      "career",
+      "lab",
+      "reviews",
+      "writing",
+      "faq",
+      "brief"
+    ],
+    "smallButtons": [],
+    "w": 390
+  },
+  {
+    "compiled": 0,
+    "h": 1080,
+    "overflow": false,
+    "qa": false,
+    "sections": [
+      "hero",
+      "clients",
+      "work",
+      "about",
+      "scores",
+      "stack",
+      "services",
+      "career",
+      "lab",
+      "reviews",
+      "writing",
+      "faq",
+      "brief"
+    ],
+    "smallButtons": [],
+    "w": 810
+  },
+  {
+    "compiled": 0,
+    "h": 900,
+    "overflow": false,
+    "qa": false,
+    "sections": [
+      "hero",
+      "clients",
+      "work",
+      "about",
+      "scores",
+      "stack",
+      "services",
+      "career",
+      "lab",
+      "reviews",
+      "writing",
+      "faq",
+      "brief"
+    ],
+    "smallButtons": [],
+    "w": 1440
+  }
+]

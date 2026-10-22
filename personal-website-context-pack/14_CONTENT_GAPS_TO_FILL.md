@@ -1,0 +1,151 @@
+# CONTENT GAPS TO FILL
+
+## Purpose
+
+These facts were not sufficiently verified in the available project context and must not be invented by Codex.
+
+Fill this file before final public launch.
+
+## Personal identity
+
+```text
+FULL PUBLIC NAME:
+PREFERRED DISPLAY NAME:
+PRONUNCIATION (optional):
+PUBLIC LOCATION:
+PUBLIC EMAIL:
+PROFILE PHOTO:
+```
+
+## Professional links
+
+```text
+GITHUB:
+LINKEDIN:
+YOUTUBE (optional):
+X / OTHER (optional):
+CURRENT DOMAIN:
+```
+
+## Current role
+
+```text
+CURRENT COMPANY / PUBLIC COMPANY NAME:
+OFFICIAL TITLE:
+PREFERRED ACCURATE PUBLIC TITLE:
+EMPLOYMENT TYPE:
+START DATE:
+LOCATION / REMOTE STATUS:
+ONE-PARAGRAPH ROLE SUMMARY:
+```
+
+## Education
+
+```text
+INSTITUTION:
+DEGREE:
+FIELD / BRANCH:
+START YEAR:
+END YEAR / EXPECTED END:
+GPA / PERCENTAGE (only if desired):
+RELEVANT ACTIVITIES:
+```
+
+## Resume
+
+```text
+LATEST RESUME FILE:
+RESUME LAST UPDATED:
+PUBLIC DOWNLOAD ALLOWED: YES / NO
+```
+
+## Achievements
+
+For each:
+
+```text
+TITLE:
+ISSUER / ORGANIZATION:
+DATE:
+WHY IT MATTERS:
+PUBLIC PROOF URL:
+```
+
+Do not list an achievement without evidence or direct confirmation.
+
+## Certifications
+
+```text
+CERTIFICATION:
+ISSUER:
+DATE:
+CREDENTIAL URL:
+STATUS:
+```
+
+## Featured projects
+
+For each candidate:
+
+```text
+PROJECT NAME:
+PUBLIC OR SANITIZED:
+MY EXACT CONTRIBUTION:
+PROBLEM:
+CONSTRAINTS:
+ARCHITECTURE:
+TECHNOLOGIES:
+MOST DIFFICULT PART:
+FAILURE / INCIDENT:
+RESULT:
+HOW RESULT WAS VERIFIED:
+WHAT I LEARNED:
+PUBLIC CODE:
+PUBLIC DEMO:
+SAFE SCREENSHOTS / DIAGRAMS:
+```
+
+## Blog seed list
+
+Write 5 article titles based on real work.
+
+```text
+1.
+2.
+3.
+4.
+5.
+```
+
+## Personal story
+
+Optional but useful:
+
+```text
+WHY INFRASTRUCTURE / SYSTEMS INTERESTS ME:
+WHAT KIND OF PROBLEMS I ENJOY:
+WHAT I WANT TO BECOME KNOWN FOR:
+WHAT I AM CURRENTLY TRYING TO GET BETTER AT:
+WHAT I DO OUTSIDE ENGINEERING (only if public):
+```
+
+## Visual preferences
+
+```text
+PRIMARY COLOR DIRECTION:
+PORTRAIT STYLE:
+LIGHT / DARK / MIXED:
+SITES I LOVE:
+SITES I DISLIKE:
+MOTION REFERENCES:
+```
+
+## Contact preferences
+
+```text
+PUBLIC EMAIL:
+CONTACT FORM: YES / NO
+RECRUITER CONTACT WELCOME: YES / NO
+FREELANCE / CONSULTING WELCOME: YES / NO
+COLLABORATION WELCOME: YES / NO
+```

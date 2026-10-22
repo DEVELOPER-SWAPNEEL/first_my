@@ -1,0 +1,84 @@
+{
+  "mode": "native",
+  "viewport": [
+    1440,
+    900
+  ],
+  "requested": 141,
+  "executed": 140,
+  "cancelled": 1,
+  "pending": 0,
+  "callbackIntervals": {
+    "count": 92,
+    "p50": 13.300000000000182,
+    "p95": 14.200000000000273
+  },
+  "longTasks": [],
+  "layoutShifts": [
+    {
+      "value": 0.0007425874628090693,
+      "recentInput": false,
+      "sources": [
+        {
+          "node": "ASIDE",
+          "classes": "",
+          "previous": {
+            "x": 0,
+            "y": 725,
+            "width": 517.1875,
+            "height": 160,
+            "top": 725,
+            "right": 517.1875,
+            "bottom": 885,
+            "left": 0
+          },
+          "current": {
+            "x": 0,
+            "y": 740,
+            "width": 517.1875,
+            "height": 160,
+            "top": 740,
+            "right": 517.1875,
+            "bottom": 900,
+            "left": 0
+          }
+        }
+      ]
+    },
+    {
+      "value": 8.437467938852981e-7,
+      "recentInput": true,
+      "sources": [
+        {
+          "node": "::after",
+          "classes": "",
+          "previous": {
+            "x": 0,
+            "y": 85,
+            "width": 256.91583251953125,
+            "height": 1,
+            "top": 85,
+            "right": 256.91583251953125,
+            "bottom": 86,
+            "left": 0
+          },
+          "current": {
+            "x": 0,
+            "y": 82,
+            "width": 256.91583251953125,
+            "height": 1,
+            "top": 82,
+            "right": 256.91583251953125,
+            "bottom": 83,
+            "left": 0
+          }
+        }
+      ]
+    }
+  ],
+  "activeAnimations": 0,
+  "hidden": false,
+  "cursor": null,
+  "portrait": "render",
+  "compileActive": 0
+}

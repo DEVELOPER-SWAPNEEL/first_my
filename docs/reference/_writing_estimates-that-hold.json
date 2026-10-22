@@ -1,0 +1,363 @@
+{
+  "controls": [
+    {
+      "expanded": "false",
+      "label": "Menu",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Copy",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Frontend build",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Performance audit",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Design system",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Team embed",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Something else",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Under €5k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€5–10k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€10–25k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€25k+",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Not sure yet",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "INPUT",
+      "text": "",
+      "type": "text"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Continue to contact",
+      "type": "submit"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "headings": [
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "57.7024px",
+      "size": "58.88px",
+      "tag": "H1",
+      "text": "Estimates that hold "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Ranges, not numbers"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Name the unknowns"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Ship in week one"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "What the spreadsheet says now"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H2",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "18px",
+      "tag": "H2",
+      "text": "Footer"
+    }
+  ],
+  "images": [
+    {
+      "alt": "A folder, a pen and a magnifying glass under a brass lamp",
+      "height": 0,
+      "src": "",
+      "width": 0
+    }
+  ],
+  "links": [
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/estimates-that-hold#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "Soren Hale"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "02Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "03About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "04Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "05Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Get in touch"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "~"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/estimates-that-hold#poR9r6lqlp-ranges-not-numbers",
+      "text": "01Ranges, not numbers"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/estimates-that-hold#poR9r6lqlp-name-the-unknowns",
+      "text": "02Name the unknowns"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/estimates-that-hold#poR9r6lqlp-ship-in-week-one",
+      "text": "03Ship in week one"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/estimates-that-hold#poR9r6lqlp-what-the-spreadsheet-says-now",
+      "text": "04What the spreadsheet says now"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=Re%3A%20Estimates%20that%20hold",
+      "text": "Write to me"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/estimates-that-hold#poR9r6lqlp-ranges-not-numbers",
+      "text": "01Ranges, not numbers"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/estimates-that-hold#poR9r6lqlp-name-the-unknowns",
+      "text": "02Name the unknowns"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/estimates-that-hold#poR9r6lqlp-ship-in-week-one",
+      "text": "03Ship in week one"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/estimates-that-hold#poR9r6lqlp-what-the-spreadsheet-says-now",
+      "text": "04What the spreadsheet says now"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=Re%3A%20Estimates%20that%20hold",
+      "text": "Write to me"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/the-last-hundred-milliseconds",
+      "text": "Next postPerformanceThe last hundred millisecondsGetting a page from fast to instant is a different job from getting it from slow to fast."
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=New%20project",
+      "text": "hello@sorenhale.dev"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to mehello@sorenhale.dev"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "Process"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/reviews",
+      "text": "Reviews"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "Stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/uses",
+      "text": "Uses"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/now",
+      "text": "Now"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "GitHub↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.linkedin.com/",
+      "text": "LinkedIn↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://bsky.app/",
+      "text": "Bluesky↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.framer.com/",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    }
+  ],
+  "size": [
+    1280,
+    720
+  ],
+  "text": "Skip to content\nSoren Hale\n01\nWork\n02\nServices\n03\nAbout\n04\nLab\n05\nWriting\nOpen to work from November\nGet in touch\n~\nWriting\nEstimates that hold\n\n// Writing\n\nEstimates that hold \n\nWhy I quote in ranges, what goes in the gap, and how often I have been wrong.\n\nto read\n2 min\npublished\n2026-03-21\nfiled under\nCareer\n\nI have kept a spreadsheet of every estimate I have given since 2019, next to what the work really took. Sixty three rows. On average I was 22% under. I have not been under since I changed three things.\n\nRanges, not numbers\n\nFour to six weeks tells a client what I know and what I do not. Five weeks only pretends. The width of the range is information: a narrow one means I have built this before, a wide one means we should spend two days finding out before anyone signs.\n\nName the unknowns\n\nEvery quote lists the two or three things that could move it. If one of them happens, nobody is surprised, and the conversation is about the thing rather than about me.\n\nCopy\nCheckout rebuild        4 to 6 weeks\n\n\n\nMoves the range:\n\n  - the payment provider's sandbox is as slow as last time   +1 week\n\n  - address lookup needs a second supplier for two countries +3 days\n\n  - design for the error states arrives after week 2         +1 week\n\n\nClients read that block more carefully than anything else I send.\n\nShip in week one\n\nSomething real, deployed, however small. It is the cheapest way to find out what the estimate missed: the build takes nine minutes, the staging data is two years old, the login needs a ticket to another team.\n\nWhat the spreadsheet says now\nWork I had done before: within 10% every time.\nWork with one unknown: the top of the range, almost always.\nWork with three unknowns: I should have sold a discovery week instead.\n\nThe last line is the one that changed my business. A paid week of finding out is easier to sell than it sounds, and it has never once made the real quote larger than the guess would have been wrong.\n\nOn this page\n\n01\nRanges, not numbers\n02\nName the unknowns\n03\nShip in week one\n04\nWhat the spreadsheet says now\n\nA thought on this post? Write to me\n\nNext post\nPerformance\nThe last hundred milliseconds\nGetting a page from fast to instant is a different job from getting it from slow to fast.\n\n// Start a project\n\nTell me what you are building. \n\nThree quick picks so the first reply is useful. You finish the message on the contact page.\n\n01\nWhat do you need?\n\nFrontend build\nPerformance audit\nDesign system\nTeam embed\nSomething else\n\n02\nRough budget\n\nUnder €5k\n€5–10k\n€10–25k\n€25k+\nNot sure yet\n03\nYour name or company\nbrief.ts\ndraft, not sent\nexport const brief = {\nkind: null // not picked yet,\nbudget: null // not picked yet,\nname: null // not picked yet,\n}\n\nBrief so far: nothing picked yet\n\nContinue to contact\n\nor write to hello@sorenhale.dev\n\nNothing is sent from this page. Your picks are kept in this browser tab and wait for you on the contact form.\n\nFooter\n\nFrontend developer, Oslo\n\nWrite to me\nhello@sorenhale.dev\n\nOpen to work from November\n\n// Site\n\nWork\nServices\nProcess\nReviews\nContact\n\n// About\n\nAbout\nResume\nStack\nUses\nNow\n\n// More\n\nLab\nWriting\nFAQ\nPrivacy\nTerms\nCookies\n\n// Elsewhere\n\nGitHub\n↗\n(opens in a new tab)\nLinkedIn\n↗\n(opens in a new tab)\nBluesky\n↗\n(opens in a new tab)\n\nLocal time, Oslo\n17:02 CEST\n\n© 2026 Soren Hale. Written by hand in Oslo.\n\nSorenHale\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.\n\nEdit Content",
+  "url": "https://wild-hours-611915.framer.app/writing/estimates-that-hold"
+}

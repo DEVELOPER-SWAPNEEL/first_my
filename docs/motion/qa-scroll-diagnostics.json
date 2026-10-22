@@ -1,0 +1,32 @@
+{
+  "mode": "native",
+  "viewport": [
+    1440,
+    900
+  ],
+  "requested": 116,
+  "executed": 114,
+  "cancelled": 0,
+  "pending": 2,
+  "callbackIntervals": {
+    "count": 61,
+    "p50": 13.39999999999418,
+    "p95": 27.5
+  },
+  "longTasks": [],
+  "layoutShifts": [
+    {
+      "value": 0.0007425874628090693,
+      "recentInput": false
+    },
+    {
+      "value": 8.10916179337232e-7,
+      "recentInput": true
+    }
+  ],
+  "activeAnimations": 6,
+  "hidden": false,
+  "cursor": null,
+  "portrait": "source",
+  "compileActive": 2
+}

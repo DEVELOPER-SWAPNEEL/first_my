@@ -1,0 +1,369 @@
+{
+  "controls": [
+    {
+      "expanded": "false",
+      "label": "Menu",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Download CV",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Print",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Frontend build",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Performance audit",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Design system",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Team embed",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Something else",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Under €5k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€5–10k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€10–25k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€25k+",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Not sure yet",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "INPUT",
+      "text": "",
+      "type": "text"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Continue to contact",
+      "type": "submit"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "headings": [
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H1",
+      "text": "Soren Hale "
+    },
+    {
+      "font": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "line": "18.2px",
+      "size": "13px",
+      "tag": "H2",
+      "text": "// Experience"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "25.024px",
+      "size": "21.76px",
+      "tag": "H3",
+      "text": "Independent frontend developer"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "25.024px",
+      "size": "21.76px",
+      "tag": "H3",
+      "text": "Staff frontend engineer"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "25.024px",
+      "size": "21.76px",
+      "tag": "H3",
+      "text": "Senior frontend engineer"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "25.024px",
+      "size": "21.76px",
+      "tag": "H3",
+      "text": "Frontend engineer"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "25.024px",
+      "size": "21.76px",
+      "tag": "H3",
+      "text": "Frontend developer"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "25.024px",
+      "size": "21.76px",
+      "tag": "H3",
+      "text": "Junior web developer"
+    },
+    {
+      "font": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "line": "18.2px",
+      "size": "13px",
+      "tag": "H2",
+      "text": "// Skills"
+    },
+    {
+      "font": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "line": "18.2px",
+      "size": "13px",
+      "tag": "H2",
+      "text": "// Education"
+    },
+    {
+      "font": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "line": "18.2px",
+      "size": "13px",
+      "tag": "H2",
+      "text": "// Languages"
+    },
+    {
+      "font": "\"JetBrains Mono\", ui-monospace, \"SF Mono\", Menlo, monospace",
+      "line": "18.2px",
+      "size": "13px",
+      "tag": "H2",
+      "text": "// Talks"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H2",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "18px",
+      "tag": "H2",
+      "text": "Footer"
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "href": "https://wild-hours-611915.framer.app/resume#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "Soren Hale"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "02Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "03About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "04Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "05Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Get in touch"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "hello@sorenhale.dev"
+    },
+    {
+      "href": "tel:+4721550142",
+      "text": "+47 21 55 01 42"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=New%20project",
+      "text": "hello@sorenhale.dev"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to mehello@sorenhale.dev"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "Process"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/reviews",
+      "text": "Reviews"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "Stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/uses",
+      "text": "Uses"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/now",
+      "text": "Now"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "GitHub↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.linkedin.com/",
+      "text": "LinkedIn↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://bsky.app/",
+      "text": "Bluesky↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.framer.com/",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    }
+  ],
+  "size": [
+    1280,
+    720
+  ],
+  "text": "Skip to content\nSoren Hale\n01\nWork\n02\nServices\n03\nAbout\n04\nLab\n05\nWriting\nOpen to work from November\nGet in touch\n\n// Resume\n\nSoren Hale \n\nFrontend developer\n\nCity\nOslo\nEmail\nhello@sorenhale.dev\nPhone\n+47 21 55 01 42\nDownload CV\nPrint\n\nPrints on one page, black on white.\n\nEight years building product interfaces for fintech and developer tools. React, TypeScript, and a stubborn eye on the last hundred milliseconds.\n\n// Experience\n\n2023 to Now\n\nIndependent frontend developer\n\nSoren Hale · Oslo\n\nProduct builds, performance work and design systems for fintech and developer tool teams across Europe.\n\nReact\nTypeScript\nWebGL\n\n2021 to 2023\n\nStaff frontend engineer\n\nKestrel Pay · Oslo\n\nLed the merchant dashboard: live data, a new table engine and the performance budget every team now ships against.\n\nReact\nTypeScript\nWebSocket\n\n2020 to 2021\n\nSenior frontend engineer\n\nLedgerline · Stockholm\n\nDesigned the shell and the shared library that replaced forty internal tools with one console.\n\nReact\nModule Federation\nTurborepo\n\n2019 to 2020\n\nFrontend engineer\n\nTidewater · Copenhagen\n\nBuilt the GPU charting layer for sensor data and the accessible table view behind every chart.\n\nTypeScript\nWebGL\nWeb Workers\n\n2018 to 2019\n\nFrontend developer\n\nPilcrow Studio · Oslo\n\nShipped marketing sites and two web apps for clients in publishing and travel. Learned to estimate.\n\nJavaScript\nVue\nSass\n\n2018\n\nJunior web developer\n\nBrygge Digital · Bergen\n\nFirst job: email templates, landing pages and the build script nobody else wanted to touch.\n\nHTML\nCSS\nJavaScript\n// Skills\nLanguages\nTypeScript\nJavaScript\nCSS\nGLSL\nFrameworks\nReact\nNext.js\nAstro\nSvelte\nTooling\nVite\nNode.js\nStorybook\nFigma\nTesting\nPlaywright\nVitest\nTesting Library\nLighthouse CI\n// Education\nMSc Informatics, Programming and System Architecture\nUniversity of Oslo · 2016 to 2018\nBSc Computer Science\nUniversity of Bergen · 2013 to 2016\n// Languages\nNorwegian\nNative\nEnglish\nFluent\nSwedish\nWorking\nGerman\nBasic\n// Talks\nThe last hundred milliseconds\nJSConf Budapest · 2025\nA performance budget the build enforces\nOslo Frontend Meetup · 2024\nTables with a hundred thousand rows\nReact Norway · 2023\n\n// Start a project\n\nTell me what you are building. \n\nThree quick picks so the first reply is useful. You finish the message on the contact page.\n\n01\nWhat do you need?\n\nFrontend build\nPerformance audit\nDesign system\nTeam embed\nSomething else\n\n02\nRough budget\n\nUnder €5k\n€5–10k\n€10–25k\n€25k+\nNot sure yet\n03\nYour name or company\nbrief.ts\ndraft, not sent\nexport const brief = {\nkind: null // not picked yet,\nbudget: null // not picked yet,\nname: null // not picked yet,\n}\n\nBrief so far: nothing picked yet\n\nContinue to contact\n\nor write to hello@sorenhale.dev\n\nNothing is sent from this page. Your picks are kept in this browser tab and wait for you on the contact form.\n\nFooter\n\nFrontend developer, Oslo\n\nWrite to me\nhello@sorenhale.dev\n\nOpen to work from November\n\n// Site\n\nWork\nServices\nProcess\nReviews\nContact\n\n// About\n\nAbout\nResume\nStack\nUses\nNow\n\n// More\n\nLab\nWriting\nFAQ\nPrivacy\nTerms\nCookies\n\n// Elsewhere\n\nGitHub\n↗\n(opens in a new tab)\nLinkedIn\n↗\n(opens in a new tab)\nBluesky\n↗\n(opens in a new tab)\n\nLocal time, Oslo\n17:01 CEST\n\n© 2026 Soren Hale. Written by hand in Oslo.\n\nSorenHale\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.\n\nEdit Content",
+  "url": "https://wild-hours-611915.framer.app/resume"
+}

@@ -1,0 +1,135 @@
+{
+  "stack": [
+    {
+      "pressed": "true",
+      "panel": "Linux"
+    },
+    {
+      "pressed": "true",
+      "panel": "SSH"
+    },
+    {
+      "pressed": "true",
+      "panel": "Nginx"
+    },
+    {
+      "pressed": "true",
+      "panel": "systemd"
+    },
+    {
+      "pressed": "true",
+      "panel": "AWS"
+    },
+    {
+      "pressed": "true",
+      "panel": "Podman"
+    },
+    {
+      "pressed": "true",
+      "panel": "Docker"
+    },
+    {
+      "pressed": "true",
+      "panel": "Omada"
+    },
+    {
+      "pressed": "true",
+      "panel": "Prometheus"
+    },
+    {
+      "pressed": "true",
+      "panel": "Grafana"
+    },
+    {
+      "pressed": "true",
+      "panel": "Node Exporter"
+    },
+    {
+      "pressed": "true",
+      "panel": "Alertmanager"
+    },
+    {
+      "pressed": "true",
+      "panel": "FastAPI"
+    },
+    {
+      "pressed": "true",
+      "panel": "SQLite"
+    },
+    {
+      "pressed": "true",
+      "panel": "PostgreSQL"
+    },
+    {
+      "pressed": "true",
+      "panel": "Python"
+    }
+  ],
+  "accordions": [
+    {
+      "kind": "services",
+      "open": 0
+    },
+    {
+      "kind": "services",
+      "open": 1
+    },
+    {
+      "kind": "services",
+      "open": 1
+    },
+    {
+      "kind": "services",
+      "open": 1
+    },
+    {
+      "kind": "faq",
+      "open": 0
+    },
+    {
+      "kind": "faq",
+      "open": 1
+    },
+    {
+      "kind": "faq",
+      "open": 1
+    },
+    {
+      "kind": "faq",
+      "open": 1
+    },
+    {
+      "kind": "faq",
+      "open": 1
+    },
+    {
+      "kind": "faq",
+      "open": 1
+    },
+    {
+      "kind": "faq",
+      "open": 1
+    },
+    {
+      "kind": "faq",
+      "open": 1
+    }
+  ],
+  "lab": {
+    "steps": 4,
+    "disabled": true,
+    "bounds": {
+      "left": 1235,
+      "max": 1235
+    },
+    "nextRestored": true
+  },
+  "mail": {
+    "recipient": "mailto:rsnikupurohit17@gmail.com",
+    "body": "Hello Swapneel,\n\nOpportunity: Employment\nTopic: Backend\n\nMotion check & local preview"
+  },
+  "editableCursor": {
+    "active": null,
+    "cursor": "text"
+  }
+}

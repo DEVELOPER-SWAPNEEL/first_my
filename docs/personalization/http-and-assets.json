@@ -1,0 +1,204 @@
+{
+  "sections": [
+    "hero",
+    "clients",
+    "work",
+    "about",
+    "scores",
+    "stack",
+    "services",
+    "career",
+    "lab",
+    "reviews",
+    "writing",
+    "faq",
+    "brief"
+  ],
+  "links": [
+    {
+      "path": "/",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/about",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/contact",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/cookies",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/downloads/Swapneel-Purohit-Resume.pdf",
+      "status": 200,
+      "type": "application/pdf",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/faq",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/lab",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/lab/a11y-probe",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/lab/glyphfield",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/lab/shader-notes",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/lab/tinyflip",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/lab/tokens-to-css",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/lab/use-latency",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/now",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/privacy",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/process",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/resume",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/reviews",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/services",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/stack",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/terms",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/uses",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/work",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/writing",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/writing/an-inp-budget-you-can-keep",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/writing/code-review-is-writing",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/writing/server-components-after-a-year",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/writing/the-last-hundred-milliseconds",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    },
+    {
+      "path": "/writing/what-a-design-system-is-for",
+      "status": 200,
+      "type": "text/html; charset=utf-8",
+      "robots": "noindex, nofollow"
+    }
+  ],
+  "externalLinks": [
+    "https://github.com/DEVELOPER-SWAPNEEL/",
+    "https://github.com/DEVELOPER-SWAPNEEL/AI-Sales-Support-Assistant-for-E-commerce-Brands",
+    "https://www.linkedin.com/in/swapneel-purohit/",
+    "mailto:rsnikupurohit17@gmail.com",
+    "mailto:rsnikupurohit17@gmail.com?subject=Website+enquiry&body=Hello+Swapneel%2C%0A%0AOpportunity%3A+Not+selected%0ATopic%3A+Not+selected%0A%0A",
+    "tel:+916371819343"
+  ],
+  "resumeByteIdentical": true,
+  "resumeSha256": "66493531e567bb9e6e1cb64c273396da61018e892fe6f76462f9f473e116d584",
+  "servedRawEmployerDocuments": false
+}

@@ -1,0 +1,109 @@
+{
+  "menuPass": [
+    {
+      "aria": null,
+      "inside": true,
+      "text": "00Home→"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "01Work→"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "02Services→"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "03About→"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "04Lab→"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "05Writing→"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "Stack"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "Uses"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "Now"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "Process"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "Resume"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "Reviews"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "FAQ"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "Contact"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "Get in touch→"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "Draft Name"
+    },
+    {
+      "aria": "Close menu",
+      "inside": true,
+      "text": ""
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "00Home→"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "01Work→"
+    },
+    {
+      "aria": null,
+      "inside": true,
+      "text": "02Services→"
+    }
+  ],
+  "menuReturn": {
+    "aria": "Menu",
+    "open": false
+  },
+  "skipLink": "main focused after Enter"
+}

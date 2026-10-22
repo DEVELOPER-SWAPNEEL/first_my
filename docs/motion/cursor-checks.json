@@ -1,0 +1,16 @@
+{
+  "portrait": {
+    "active": "true",
+    "label": "VIEW",
+    "mode": "pointer",
+    "tracking": "idle"
+  },
+  "link": {
+    "active": "true",
+    "label": "OPEN"
+  },
+  "keyboard": {
+    "active": null,
+    "hidden": true
+  }
+}

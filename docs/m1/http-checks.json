@@ -1,0 +1,255 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/work",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/services",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/about",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/lab",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/writing",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/contact",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/resume",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/work/northwind-checkout",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/work/ledgerline-console",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/work/kestrel-pay-dashboard",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/work/tidewater-charts",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/work/halden-design-system",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/stack",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/services/frontend-build",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/services/performance-audit",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/services/design-system",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/services/team-embed",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/lab/use-latency",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/lab/glyphfield",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/lab/tinyflip",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/lab/a11y-probe",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/lab/tokens-to-css",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/lab/shader-notes",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/writing/the-last-hundred-milliseconds",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/writing/what-a-design-system-is-for",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/writing/an-inp-budget-you-can-keep",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/writing/code-review-is-writing",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/writing/server-components-after-a-year",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/process",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/reviews",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/uses",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/now",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/faq",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/privacy",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/terms",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/cookies",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/work/brattvik-onboarding",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/work/loopdocs",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/work/parcelway-tracking",
+      "status": 200,
+      "unfinished": true
+    },
+    {
+      "path": "/writing/estimates-that-hold",
+      "status": 200,
+      "unfinished": true
+    }
+  ],
+  "internalLinks": [
+    "#main",
+    "/",
+    "/about",
+    "/contact",
+    "/cookies",
+    "/faq",
+    "/lab",
+    "/lab/a11y-probe",
+    "/lab/glyphfield",
+    "/lab/shader-notes",
+    "/lab/tinyflip",
+    "/lab/tokens-to-css",
+    "/lab/use-latency",
+    "/now",
+    "/privacy",
+    "/process",
+    "/resume",
+    "/reviews",
+    "/services",
+    "/services/design-system",
+    "/services/frontend-build",
+    "/services/performance-audit",
+    "/services/team-embed",
+    "/stack",
+    "/terms",
+    "/uses",
+    "/work",
+    "/work/brattvik-onboarding",
+    "/work/halden-design-system",
+    "/work/kestrel-pay-dashboard",
+    "/work/ledgerline-console",
+    "/work/loopdocs",
+    "/work/northwind-checkout",
+    "/work/parcelway-tracking",
+    "/work/tidewater-charts",
+    "/writing",
+    "/writing/an-inp-budget-you-can-keep",
+    "/writing/code-review-is-writing",
+    "/writing/estimates-that-hold",
+    "/writing/server-components-after-a-year",
+    "/writing/the-last-hundred-milliseconds",
+    "/writing/what-a-design-system-is-for"
+  ],
+  "fontResources": [],
+  "unknownRouteStatus": 404
+}

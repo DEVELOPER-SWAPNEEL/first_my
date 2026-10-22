@@ -1,0 +1,44 @@
+[
+  {
+    "w": 390,
+    "entry": {
+      "delay": "0s",
+      "opacity": "0.21974",
+      "transform": "matrix(1, 0, 0, 1, 0, 17.9083)"
+    },
+    "settled": {
+      "height": 890.84375,
+      "opacity": "1",
+      "overflow": false,
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    }
+  },
+  {
+    "w": 810,
+    "entry": {
+      "delay": "0s",
+      "opacity": "0.130457",
+      "transform": "matrix(1, 0, 0, 1, 0, 35.9502)"
+    },
+    "settled": {
+      "height": 950.578125,
+      "opacity": "1",
+      "overflow": false,
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    }
+  },
+  {
+    "w": 1440,
+    "entry": {
+      "delay": "0s",
+      "opacity": "0.107718",
+      "transform": "matrix(1, 0, 0, 1, 0, 58.796)"
+    },
+    "settled": {
+      "height": 900,
+      "opacity": "1",
+      "overflow": false,
+      "transform": "matrix(1, 0, 0, 1, 0, 0)"
+    }
+  }
+]

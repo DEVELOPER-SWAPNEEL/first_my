@@ -1,0 +1,16 @@
+
+> personal-website@0.1.0 test
+> node --experimental-strip-types --test scripts/content.test.ts
+
+✔ private and draft values cannot enter presentation even if approved (0.281042ms)
+✔ aspirations and learning cannot become verified profile facts (0.050958ms)
+✔ route registry matches the audited scope without extra proposed routes (0.789084ms)
+✔ homepage structural fixtures stay draft and only link to registered destinations (1.533125ms)
+ℹ tests 4
+ℹ suites 0
+ℹ pass 4
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 57.148791

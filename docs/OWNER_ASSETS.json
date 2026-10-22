@@ -1,0 +1,21 @@
+{
+  "verified": "2026-10-14",
+  "resumeVersion": "2026-09-09 owner-reported; not PDF metadata provenance",
+  "assets": [
+    {
+      "path": "assets/my photot.png",
+      "bytes": 1883758,
+      "sha256": "8944da80f30199fb30743ed6581152c9475b9c71fb72ba6dc92c3bbb855be286"
+    },
+    {
+      "path": "public/images/swapneel-portrait.webp",
+      "bytes": 97100,
+      "sha256": "20a3245d9b55658a04626959125346a5672450bdf5367b81d03e562b87925ad4"
+    },
+    {
+      "path": "public/downloads/Swapneel-Purohit-Resume.pdf",
+      "bytes": 403068,
+      "sha256": "66493531e567bb9e6e1cb64c273396da61018e892fe6f76462f9f473e116d584"
+    }
+  ]
+}

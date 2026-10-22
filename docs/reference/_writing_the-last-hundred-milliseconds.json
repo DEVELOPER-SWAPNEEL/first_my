@@ -1,0 +1,348 @@
+{
+  "controls": [
+    {
+      "expanded": "false",
+      "label": "Menu",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Copy",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Frontend build",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Performance audit",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Design system",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Team embed",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Something else",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Under €5k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€5–10k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€10–25k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€25k+",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Not sure yet",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "INPUT",
+      "text": "",
+      "type": "text"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Continue to contact",
+      "type": "submit"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "headings": [
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "57.7024px",
+      "size": "58.88px",
+      "tag": "H1",
+      "text": "The last hundred milliseconds "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Measure the wait, not the load"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Spend the budget on purpose"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Know when to stop"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H2",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "18px",
+      "tag": "H2",
+      "text": "Footer"
+    }
+  ],
+  "images": [
+    {
+      "alt": "A brass clock and a sealed envelope on a dark desk",
+      "height": 299,
+      "src": "https://framerusercontent.com/images/z5MQSE0EqfjxmDrgOPiYdNc.webp?scale-down-to=1024",
+      "width": 537
+    }
+  ],
+  "links": [
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/the-last-hundred-milliseconds#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "Soren Hale"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "02Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "03About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "04Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "05Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Get in touch"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "~"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/the-last-hundred-milliseconds#poR9r6lqlp-measure-the-wait-not-the-load",
+      "text": "01Measure the wait, not the load"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/the-last-hundred-milliseconds#poR9r6lqlp-spend-the-budget-on-purpose",
+      "text": "02Spend the budget on purpose"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/the-last-hundred-milliseconds#poR9r6lqlp-know-when-to-stop",
+      "text": "03Know when to stop"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=Re%3A%20The%20last%20hundred%20milliseconds",
+      "text": "Write to me"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/the-last-hundred-milliseconds#poR9r6lqlp-measure-the-wait-not-the-load",
+      "text": "01Measure the wait, not the load"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/the-last-hundred-milliseconds#poR9r6lqlp-spend-the-budget-on-purpose",
+      "text": "02Spend the budget on purpose"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/the-last-hundred-milliseconds#poR9r6lqlp-know-when-to-stop",
+      "text": "03Know when to stop"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=Re%3A%20The%20last%20hundred%20milliseconds",
+      "text": "Write to me"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/what-a-design-system-is-for",
+      "text": "Next postToolingWhat a design system is actually forIt is not for consistency. It is for making the right thing the easy thing."
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=New%20project",
+      "text": "hello@sorenhale.dev"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to mehello@sorenhale.dev"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "Process"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/reviews",
+      "text": "Reviews"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "Stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/uses",
+      "text": "Uses"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/now",
+      "text": "Now"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "GitHub↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.linkedin.com/",
+      "text": "LinkedIn↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://bsky.app/",
+      "text": "Bluesky↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.framer.com/",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    }
+  ],
+  "size": [
+    1280,
+    720
+  ],
+  "text": "Skip to content\nSoren Hale\n01\nWork\n02\nServices\n03\nAbout\n04\nLab\n05\nWriting\nOpen to work from November\nGet in touch\n~\nWriting\nThe last hundred milliseconds\n\n// Writing\n\nThe last hundred milliseconds \n\nGetting a page from fast to instant is a different job from getting it from slow to fast.\n\nto read\n2 min\npublished\n2026-09-18\nfiled under\nPerformance\n\nMost performance work is removal. You find the two megabyte bundle, the blocking font, the image nobody sized, and you take them away. That gets a page from four seconds to one, and it is satisfying work because every change shows up on the chart.\n\nThe last hundred milliseconds are not like that. Nothing is obviously wrong any more. The page is already fast by any score you care to run, and it still does not feel instant.\n\nMeasure the wait, not the load\n\nPeople do not experience your load event. They experience the gap between wanting something and seeing it. So I measure three moments: the first thing they can read, the first thing they can tap, and how long that first tap takes to answer.\n\nts\nCopy\nnew PerformanceObserver((list) => {\n\n  for (const entry of list.getEntries()) {\n\n    if (entry.duration > 100) report(entry.name, entry.duration)\n\n  }\n\n}).observe({ type: \"event\", buffered: true, durationThreshold: 40 })\n\n\nForty lines of this in production told me more than a month of lab runs. The slow interaction was never the one I would have guessed.\n\nSpend the budget on purpose\nPut the answer in the first response, even if it is a cached one.\nHydrate the thing under the thumb first.\nLet everything else arrive late and quietly.\n\nOn the Northwind checkout the pay button was the last thing to become interactive, because it sat at the bottom of the component tree. Moving it to the front of the queue cost one afternoon and was worth more than the previous two weeks.\n\nKnow when to stop\nFast is a number. Instant is a feeling, and it starts at about a hundred milliseconds.\n\nBelow that line people stop noticing, so I stop too. The work is boring and specific, which is why it is rarely done, and why it is worth a lot to the few products that do it.\n\nOn this page\n\n01\nMeasure the wait, not the load\n02\nSpend the budget on purpose\n03\nKnow when to stop\n\nA thought on this post? Write to me\n\nNext post\nTooling\nWhat a design system is actually for\nIt is not for consistency. It is for making the right thing the easy thing.\n\n// Start a project\n\nTell me what you are building. \n\nThree quick picks so the first reply is useful. You finish the message on the contact page.\n\n01\nWhat do you need?\n\nFrontend build\nPerformance audit\nDesign system\nTeam embed\nSomething else\n\n02\nRough budget\n\nUnder €5k\n€5–10k\n€10–25k\n€25k+\nNot sure yet\n03\nYour name or company\nbrief.ts\ndraft, not sent\nexport const brief = {\nkind: null // not picked yet,\nbudget: null // not picked yet,\nname: null // not picked yet,\n}\n\nBrief so far: nothing picked yet\n\nContinue to contact\n\nor write to hello@sorenhale.dev\n\nNothing is sent from this page. Your picks are kept in this browser tab and wait for you on the contact form.\n\nFooter\n\nFrontend developer, Oslo\n\nWrite to me\nhello@sorenhale.dev\n\nOpen to work from November\n\n// Site\n\nWork\nServices\nProcess\nReviews\nContact\n\n// About\n\nAbout\nResume\nStack\nUses\nNow\n\n// More\n\nLab\nWriting\nFAQ\nPrivacy\nTerms\nCookies\n\n// Elsewhere\n\nGitHub\n↗\n(opens in a new tab)\nLinkedIn\n↗\n(opens in a new tab)\nBluesky\n↗\n(opens in a new tab)\n\nLocal time, Oslo\n17:01 CEST\n\n© 2026 Soren Hale. Written by hand in Oslo.\n\nSorenHale\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.\n\nEdit Content",
+  "url": "https://wild-hours-611915.framer.app/writing/the-last-hundred-milliseconds"
+}

@@ -1,0 +1,69 @@
+{
+  "headings": [
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "What a design system is actually for "
+    },
+    {
+      "line": "28.08px",
+      "size": "26px",
+      "text": "Three tests I use"
+    },
+    {
+      "line": "28.08px",
+      "size": "26px",
+      "text": "Make the right thing the short thing"
+    },
+    {
+      "line": "28.08px",
+      "size": "26px",
+      "text": "Adoption is the product"
+    },
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "line": "normal",
+      "size": "18px",
+      "text": "Footer"
+    }
+  ],
+  "scrollWidth": 390,
+  "sections": [
+    {
+      "class": "sh sh-sec shpo is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec sh-well shct is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "shct-form",
+      "columns": "350px",
+      "padding": "0px",
+      "tag": "FORM",
+      "width": 350
+    },
+    {
+      "class": "sh sh-sec shft is-ph is-bar",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "FOOTER",
+      "width": 390
+    }
+  ],
+  "size": [
+    390,
+    844
+  ]
+}

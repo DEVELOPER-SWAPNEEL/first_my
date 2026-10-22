@@ -1,0 +1,31 @@
+{
+  "brief": "export const draftBrief = {\n  opportunity: \"Collaboration\",\n  topic: null,\n  message: null\n}",
+  "cards": [
+    {
+      "position": "relative",
+      "transform": "none"
+    },
+    {
+      "position": "relative",
+      "transform": "none"
+    },
+    {
+      "position": "relative",
+      "transform": "none"
+    },
+    {
+      "position": "relative",
+      "transform": "none"
+    },
+    {
+      "position": "relative",
+      "transform": "none"
+    }
+  ],
+  "caretAnimation": "none",
+  "faqOpen": 1,
+  "nativeReduce": false,
+  "overflow": false,
+  "selected": "Omada",
+  "testMethod": "Temporary local branch/media override, no OS preference change"
+}

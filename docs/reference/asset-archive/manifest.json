@@ -1,0 +1,914 @@
+{
+  "assets": [
+    {
+      "contentType": "text/css",
+      "id": "d2622d44717bb964",
+      "kind": "stylesheet",
+      "name": "css2",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/d2622d44717bb964",
+      "url": "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..700&family=Geist:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "fd31133f7a605d36",
+      "kind": "image",
+      "name": "LoIqKcaRWqQnjoY49EI6dshKY.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/fd31133f7a605d36.webp",
+      "url": "https://framerusercontent.com/images/LoIqKcaRWqQnjoY49EI6dshKY.webp"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "3c5bd44f8f2b5cd7",
+      "kind": "image",
+      "name": "NBnpKynwHgwRWuLCUi30GU6c55I.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/3c5bd44f8f2b5cd7.webp",
+      "url": "https://framerusercontent.com/images/NBnpKynwHgwRWuLCUi30GU6c55I.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "9733b1b3c3ec4b38",
+      "kind": "image",
+      "name": "YQjsAqZ8Nd96dGC0RfDYxu6u30.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/9733b1b3c3ec4b38.webp",
+      "url": "https://framerusercontent.com/images/YQjsAqZ8Nd96dGC0RfDYxu6u30.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "f5da3fbd2d18a233",
+      "kind": "image",
+      "name": "RvqLqXxA1KxZVVyP8RgneMp9weU.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/f5da3fbd2d18a233.webp",
+      "url": "https://framerusercontent.com/images/RvqLqXxA1KxZVVyP8RgneMp9weU.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "fdf587c113634a4d",
+      "kind": "image",
+      "name": "oiAGfMgu0PR7p7gXMkWT7I25swE.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/fdf587c113634a4d.webp",
+      "url": "https://framerusercontent.com/images/oiAGfMgu0PR7p7gXMkWT7I25swE.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "49ad73d5024a5c21",
+      "kind": "image",
+      "name": "pHOBF7LHy4BbDr36flWPxPYRixo.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/49ad73d5024a5c21.webp",
+      "url": "https://framerusercontent.com/images/pHOBF7LHy4BbDr36flWPxPYRixo.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "3f2b0f820f239c50",
+      "kind": "image",
+      "name": "OXEQQ8bdmGvOph7lbqliYervcNk.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/3f2b0f820f239c50.webp",
+      "url": "https://framerusercontent.com/images/OXEQQ8bdmGvOph7lbqliYervcNk.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "113cadf179924257",
+      "kind": "image",
+      "name": "pdpM5ZpkjW3FJZ62wHeZYKUF4.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/113cadf179924257.webp",
+      "url": "https://framerusercontent.com/images/pdpM5ZpkjW3FJZ62wHeZYKUF4.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "07a15027ceb6c5f4",
+      "kind": "image",
+      "name": "1AehyHUZKh0JRaCcsVJqyNjCfk.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/07a15027ceb6c5f4.webp",
+      "url": "https://framerusercontent.com/images/1AehyHUZKh0JRaCcsVJqyNjCfk.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "f295124f6c352722",
+      "kind": "image",
+      "name": "AXiA433zY758QPQ734IwJYbDpps.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/f295124f6c352722.webp",
+      "url": "https://framerusercontent.com/images/AXiA433zY758QPQ734IwJYbDpps.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "ef56c182bc6862cd",
+      "kind": "image",
+      "name": "xh7hi06SnOdBxKKmGI2XGTqKs.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/ef56c182bc6862cd.webp",
+      "url": "https://framerusercontent.com/images/xh7hi06SnOdBxKKmGI2XGTqKs.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "02a7db1ab094c924",
+      "kind": "image",
+      "name": "DYXYtVPtrLgBRHlGpf2spqT3I.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/02a7db1ab094c924.webp",
+      "url": "https://framerusercontent.com/images/DYXYtVPtrLgBRHlGpf2spqT3I.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "453db636501869fb",
+      "kind": "image",
+      "name": "0YJi935knEI050Ruc62VxyDuo0.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/453db636501869fb.webp",
+      "url": "https://framerusercontent.com/images/0YJi935knEI050Ruc62VxyDuo0.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "622dc922c99c1f80",
+      "kind": "image",
+      "name": "gyZ6MhO7dYUyZCRwueJtdqGy8.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/622dc922c99c1f80.webp",
+      "url": "https://framerusercontent.com/images/gyZ6MhO7dYUyZCRwueJtdqGy8.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "2f19c09f667d7cca",
+      "kind": "image",
+      "name": "bKCYb8caoOC39QRbQtLSgyq0UI.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/2f19c09f667d7cca.webp",
+      "url": "https://framerusercontent.com/images/bKCYb8caoOC39QRbQtLSgyq0UI.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c6e7505c909d818d",
+      "kind": "image",
+      "name": "0UzWw70BfdCoQXVbRUtmsgId64s.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/c6e7505c909d818d.webp",
+      "url": "https://framerusercontent.com/images/0UzWw70BfdCoQXVbRUtmsgId64s.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/avif",
+      "id": "629cb978a80c459a",
+      "kind": "image",
+      "name": "z5MQSE0EqfjxmDrgOPiYdNc.webp",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/629cb978a80c459a.webp",
+      "url": "https://framerusercontent.com/images/z5MQSE0EqfjxmDrgOPiYdNc.webp?scale-down-to=512"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "68a033d8ed12c298",
+      "kind": "image",
+      "name": "svg-1",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/68a033d8ed12c298.svg",
+      "url": "inline-svg:68a033d8ed12c298"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "60950a3babd9d481",
+      "kind": "image",
+      "name": "svg-2",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/60950a3babd9d481.svg",
+      "url": "inline-svg:60950a3babd9d481"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1de7d9859002e2d1",
+      "kind": "image",
+      "name": "svg-3",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/1de7d9859002e2d1.svg",
+      "url": "inline-svg:1de7d9859002e2d1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2c86af7fa5ce233b",
+      "kind": "image",
+      "name": "svg-4",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/2c86af7fa5ce233b.svg",
+      "url": "inline-svg:2c86af7fa5ce233b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "574ca03fa46e4e6f",
+      "kind": "image",
+      "name": "svg-5",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/574ca03fa46e4e6f.svg",
+      "url": "inline-svg:574ca03fa46e4e6f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "94ef5849d766d96e",
+      "kind": "image",
+      "name": "svg-6",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/94ef5849d766d96e.svg",
+      "url": "inline-svg:94ef5849d766d96e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "806e291d12b1ff87",
+      "kind": "image",
+      "name": "svg-7",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/806e291d12b1ff87.svg",
+      "url": "inline-svg:806e291d12b1ff87"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5963c6d392ad7c49",
+      "kind": "image",
+      "name": "svg-8",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/5963c6d392ad7c49.svg",
+      "url": "inline-svg:5963c6d392ad7c49"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1b3f9d0e4eacd6d9",
+      "kind": "image",
+      "name": "svg-9",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/1b3f9d0e4eacd6d9.svg",
+      "url": "inline-svg:1b3f9d0e4eacd6d9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6aace032f5c34642",
+      "kind": "image",
+      "name": "svg-10",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/6aace032f5c34642.svg",
+      "url": "inline-svg:6aace032f5c34642"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9940eeb642dcd29d",
+      "kind": "image",
+      "name": "svg-11",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/9940eeb642dcd29d.svg",
+      "url": "inline-svg:9940eeb642dcd29d"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "67c784a5e285e49a",
+      "kind": "image",
+      "name": "svg-12",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/67c784a5e285e49a.svg",
+      "url": "inline-svg:67c784a5e285e49a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "561e94085b03a569",
+      "kind": "image",
+      "name": "svg-13",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/561e94085b03a569.svg",
+      "url": "inline-svg:561e94085b03a569"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "62eab58f70f19b56",
+      "kind": "image",
+      "name": "svg-14",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/62eab58f70f19b56.svg",
+      "url": "inline-svg:62eab58f70f19b56"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e433cd1f3fafda58",
+      "kind": "image",
+      "name": "svg-15",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/e433cd1f3fafda58.svg",
+      "url": "inline-svg:e433cd1f3fafda58"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "938253d226ddbfc4",
+      "kind": "image",
+      "name": "svg-16",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/938253d226ddbfc4.svg",
+      "url": "inline-svg:938253d226ddbfc4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "67414b53f6ea19ac",
+      "kind": "image",
+      "name": "svg-17",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/67414b53f6ea19ac.svg",
+      "url": "inline-svg:67414b53f6ea19ac"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "dafd226943c851f3",
+      "kind": "image",
+      "name": "svg-18",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/dafd226943c851f3.svg",
+      "url": "inline-svg:dafd226943c851f3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8c8d5822b55c34f4",
+      "kind": "image",
+      "name": "svg-19",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/8c8d5822b55c34f4.svg",
+      "url": "inline-svg:8c8d5822b55c34f4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "80b7e7f64fa6c45c",
+      "kind": "image",
+      "name": "svg-20",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/80b7e7f64fa6c45c.svg",
+      "url": "inline-svg:80b7e7f64fa6c45c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d940f54ee031462a",
+      "kind": "image",
+      "name": "svg-21",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/d940f54ee031462a.svg",
+      "url": "inline-svg:d940f54ee031462a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "81d558cb7737c87c",
+      "kind": "image",
+      "name": "svg-22",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/81d558cb7737c87c.svg",
+      "url": "inline-svg:81d558cb7737c87c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "23e346b11b68f965",
+      "kind": "image",
+      "name": "svg-23",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/23e346b11b68f965.svg",
+      "url": "inline-svg:23e346b11b68f965"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "85d520b914b84e6b",
+      "kind": "image",
+      "name": "svg-24",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/85d520b914b84e6b.svg",
+      "url": "inline-svg:85d520b914b84e6b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "641278ddbe2ca218",
+      "kind": "image",
+      "name": "svg-25",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/641278ddbe2ca218.svg",
+      "url": "inline-svg:641278ddbe2ca218"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "088dcb9bf5b0ba74",
+      "kind": "image",
+      "name": "svg-26",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/088dcb9bf5b0ba74.svg",
+      "url": "inline-svg:088dcb9bf5b0ba74"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d612ec0a3cc3c97c",
+      "kind": "image",
+      "name": "svg-27",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/d612ec0a3cc3c97c.svg",
+      "url": "inline-svg:d612ec0a3cc3c97c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4749155df5302266",
+      "kind": "image",
+      "name": "svg-28",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/4749155df5302266.svg",
+      "url": "inline-svg:4749155df5302266"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2d6b561421e904a6",
+      "kind": "image",
+      "name": "svg-29",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/2d6b561421e904a6.svg",
+      "url": "inline-svg:2d6b561421e904a6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "989fa8d645f6e0de",
+      "kind": "image",
+      "name": "svg-30",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/989fa8d645f6e0de.svg",
+      "url": "inline-svg:989fa8d645f6e0de"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "41ff326b9be26abf",
+      "kind": "image",
+      "name": "svg-31",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/41ff326b9be26abf.svg",
+      "url": "inline-svg:41ff326b9be26abf"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "63d2d4cd5eaaa94a",
+      "kind": "image",
+      "name": "svg-32",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/63d2d4cd5eaaa94a.svg",
+      "url": "inline-svg:63d2d4cd5eaaa94a"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "abe7fb532aad1301",
+      "kind": "image",
+      "name": "svg-33",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/abe7fb532aad1301.svg",
+      "url": "inline-svg:abe7fb532aad1301"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "88f15f63bd9c97e7",
+      "kind": "image",
+      "name": "svg-34",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/88f15f63bd9c97e7.svg",
+      "url": "inline-svg:88f15f63bd9c97e7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "4d214119a7b1dee4",
+      "kind": "image",
+      "name": "svg-35",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/4d214119a7b1dee4.svg",
+      "url": "inline-svg:4d214119a7b1dee4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5e1c47ad068cda5f",
+      "kind": "image",
+      "name": "svg-36",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/5e1c47ad068cda5f.svg",
+      "url": "inline-svg:5e1c47ad068cda5f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b8451674355580a8",
+      "kind": "image",
+      "name": "svg-37",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/b8451674355580a8.svg",
+      "url": "inline-svg:b8451674355580a8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5f0447d4a8af7ba4",
+      "kind": "image",
+      "name": "svg-38",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/5f0447d4a8af7ba4.svg",
+      "url": "inline-svg:5f0447d4a8af7ba4"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6d547ada01eda0dc",
+      "kind": "image",
+      "name": "svg-39",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/6d547ada01eda0dc.svg",
+      "url": "inline-svg:6d547ada01eda0dc"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "23489beeb7c6a90e",
+      "kind": "image",
+      "name": "svg-40",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/23489beeb7c6a90e.svg",
+      "url": "inline-svg:23489beeb7c6a90e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fb902f425da932a3",
+      "kind": "image",
+      "name": "svg-41",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/fb902f425da932a3.svg",
+      "url": "inline-svg:fb902f425da932a3"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fdd1ddcb70236561",
+      "kind": "image",
+      "name": "svg-42",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/fdd1ddcb70236561.svg",
+      "url": "inline-svg:fdd1ddcb70236561"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "669a578145f3afe2",
+      "kind": "image",
+      "name": "svg-43",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/669a578145f3afe2.svg",
+      "url": "inline-svg:669a578145f3afe2"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b70b6670edee32c5",
+      "kind": "image",
+      "name": "svg-44",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/b70b6670edee32c5.svg",
+      "url": "inline-svg:b70b6670edee32c5"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "8f560b232919bce6",
+      "kind": "image",
+      "name": "svg-45",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/8f560b232919bce6.svg",
+      "url": "inline-svg:8f560b232919bce6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "aacb647abf260ddd",
+      "kind": "image",
+      "name": "svg-46",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/aacb647abf260ddd.svg",
+      "url": "inline-svg:aacb647abf260ddd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fa740a886d77452b",
+      "kind": "image",
+      "name": "svg-47",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/fa740a886d77452b.svg",
+      "url": "inline-svg:fa740a886d77452b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1e8703a16b8325c7",
+      "kind": "image",
+      "name": "svg-48",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/1e8703a16b8325c7.svg",
+      "url": "inline-svg:1e8703a16b8325c7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1ea7066086dba1eb",
+      "kind": "image",
+      "name": "svg-49",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/1ea7066086dba1eb.svg",
+      "url": "inline-svg:1ea7066086dba1eb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d8695a544ed4e208",
+      "kind": "image",
+      "name": "svg-50",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/d8695a544ed4e208.svg",
+      "url": "inline-svg:d8695a544ed4e208"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "327d3b25b241d401",
+      "kind": "image",
+      "name": "svg-51",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/327d3b25b241d401.svg",
+      "url": "inline-svg:327d3b25b241d401"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "5d4eea14b233c1bd",
+      "kind": "image",
+      "name": "svg-52",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/5d4eea14b233c1bd.svg",
+      "url": "inline-svg:5d4eea14b233c1bd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b91a33d7c3c454f8",
+      "kind": "image",
+      "name": "svg-53",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/b91a33d7c3c454f8.svg",
+      "url": "inline-svg:b91a33d7c3c454f8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2d4f0cd6fed4abf8",
+      "kind": "image",
+      "name": "svg-54",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/2d4f0cd6fed4abf8.svg",
+      "url": "inline-svg:2d4f0cd6fed4abf8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "ce33b812591087fd",
+      "kind": "image",
+      "name": "svg-55",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/ce33b812591087fd.svg",
+      "url": "inline-svg:ce33b812591087fd"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "31564c4dd2b83544",
+      "kind": "image",
+      "name": "svg-56",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/31564c4dd2b83544.svg",
+      "url": "inline-svg:31564c4dd2b83544"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3f8b794e4a5d1ed8",
+      "kind": "image",
+      "name": "svg-57",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/3f8b794e4a5d1ed8.svg",
+      "url": "inline-svg:3f8b794e4a5d1ed8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7e70d3aaf179144c",
+      "kind": "image",
+      "name": "svg-58",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/7e70d3aaf179144c.svg",
+      "url": "inline-svg:7e70d3aaf179144c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7f938182483f8082",
+      "kind": "image",
+      "name": "svg-59",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/7f938182483f8082.svg",
+      "url": "inline-svg:7f938182483f8082"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "da63413b57866f0f",
+      "kind": "image",
+      "name": "svg-60",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/da63413b57866f0f.svg",
+      "url": "inline-svg:da63413b57866f0f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7751af16178aeaf7",
+      "kind": "image",
+      "name": "svg-61",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/7751af16178aeaf7.svg",
+      "url": "inline-svg:7751af16178aeaf7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2add598c12a3c3ad",
+      "kind": "image",
+      "name": "svg-62",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/2add598c12a3c3ad.svg",
+      "url": "inline-svg:2add598c12a3c3ad"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0808e72807888843",
+      "kind": "image",
+      "name": "svg-63",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/0808e72807888843.svg",
+      "url": "inline-svg:0808e72807888843"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "04430fdd205f10b9",
+      "kind": "image",
+      "name": "svg-64",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/04430fdd205f10b9.svg",
+      "url": "inline-svg:04430fdd205f10b9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1928f11485c92b38",
+      "kind": "image",
+      "name": "svg-65",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/1928f11485c92b38.svg",
+      "url": "inline-svg:1928f11485c92b38"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b4195052d75f02cb",
+      "kind": "image",
+      "name": "svg-66",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/b4195052d75f02cb.svg",
+      "url": "inline-svg:b4195052d75f02cb"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "adaccd559402ef6c",
+      "kind": "image",
+      "name": "svg-67",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/adaccd559402ef6c.svg",
+      "url": "inline-svg:adaccd559402ef6c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "18ead0fa5f780954",
+      "kind": "image",
+      "name": "svg-68",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/18ead0fa5f780954.svg",
+      "url": "inline-svg:18ead0fa5f780954"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "1b73cf4f4593545f",
+      "kind": "image",
+      "name": "svg-69",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/1b73cf4f4593545f.svg",
+      "url": "inline-svg:1b73cf4f4593545f"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e67f2b7ce0ae9318",
+      "kind": "image",
+      "name": "svg-70",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/e67f2b7ce0ae9318.svg",
+      "url": "inline-svg:e67f2b7ce0ae9318"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "576e5cf62e5153f8",
+      "kind": "image",
+      "name": "svg-71",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/576e5cf62e5153f8.svg",
+      "url": "inline-svg:576e5cf62e5153f8"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9f60742b5bfbc471",
+      "kind": "image",
+      "name": "svg-72",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/9f60742b5bfbc471.svg",
+      "url": "inline-svg:9f60742b5bfbc471"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b600f39eb2fc4ec9",
+      "kind": "image",
+      "name": "svg-73",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/b600f39eb2fc4ec9.svg",
+      "url": "inline-svg:b600f39eb2fc4ec9"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "94e08f39dce84b72",
+      "kind": "image",
+      "name": "svg-74",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/94e08f39dce84b72.svg",
+      "url": "inline-svg:94e08f39dce84b72"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7fd3c48d95315c97",
+      "kind": "image",
+      "name": "svg-75",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/7fd3c48d95315c97.svg",
+      "url": "inline-svg:7fd3c48d95315c97"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d46b808af304d16b",
+      "kind": "image",
+      "name": "svg-76",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/d46b808af304d16b.svg",
+      "url": "inline-svg:d46b808af304d16b"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "29846fbdeb83c893",
+      "kind": "image",
+      "name": "svg-77",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/29846fbdeb83c893.svg",
+      "url": "inline-svg:29846fbdeb83c893"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "fded136cd6f20df1",
+      "kind": "image",
+      "name": "svg-78",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/fded136cd6f20df1.svg",
+      "url": "inline-svg:fded136cd6f20df1"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "e793adae10653990",
+      "kind": "image",
+      "name": "svg-79",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/e793adae10653990.svg",
+      "url": "inline-svg:e793adae10653990"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6bb57ca1077de880",
+      "kind": "image",
+      "name": "svg-80",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/6bb57ca1077de880.svg",
+      "url": "inline-svg:6bb57ca1077de880"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "d8cbb3ae1e0b0c19",
+      "kind": "image",
+      "name": "svg-81",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/d8cbb3ae1e0b0c19.svg",
+      "url": "inline-svg:d8cbb3ae1e0b0c19"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "771113e79cbaf3b6",
+      "kind": "image",
+      "name": "svg-82",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/771113e79cbaf3b6.svg",
+      "url": "inline-svg:771113e79cbaf3b6"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "9efbde6831ffd674",
+      "kind": "image",
+      "name": "svg-83",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/9efbde6831ffd674.svg",
+      "url": "inline-svg:9efbde6831ffd674"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "2ce76b462260d088",
+      "kind": "image",
+      "name": "svg-84",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/2ce76b462260d088.svg",
+      "url": "inline-svg:2ce76b462260d088"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "7c9e0bd6aa7d3481",
+      "kind": "image",
+      "name": "svg-85",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/7c9e0bd6aa7d3481.svg",
+      "url": "inline-svg:7c9e0bd6aa7d3481"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a621f8e9f1b69dcf",
+      "kind": "image",
+      "name": "svg-86",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/a621f8e9f1b69dcf.svg",
+      "url": "inline-svg:a621f8e9f1b69dcf"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "172e2a8b5468679c",
+      "kind": "image",
+      "name": "svg-87",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/172e2a8b5468679c.svg",
+      "url": "inline-svg:172e2a8b5468679c"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "0020c56b72742a11",
+      "kind": "image",
+      "name": "svg-88",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/0020c56b72742a11.svg",
+      "url": "inline-svg:0020c56b72742a11"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "a7d1af251670dda7",
+      "kind": "image",
+      "name": "svg-89",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/a7d1af251670dda7.svg",
+      "url": "inline-svg:a7d1af251670dda7"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "6f69b2c724bdc4de",
+      "kind": "image",
+      "name": "svg-90",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/6f69b2c724bdc4de.svg",
+      "url": "inline-svg:6f69b2c724bdc4de"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "b861cd97d294e09e",
+      "kind": "image",
+      "name": "svg-91",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/b861cd97d294e09e.svg",
+      "url": "inline-svg:b861cd97d294e09e"
+    },
+    {
+      "contentType": "image/svg+xml",
+      "id": "3e2eba868e12f14b",
+      "kind": "image",
+      "name": "svg-92",
+      "path": "/Users/john/Documents/ChatGPT/personal website/docs/reference/asset-archive/3e2eba868e12f14b.svg",
+      "url": "inline-svg:3e2eba868e12f14b"
+    }
+  ],
+  "failures": [
+    {
+      "contentType": null,
+      "id": "5afd6099115c5013",
+      "name": "GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at aQ (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "75a8b2e209eaad35",
+      "name": "3y9K6as8bTXq_nANBjzKo3IeZx8z6up5BeSl9D4dj_x9PpZBMlGIInHWVyNJ.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at aQ (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9K6as8bTXq_nANBjzKo3IeZx8z6up5BeSl9D4dj_x9PpZBMlGIInHWVyNJ.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "47c091c982e8e934",
+      "name": "gyByhwUxId8gMEwcGFWNOITd.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at aQ (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://fonts.gstatic.com/s/geist/v5/gyByhwUxId8gMEwcGFWNOITd.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "eecd9be6bd30124b",
+      "name": "tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwgknk-4.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch\n    at aQ (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwgknk-4.woff2"
+    }
+  ]
+}

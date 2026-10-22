@@ -1,0 +1,548 @@
+[
+  {
+    "class": "sh-wrap shft-in",
+    "style": {
+      "columns": "none",
+      "font": "12px",
+      "gap": "normal",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "60px 20px 204px",
+      "weight": "400"
+    },
+    "tag": "DIV",
+    "text": "FooterFrontend developer, OsloWrite to mehello@sor"
+  },
+  {
+    "class": "shft-top",
+    "style": {
+      "columns": "760px",
+      "font": "12px",
+      "gap": "44px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "DIV",
+    "text": "Frontend developer, OsloWrite to mehello@sorenhale"
+  },
+  {
+    "class": "shft-id",
+    "style": {
+      "columns": "760px",
+      "font": "12px",
+      "gap": "22px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "DIV",
+    "text": "Frontend developer, OsloWrite to mehello@sorenhale"
+  },
+  {
+    "class": "shft-line",
+    "style": {
+      "columns": "none",
+      "font": "27px",
+      "gap": "normal",
+      "letter": "-1.215px",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "600"
+    },
+    "tag": "P",
+    "text": "Frontend developer, Oslo"
+  },
+  {
+    "class": "shft-mail",
+    "style": {
+      "columns": "165.344px",
+      "font": "12px",
+      "gap": "4px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "6px 0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Write to mehello@sorenhale.dev"
+  },
+  {
+    "class": "shft-status sh-mono",
+    "style": {
+      "columns": "none",
+      "font": "12.5px",
+      "gap": "10px",
+      "letter": "0.125px",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "500"
+    },
+    "tag": "P",
+    "text": "Open to work from November"
+  },
+  {
+    "class": "shft-cols",
+    "style": {
+      "columns": "370px 370px",
+      "font": "12px",
+      "gap": "36px 20px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "NAV",
+    "text": "// SiteWorkServicesProcessReviewsContact// AboutAb"
+  },
+  {
+    "class": "shft-col",
+    "style": {
+      "columns": "370px",
+      "font": "12px",
+      "gap": "10px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "DIV",
+    "text": "// SiteWorkServicesProcessReviewsContact"
+  },
+  {
+    "class": "sh-lbl",
+    "style": {
+      "columns": "none",
+      "font": "12px",
+      "gap": "normal",
+      "letter": "0.12px",
+      "margin": "0px",
+      "padding": "0px 0px 6px",
+      "weight": "500"
+    },
+    "tag": "P",
+    "text": "// Site"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Work"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Services"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Process"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Reviews"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Contact"
+  },
+  {
+    "class": "shft-col",
+    "style": {
+      "columns": "370px",
+      "font": "12px",
+      "gap": "10px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "DIV",
+    "text": "// AboutAboutResumeStackUsesNow"
+  },
+  {
+    "class": "sh-lbl",
+    "style": {
+      "columns": "none",
+      "font": "12px",
+      "gap": "normal",
+      "letter": "0.12px",
+      "margin": "0px",
+      "padding": "0px 0px 6px",
+      "weight": "500"
+    },
+    "tag": "P",
+    "text": "// About"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "About"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Resume"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Stack"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Uses"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Now"
+  },
+  {
+    "class": "shft-col",
+    "style": {
+      "columns": "370px",
+      "font": "12px",
+      "gap": "10px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "DIV",
+    "text": "// MoreLabWritingFAQPrivacyTermsCookies"
+  },
+  {
+    "class": "sh-lbl",
+    "style": {
+      "columns": "none",
+      "font": "12px",
+      "gap": "normal",
+      "letter": "0.12px",
+      "margin": "0px",
+      "padding": "0px 0px 6px",
+      "weight": "500"
+    },
+    "tag": "P",
+    "text": "// More"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Lab"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Writing"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "FAQ"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Privacy"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Terms"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Cookies"
+  },
+  {
+    "class": "shft-col",
+    "style": {
+      "columns": "370px",
+      "font": "12px",
+      "gap": "10px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "DIV",
+    "text": "// ElsewhereGitHub↗ (opens in a new tab)LinkedIn↗ "
+  },
+  {
+    "class": "sh-lbl",
+    "style": {
+      "columns": "none",
+      "font": "12px",
+      "gap": "normal",
+      "letter": "0.12px",
+      "margin": "0px",
+      "padding": "0px 0px 6px",
+      "weight": "500"
+    },
+    "tag": "P",
+    "text": "// Elsewhere"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "GitHub↗ (opens in a new tab)"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "LinkedIn↗ (opens in a new tab)"
+  },
+  {
+    "class": "",
+    "style": {
+      "columns": "none",
+      "font": "16px",
+      "gap": "6px",
+      "letter": "normal",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "A",
+    "text": "Bluesky↗ (opens in a new tab)"
+  },
+  {
+    "class": "shft-meta",
+    "style": {
+      "columns": "314.766px",
+      "font": "12px",
+      "gap": "10px",
+      "letter": "normal",
+      "margin": "44px 0px 0px",
+      "padding": "20px 0px 0px",
+      "weight": "400"
+    },
+    "tag": "DIV",
+    "text": "Local time, Oslo17:44 CEST© 2026 Soren Hale. Writt"
+  },
+  {
+    "class": "shft-time sh-mono",
+    "style": {
+      "columns": "none",
+      "font": "12.5px",
+      "gap": "6px 10px",
+      "letter": "0.125px",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "500"
+    },
+    "tag": "P",
+    "text": "Local time, Oslo17:44 CEST"
+  },
+  {
+    "class": "shft-legal sh-lbl",
+    "style": {
+      "columns": "none",
+      "font": "12px",
+      "gap": "normal",
+      "letter": "0.12px",
+      "margin": "0px",
+      "padding": "0px",
+      "weight": "500"
+    },
+    "tag": "P",
+    "text": "© 2026 Soren Hale. Written by hand in Oslo."
+  },
+  {
+    "class": "shft-wm",
+    "style": {
+      "columns": "none",
+      "font": "12px",
+      "gap": "normal",
+      "letter": "normal",
+      "margin": "20px 0px 0px",
+      "padding": "0px",
+      "weight": "400"
+    },
+    "tag": "DIV",
+    "text": "Soren Hale"
+  },
+  {
+    "class": "shft-word is-fin",
+    "style": {
+      "columns": "none",
+      "font": "12px",
+      "gap": "normal",
+      "letter": "-0.54px",
+      "margin": "0px",
+      "padding": "0.24px 0px 1.2px",
+      "weight": "600"
+    },
+    "tag": "P",
+    "text": "Soren Hale"
+  }
+]

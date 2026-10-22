@@ -1,0 +1,348 @@
+{
+  "controls": [
+    {
+      "expanded": "false",
+      "label": "Menu",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Copy",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Frontend build",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Performance audit",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Design system",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Team embed",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Something else",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Under €5k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€5–10k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€10–25k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€25k+",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Not sure yet",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "INPUT",
+      "text": "",
+      "type": "text"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Continue to contact",
+      "type": "submit"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "headings": [
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "57.7024px",
+      "size": "58.88px",
+      "tag": "H1",
+      "text": "What a design system is actually for "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Three tests I use"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Make the right thing the short thing"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "31.7952px",
+      "size": "29.44px",
+      "tag": "H2",
+      "text": "Adoption is the product"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H2",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "18px",
+      "tag": "H2",
+      "text": "Footer"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Hands laying out six blank cards in a grid on a dark desk",
+      "height": 0,
+      "src": "",
+      "width": 0
+    }
+  ],
+  "links": [
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/what-a-design-system-is-for#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "Soren Hale"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "02Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "03About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "04Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "05Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Get in touch"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "~"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/what-a-design-system-is-for#poR9r6lqlp-three-tests-i-use",
+      "text": "01Three tests I use"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/what-a-design-system-is-for#poR9r6lqlp-make-the-right-thing-the-short-thing",
+      "text": "02Make the right thing the short thing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/what-a-design-system-is-for#poR9r6lqlp-adoption-is-the-product",
+      "text": "03Adoption is the product"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=Re%3A%20What%20a%20design%20system%20is%20actually%20for",
+      "text": "Write to me"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/what-a-design-system-is-for#poR9r6lqlp-three-tests-i-use",
+      "text": "01Three tests I use"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/what-a-design-system-is-for#poR9r6lqlp-make-the-right-thing-the-short-thing",
+      "text": "02Make the right thing the short thing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/what-a-design-system-is-for#poR9r6lqlp-adoption-is-the-product",
+      "text": "03Adoption is the product"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=Re%3A%20What%20a%20design%20system%20is%20actually%20for",
+      "text": "Write to me"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/an-inp-budget-you-can-keep",
+      "text": "Next postPerformanceAn INP budget you can keepHow I set an interaction budget with a team, and what we do on the day it breaks."
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=New%20project",
+      "text": "hello@sorenhale.dev"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to mehello@sorenhale.dev"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "Process"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/reviews",
+      "text": "Reviews"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "Stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/uses",
+      "text": "Uses"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/now",
+      "text": "Now"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "GitHub↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.linkedin.com/",
+      "text": "LinkedIn↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://bsky.app/",
+      "text": "Bluesky↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.framer.com/",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    }
+  ],
+  "size": [
+    1280,
+    720
+  ],
+  "text": "Skip to content\nSoren Hale\n01\nWork\n02\nServices\n03\nAbout\n04\nLab\n05\nWriting\nOpen to work from November\nGet in touch\n~\nWriting\nWhat a design system is actually for\n\n// Writing\n\nWhat a design system is actually for \n\nIt is not for consistency. It is for making the right thing the easy thing.\n\nto read\n2 min\npublished\n2026-08-27\nfiled under\nTooling\n\nEvery design system pitch starts with a slide of fourteen slightly different buttons. Consistency is the symptom people can see, so it is the one that gets funded.\n\nThe real job is quieter. A developer on a deadline should reach for the accessible, tested, on-brand component because it is the fastest option they have. If the system is slower than writing a div, the div wins, and no amount of governance changes that.\n\nThree tests I use\nCan a new developer build a settings page on day two without asking anyone?\nWhen the brand colour changes, is it one pull request?\nDoes the system say no clearly, with a reason?\n\nIf the answer to all three is yes, the fourteen buttons take care of themselves.\n\nMake the right thing the short thing\n\nMost of the work is in the types. A component that cannot be given a wrong combination of props needs no documentation for that combination.\n\ntsx\nCopy\ntype ButtonProps =\n\n  | { kind: \"solid\"; icon?: \"arrow\" }\n\n  | { kind: \"ghost\"; icon?: \"arrow\" | \"down\" }\n\n  | { kind: \"quiet\"; icon?: never }\n\n\n\nexport function Button(props: ButtonProps & { label: string }) {\n\n  // three looks, and no fourth one to argue about\n\n}\n\n\nAt Halden the token file is the single source. Colour, type and spacing are generated for the web, for the apps and for the design library from that one file. Nobody copies a hex value, so nobody copies the wrong one.\n\nAdoption is the product\n\nI spend as much time with the teams as on the components: the first two screens are migrated together, and there is a weekly hour where anyone can bring a case the system does not cover. Half of those cases become a component. The other half become a written no.\n\nA system is finished when people stop mentioning it. That took about nine months.\n\nOn this page\n\n01\nThree tests I use\n02\nMake the right thing the short thing\n03\nAdoption is the product\n\nA thought on this post? Write to me\n\nNext post\nPerformance\nAn INP budget you can keep\nHow I set an interaction budget with a team, and what we do on the day it breaks.\n\n// Start a project\n\nTell me what you are building. \n\nThree quick picks so the first reply is useful. You finish the message on the contact page.\n\n01\nWhat do you need?\n\nFrontend build\nPerformance audit\nDesign system\nTeam embed\nSomething else\n\n02\nRough budget\n\nUnder €5k\n€5–10k\n€10–25k\n€25k+\nNot sure yet\n03\nYour name or company\nbrief.ts\ndraft, not sent\nexport const brief = {\nkind: null // not picked yet,\nbudget: null // not picked yet,\nname: null // not picked yet,\n}\n\nBrief so far: nothing picked yet\n\nContinue to contact\n\nor write to hello@sorenhale.dev\n\nNothing is sent from this page. Your picks are kept in this browser tab and wait for you on the contact form.\n\nFooter\n\nFrontend developer, Oslo\n\nWrite to me\nhello@sorenhale.dev\n\nOpen to work from November\n\n// Site\n\nWork\nServices\nProcess\nReviews\nContact\n\n// About\n\nAbout\nResume\nStack\nUses\nNow\n\n// More\n\nLab\nWriting\nFAQ\nPrivacy\nTerms\nCookies\n\n// Elsewhere\n\nGitHub\n↗\n(opens in a new tab)\nLinkedIn\n↗\n(opens in a new tab)\nBluesky\n↗\n(opens in a new tab)\n\nLocal time, Oslo\n17:01 CEST\n\n© 2026 Soren Hale. Written by hand in Oslo.\n\nSorenHale\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.\n\nEdit Content",
+  "url": "https://wild-hours-611915.framer.app/writing/what-a-design-system-is-for"
+}

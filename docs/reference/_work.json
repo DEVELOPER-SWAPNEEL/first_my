@@ -1,0 +1,445 @@
+{
+  "controls": [
+    {
+      "expanded": "false",
+      "label": "Menu",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "All8",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Product3",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Tooling2",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Experiment1",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Web2",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Frontend build",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Performance audit",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Design system",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Team embed",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Something else",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Under €5k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€5–10k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€10–25k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€25k+",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Not sure yet",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "INPUT",
+      "text": "",
+      "type": "text"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Continue to contact",
+      "type": "submit"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "headings": [
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H1",
+      "text": "Eight products, each one measured. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "33.9456px",
+      "size": "33.28px",
+      "tag": "H2",
+      "text": "Northwind Checkout"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "33.9456px",
+      "size": "33.28px",
+      "tag": "H2",
+      "text": "Ledgerline Console"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "33.9456px",
+      "size": "33.28px",
+      "tag": "H2",
+      "text": "Kestrel Pay Dashboard"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "33.9456px",
+      "size": "33.28px",
+      "tag": "H2",
+      "text": "Tidewater Charts"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "33.9456px",
+      "size": "33.28px",
+      "tag": "H2",
+      "text": "Halden Design System"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "33.9456px",
+      "size": "33.28px",
+      "tag": "H2",
+      "text": "Brattvik Onboarding"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "33.9456px",
+      "size": "33.28px",
+      "tag": "H2",
+      "text": "Loopdocs"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "33.9456px",
+      "size": "33.28px",
+      "tag": "H2",
+      "text": "Parcelway Tracking"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H2",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "18px",
+      "tag": "H2",
+      "text": "Footer"
+    }
+  ],
+  "images": [
+    {
+      "alt": "A laptop with a dark dashboard and a phone on a desk at dusk",
+      "height": 360,
+      "src": "https://framerusercontent.com/images/NBnpKynwHgwRWuLCUi30GU6c55I.webp?scale-down-to=1024",
+      "width": 640
+    },
+    {
+      "alt": "A developer reading code on two monitors in a dark studio under an orange lamp",
+      "height": 356,
+      "src": "https://framerusercontent.com/images/YQjsAqZ8Nd96dGC0RfDYxu6u30.webp?scale-down-to=1024",
+      "width": 640
+    },
+    {
+      "alt": "A laptop with the dark Kestrel Pay dashboard and the same screen on a phone",
+      "height": 360,
+      "src": "https://framerusercontent.com/images/RvqLqXxA1KxZVVyP8RgneMp9weU.webp?scale-down-to=1024",
+      "width": 640
+    },
+    {
+      "alt": "A large monitor full of orange line charts and a heat map in a dark studio",
+      "height": 356,
+      "src": "https://framerusercontent.com/images/Oo5Oq1wI38K7gQCYHnJkwVTV0.webp?scale-down-to=1024",
+      "width": 640
+    },
+    {
+      "alt": "A monitor with a colour-block layout on a studio desk",
+      "height": 360,
+      "src": "https://framerusercontent.com/images/aWNEv0jaZCUVP73sfGcnomorc8.webp?scale-down-to=1024",
+      "width": 640
+    },
+    {
+      "alt": "A developer at a monitor at dusk with the city behind him",
+      "height": 0,
+      "src": "",
+      "width": 0
+    },
+    {
+      "alt": "A developer typing at two monitors at night",
+      "height": 0,
+      "src": "",
+      "width": 0
+    },
+    {
+      "alt": "A dark city map with thin gold route lines",
+      "height": 356,
+      "src": "https://framerusercontent.com/images/QGaH4G8vwnW6nZEdtREoL2NDp4.webp?scale-down-to=1024",
+      "width": 640
+    }
+  ],
+  "links": [
+    {
+      "href": "https://wild-hours-611915.framer.app/work#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "Soren Hale"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "02Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "03About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "04Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "05Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Get in touch"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/northwind-checkout",
+      "text": "Northwind Checkout"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/ledgerline-console",
+      "text": "Ledgerline Console"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/kestrel-pay-dashboard",
+      "text": "Kestrel Pay Dashboard"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/tidewater-charts",
+      "text": "Tidewater Charts"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/halden-design-system",
+      "text": "Halden Design System"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/brattvik-onboarding",
+      "text": "Brattvik Onboarding"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/loopdocs",
+      "text": "Loopdocs"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/parcelway-tracking",
+      "text": "Parcelway Tracking"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=New%20project",
+      "text": "hello@sorenhale.dev"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to mehello@sorenhale.dev"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "Process"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/reviews",
+      "text": "Reviews"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "Stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/uses",
+      "text": "Uses"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/now",
+      "text": "Now"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "GitHub↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.linkedin.com/",
+      "text": "LinkedIn↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://bsky.app/",
+      "text": "Bluesky↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.framer.com/",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    }
+  ],
+  "size": [
+    1280,
+    720
+  ],
+  "text": "Skip to content\nSoren Hale\n01\nWork\n02\nServices\n03\nAbout\n04\nLab\n05\nWriting\nOpen to work from November\nGet in touch\n\n// Work\n\nEight products, each one measured. \n\nEvery case starts with a number that was wrong and ends with the one that shipped. Filter by kind, or open any of them for the full write-up.\n\ncase studies\n8\nproducts shipped\n46\naverage Lighthouse\n99\nAll\n8\nProduct\n3\nTooling\n2\nExperiment\n1\nWeb\n2\n\n08 projects\n\nProduct\n\nNorthwind · 2025\nLead frontend developer\n\nNorthwind Checkout\n\nA checkout that is ready before the customer has finished reaching for their card.\n\nfrom\n2.9 s\n→\nto\n0.8 s\nLCP on a mid-range phone\n\nOpen case\n\nReact\nTypeScript\nXState\nVite\n\nTooling\n\nLedgerline · 2024\nFrontend architect\n\nLedgerline Console\n\nForty internal tools moved into one console, on one design system, with one way to ship.\n\nfrom\n14 min\n→\nto\n95 s\nFrom merge to production\n\nOpen case\n\nReact\nTypeScript\nModule Federation\nTurborepo\n\nProduct\n\nKestrel Pay · 2024\nSenior frontend developer\n\nKestrel Pay Dashboard\n\nLive payment data on a table of 200,000 rows that still answers a click at once.\n\nfrom\n380 ms\n→\nto\n48 ms\nINP on the transactions table\n\nOpen case\n\nReact\nTypeScript\nTanStack Virtual\nWebSocket\n\nExperiment\n\nTidewater · 2023\nFrontend and WebGL developer\n\nTidewater Charts\n\nA charting layer that pans through a million points without dropping a frame.\n\nfrom\n12 fps\n→\nto\n60 fps\nPan and zoom at 1M points\n\nOpen case\n\nTypeScript\nWebGL\nregl\nWeb Workers\n\nTooling\n\nHalden · 2023\nDesign systems lead\n\nHalden Design System\n\nSixty-two components, one token file and no accessibility exceptions.\n\nfrom\n71\n→\nto\n100\nLighthouse accessibility, product average\n\nOpen case\n\nReact\nTypeScript\nStorybook\nRadix\n\nProduct\n\nBrattvik Bank · 2022\nSenior frontend developer\n\nBrattvik Onboarding\n\nOpening an account went from eleven screens to four.\n\nfrom\n38%\n→\nto\n71%\nApplications completed\n\nOpen case\n\nNext.js\nTypeScript\nZod\nPlaywright\n\nWeb\n\nLoopdocs · 2022\nFrontend developer\n\nLoopdocs\n\nDeveloper docs that load at once and search as you type.\n\nfrom\n1.9 s\n→\nto\n0.4 s\nTime to the first search result\n\nOpen case\n\nAstro\nTypeScript\nPagefind\nMDX\n\nWeb\n\nParcelway · 2021\nFrontend developer\n\nParcelway Tracking\n\nThe tracking page three million people open every month, at a seventh of the weight.\n\nfrom\n640 kB\n→\nto\n92 kB\nJavaScript shipped\n\nOpen case\n\nPreact\nTypeScript\nVite\nWorkbox\n\n// Start a project\n\nTell me what you are building. \n\nThree quick picks so the first reply is useful. You finish the message on the contact page.\n\n01\nWhat do you need?\n\nFrontend build\nPerformance audit\nDesign system\nTeam embed\nSomething else\n\n02\nRough budget\n\nUnder €5k\n€5–10k\n€10–25k\n€25k+\nNot sure yet\n03\nYour name or company\nbrief.ts\ndraft, not sent\nexport const brief = {\nkind: null // not picked yet,\nbudget: null // not picked yet,\nname: null // not picked yet,\n}\n\nBrief so far: nothing picked yet\n\nContinue to contact\n\nor write to hello@sorenhale.dev\n\nNothing is sent from this page. Your picks are kept in this browser tab and wait for you on the contact form.\n\nFooter\n\nFrontend developer, Oslo\n\nWrite to me\nhello@sorenhale.dev\n\nOpen to work from November\n\n// Site\n\nWork\nServices\nProcess\nReviews\nContact\n\n// About\n\nAbout\nResume\nStack\nUses\nNow\n\n// More\n\nLab\nWriting\nFAQ\nPrivacy\nTerms\nCookies\n\n// Elsewhere\n\nGitHub\n↗\n(opens in a new tab)\nLinkedIn\n↗\n(opens in a new tab)\nBluesky\n↗\n(opens in a new tab)\n\nLocal time, Oslo\n17:01 CEST\n\n© 2026 Soren Hale. Written by hand in Oslo.\n\nSorenHale\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.\n\nEdit Content",
+  "url": "https://wild-hours-611915.framer.app/work"
+}

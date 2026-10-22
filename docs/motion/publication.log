@@ -1,0 +1,6 @@
+
+> personal-website@0.1.0 check:publication
+> node --experimental-strip-types scripts/check-publication.ts
+
+Publication is blocked: unfinished routes and unapproved editorial / employer-disclosure content remain.
+Unresolved profile fields: bluesky

@@ -1,0 +1,1025 @@
+- banner:
+  - link "Skip to content":
+    - /url: "#main"
+  - link "Soren Hale, home":
+    - /url: /
+    - text: Soren Hale
+  - navigation "Main":
+    - list:
+      - link "Work":
+        - /url: /work
+        - generic: "01"
+        - text: Work
+      - link "Services":
+        - /url: /services
+        - generic: "02"
+        - text: Services
+      - link "About":
+        - /url: /about
+        - generic: "03"
+        - text: About
+      - link "Lab":
+        - /url: /lab
+        - generic: "04"
+        - text: Lab
+      - link "Writing":
+        - /url: /writing
+        - generic: "05"
+        - text: Writing
+  - generic: Open to work from November
+  - link "Get in touch":
+    - /url: /contact
+    - generic: Get in touch
+- img "Soren Hale, frontend developer, in a navy work jacket against a dark wall"
+- paragraph: // Frontend developer · React, TypeScript, WebGL
+- heading "Frontend developer shipping interfaces that feel instant." [level=1]:
+  - generic: Frontend
+  - generic: developer
+  - generic: shipping
+  - generic: interfaces
+  - generic: that
+  - generic: feel
+  - generic: instant.
+- paragraph: Eight years building product interfaces for fintech and developer tools. React, TypeScript, and a stubborn eye on the last hundred milliseconds.
+- link "See the work":
+  - /url: /work
+  - generic: See the work
+- link "Download CV":
+  - /url: /resume
+  - generic: Download CV
+- term: Years shipping product
+- definition:
+  - generic "8"
+- term: Interfaces launched
+- definition:
+  - generic "46"
+- term: Average Lighthouse
+- definition:
+  - generic "99"
+- button "View render" [pressed]:
+  - generic: "{ }"
+  - text: View render
+- 'link "main soren/northwind-checkout feat(checkout): cut LCP 2.9s → 0.8s +212 −1,048 · merged 3 days ago"':
+  - /url: /work
+  - text: main
+  - emphasis: soren/northwind-checkout
+  - strong: "feat(checkout): cut LCP 2.9s → 0.8s"
+  - generic: +212 −1,048 · merged 3 days ago
+- paragraph: Move over the picture to read the source
+- paragraph: // Shipped for
+- paragraph: "Shipped for: Northwind, Ledgerline, Kestrel Pay, Tidewater, Halden, Brattvik Bank, Loopdocs, Parcelway"
+- text: Northwind
+- generic: /
+- text: Ledgerline
+- generic: /
+- text: Kestrel Pay
+- generic: /
+- text: Tidewater
+- generic: /
+- text: Halden
+- generic: /
+- text: Brattvik Bank
+- generic: /
+- text: Loopdocs
+- generic: /
+- text: Parcelway
+- generic: /
+- text: Northwind
+- generic: /
+- text: Ledgerline
+- generic: /
+- text: Kestrel Pay
+- generic: /
+- text: Tidewater
+- generic: /
+- text: Halden
+- generic: /
+- text: Brattvik Bank
+- generic: /
+- text: Loopdocs
+- generic: /
+- text: Parcelway
+- generic: /
+- text: Northwind
+- generic: /
+- text: Ledgerline
+- generic: /
+- text: Kestrel Pay
+- generic: /
+- text: Tidewater
+- generic: /
+- text: Halden
+- generic: /
+- text: Brattvik Bank
+- generic: /
+- text: Loopdocs
+- generic: /
+- text: Parcelway
+- generic: /
+- text: Northwind
+- generic: /
+- text: Ledgerline
+- generic: /
+- text: Kestrel Pay
+- generic: /
+- text: Tidewater
+- generic: /
+- text: Halden
+- generic: /
+- text: Brattvik Bank
+- generic: /
+- text: Loopdocs
+- generic: /
+- text: Parcelway
+- generic: /
+- list:
+  - generic: "status:"
+  - generic: Open to work from November
+  - generic: "timezone:"
+  - generic: Oslo · Europe/Oslo
+  - generic: "reply:"
+  - generic: Replies within one working day
+- region "Selected work Five products, each one measured. Every case starts with a number that was wrong and ends with the one that shipped. Open any of them for the full write-up.":
+  - paragraph: // Selected work
+  - heading "Five products, each one measured." [level=2]:
+    - generic: Five
+    - generic: products,
+    - generic: each
+    - generic: one
+    - generic: measured.
+  - paragraph: Every case starts with a number that was wrong and ends with the one that shipped. Open any of them for the full write-up.
+  - link "08 All projects":
+    - /url: /work
+    - generic: "08"
+    - generic: All projects
+  - list "Selected projects":
+    - article:
+      - paragraph:
+        - generic: 01 of 05
+        - generic: Northwind · 2025
+      - heading "Northwind Checkout" [level=3]:
+        - link "Northwind Checkout":
+          - /url: /work/northwind-checkout
+          - generic: Northwind Checkout
+      - paragraph: A checkout that is ready before the customer has finished reaching for their card.
+      - paragraph: Lead frontend developer
+      - paragraph:
+        - generic: from
+        - text: 2.9 s
+        - generic: →
+        - generic: to
+        - text: 0.8 s
+        - generic: LCP on a mid-range phone
+      - paragraph:
+        - generic: React
+        - generic: TypeScript
+        - generic: XState
+        - generic: Vite
+      - 'link "Open case: Northwind Checkout"':
+        - /url: /work/northwind-checkout
+        - generic: Open case
+      - link:
+        - /url: /work/northwind-checkout
+        - generic: Product
+    - article:
+      - paragraph:
+        - generic: 02 of 05
+        - generic: Ledgerline · 2024
+      - heading "Ledgerline Console" [level=3]:
+        - link "Ledgerline Console":
+          - /url: /work/ledgerline-console
+          - generic: Ledgerline Console
+      - paragraph: Forty internal tools moved into one console, on one design system, with one way to ship.
+      - paragraph: Frontend architect
+      - paragraph:
+        - generic: from
+        - text: 14 min
+        - generic: →
+        - generic: to
+        - text: 95 s
+        - generic: From merge to production
+      - paragraph:
+        - generic: React
+        - generic: TypeScript
+        - generic: Module Federation
+        - generic: Turborepo
+      - 'link "Open case: Ledgerline Console"':
+        - /url: /work/ledgerline-console
+        - generic: Open case
+      - link:
+        - /url: /work/ledgerline-console
+        - generic: Tooling
+    - article:
+      - paragraph:
+        - generic: 03 of 05
+        - generic: Kestrel Pay · 2024
+      - heading "Kestrel Pay Dashboard" [level=3]:
+        - link "Kestrel Pay Dashboard":
+          - /url: /work/kestrel-pay-dashboard
+          - generic: Kestrel Pay Dashboard
+      - paragraph: Live payment data on a table of 200,000 rows that still answers a click at once.
+      - paragraph: Senior frontend developer
+      - paragraph:
+        - generic: from
+        - text: 380 ms
+        - generic: →
+        - generic: to
+        - text: 48 ms
+        - generic: INP on the transactions table
+      - paragraph:
+        - generic: React
+        - generic: TypeScript
+        - generic: TanStack Virtual
+        - generic: WebSocket
+      - 'link "Open case: Kestrel Pay Dashboard"':
+        - /url: /work/kestrel-pay-dashboard
+        - generic: Open case
+      - link:
+        - /url: /work/kestrel-pay-dashboard
+        - generic: Product
+    - article:
+      - paragraph:
+        - generic: 04 of 05
+        - generic: Tidewater · 2023
+      - heading "Tidewater Charts" [level=3]:
+        - link "Tidewater Charts":
+          - /url: /work/tidewater-charts
+          - generic: Tidewater Charts
+      - paragraph: A charting layer that pans through a million points without dropping a frame.
+      - paragraph: Frontend and WebGL developer
+      - paragraph:
+        - generic: from
+        - text: 12 fps
+        - generic: →
+        - generic: to
+        - text: 60 fps
+        - generic: Pan and zoom at 1M points
+      - paragraph:
+        - generic: TypeScript
+        - generic: WebGL
+        - generic: regl
+        - generic: Web Workers
+      - 'link "Open case: Tidewater Charts"':
+        - /url: /work/tidewater-charts
+        - generic: Open case
+      - link:
+        - /url: /work/tidewater-charts
+        - generic: Experiment
+    - article:
+      - paragraph:
+        - generic: 05 of 05
+        - generic: Halden · 2023
+      - heading "Halden Design System" [level=3]:
+        - link "Halden Design System":
+          - /url: /work/halden-design-system
+          - generic: Halden Design System
+      - paragraph: Sixty-two components, one token file and no accessibility exceptions.
+      - paragraph: Design systems lead
+      - paragraph:
+        - generic: from
+        - text: "71"
+        - generic: →
+        - generic: to
+        - text: "100"
+        - generic: Lighthouse accessibility, product average
+      - paragraph:
+        - generic: React
+        - generic: TypeScript
+        - generic: Storybook
+        - generic: Radix
+      - 'link "Open case: Halden Design System"':
+        - /url: /work/halden-design-system
+        - generic: Open case
+      - link:
+        - /url: /work/halden-design-system
+        - generic: Tooling
+- region "I build product interfaces that feel instant and stay that way. Eight years in fintech and developer tools taught me that speed is a feature, accessibility is not optional, and the best code is the code the next person can read.":
+  - paragraph: // About
+  - heading "I build product interfaces that feel instant and stay that way. Eight years in fintech and developer tools taught me that speed is a feature, accessibility is not optional, and the best code is the code the next person can read." [level=2]:
+    - generic: I build product interfaces that feel instant and stay that way. Eight years in fintech and developer tools taught me that speed is a feature, accessibility is not optional, and the best code is the code the next person can read.
+    - generic: I
+    - generic: build
+    - generic: product
+    - generic: interfaces
+    - generic: that
+    - generic: feel
+    - generic: instant
+    - generic: and
+    - generic: stay
+    - generic: that
+    - generic: way.
+    - generic: Eight
+    - generic: years
+    - generic: in
+    - generic: fintech
+    - generic: and
+    - generic: developer
+    - generic: tools
+    - generic: taught
+    - generic: me
+    - generic: that
+    - generic: speed
+    - generic: is
+    - generic: a
+    - generic: feature,
+    - generic: accessibility
+    - generic: is
+    - generic: not
+    - generic: optional,
+    - generic: and
+    - generic: the
+    - generic: best
+    - generic: code
+    - generic: is
+    - generic: the
+    - generic: code
+    - generic: the
+    - generic: next
+    - generic: person
+    - generic: can
+    - generic: read.
+  - figure "Soren Hale · Oslo":
+    - img "A dark desk at night with a closed laptop, a notebook and a lamp-lit plant"
+    - generic: Soren Hale · Oslo
+  - paragraph:
+    - generic: Now
+    - generic: Updated October 2026
+  - term: Building
+  - definition: Kestrel Pay, transactions v3
+  - term: Maintaining
+  - definition: tinyvirtual, 2.1k stars
+  - term: Reading
+  - definition: The CSS anchor positioning spec
+  - term: Based in
+  - definition: Oslo, working CET hours
+  - link "02 More about me":
+    - /url: /about
+    - generic: "02"
+    - generic: More about me
+- paragraph: // The numbers
+- heading "Numbers, not adjectives." [level=2]:
+  - generic: Numbers,
+  - generic: not
+  - generic: adjectives.
+- paragraph: Every launch is measured on a mid-range phone and a throttled connection before it goes out. These are the medians, not the best run of the day.
+- paragraph: median of the last 12 launches
+- link "01 See the launches behind them":
+  - /url: /work
+  - generic: "01"
+  - generic: See the launches behind them
+- list "Scores":
+  - paragraph:
+    - generic: "01"
+    - generic: Performance
+  - paragraph:
+    - generic "98"
+    - generic: of 100
+  - paragraph:
+    - generic: "02"
+    - generic: Accessibility
+  - paragraph:
+    - generic "100"
+    - generic: of 100
+  - paragraph:
+    - generic: "03"
+    - generic: Best practices
+  - paragraph:
+    - generic "100"
+    - generic: of 100
+  - paragraph:
+    - generic: "04"
+    - generic: SEO
+  - paragraph:
+    - generic "100"
+    - generic: of 100
+- paragraph:
+  - generic: Core Web Vitals
+  - generic: field data, 75th percentile
+- list "Vitals against their budget":
+  - paragraph:
+    - generic: LCP
+    - generic: Largest Contentful Paint
+  - paragraph: 0.8 s
+  - paragraph:
+    - generic: "0"
+    - text: within budget
+    - generic: budget 2.5 s
+  - paragraph:
+    - generic: INP
+    - generic: Interaction to Next Paint
+  - paragraph: 48 ms
+  - paragraph:
+    - generic: "0"
+    - text: within budget
+    - generic: budget 200 ms
+  - paragraph:
+    - generic: CLS
+    - generic: Cumulative Layout Shift
+  - paragraph: "0.01"
+  - paragraph:
+    - generic: "0"
+    - text: within budget
+    - generic: budget 0.1
+- paragraph: // The stack
+- heading "The keys I press every day." [level=2]:
+  - generic: The
+  - generic: keys
+  - generic: I
+  - generic: press
+  - generic: every
+  - generic: day.
+- paragraph: The tools I would pick again tomorrow. Point at a key, or tab across the board, to see how long it has been there and what it is for.
+- paragraph: 16 tools · 4 groups
+- link "02 The full stack":
+  - /url: /stack
+  - generic: "02"
+  - generic: The full stack
+- group "The stack, one key per tool":
+  - paragraph:
+    - generic: Languages
+    - emphasis: "04"
+  - list "Languages 04":
+    - button "TypeScript. 8 years on the board. Daily. Strict mode, no any. Types are the first draft of the docs.":
+      - generic: 8y
+      - generic: TypeScript
+    - button "JavaScript. 8 years on the board. Daily. The platform underneath everything else, and still where the bugs live.":
+      - generic: 8y
+      - generic: JavaScript
+    - button "CSS. 8 years on the board. Daily. Grid, container queries and custom properties before any library." [pressed]:
+      - generic: 8y
+      - generic: CSS
+    - button "GLSL. 4 years on the board. Weekly. Shaders for charts and the occasional hero that earns its place.":
+      - generic: 4y
+      - generic: GLSL
+  - paragraph:
+    - generic: Frameworks
+    - emphasis: "04"
+  - list "Frameworks 04":
+    - button "React. 8 years on the board. Daily. Server components where they help, plain state where they do not.":
+      - generic: 8y
+      - generic: React
+    - button "Next.js. 6 years on the board. Daily. The default for products that need a server and a deadline.":
+      - generic: 6y
+      - generic: Next.js
+    - button "Astro. 3 years on the board. Weekly. For docs and content sites that should ship almost no JavaScript.":
+      - generic: 3y
+      - generic: Astro
+    - button "Svelte. 2 years on the board. Comfortable. Small tools and prototypes; I read it more often than I write it.":
+      - generic: 2y
+      - generic: Svelte
+  - paragraph:
+    - generic: Tooling
+    - emphasis: "04"
+  - list "Tooling 04":
+    - button "Vite. 5 years on the board. Daily. Fast feedback is a feature. Builds measured in seconds, not coffee.":
+      - generic: 5y
+      - generic: Vite
+    - button "Node.js. 7 years on the board. Weekly. Build scripts, small APIs and the glue between services.":
+      - generic: 7y
+      - generic: Node.js
+    - button "Storybook. 6 years on the board. Weekly. Every component in isolation, with its states written down.":
+      - generic: 6y
+      - generic: Storybook
+    - button "Figma. 7 years on the board. Weekly. I read design files fluently and push tokens back into them.":
+      - generic: 7y
+      - generic: Figma
+  - paragraph:
+    - generic: Testing
+    - emphasis: "04"
+  - list "Testing 04":
+    - button "Playwright. 5 years on the board. Daily. End-to-end tests on the flows that make money, on every pull request.":
+      - generic: 5y
+      - generic: Playwright
+    - button "Vitest. 4 years on the board. Daily. Unit tests that run before I have switched windows.":
+      - generic: 4y
+      - generic: Vitest
+    - button "Testing Library. 6 years on the board. Weekly. Tests that use the interface the way a person does.":
+      - generic: 6y
+      - generic: Testing Library
+    - button "Lighthouse CI. 5 years on the board. Weekly. A performance budget the build enforces, so nobody has to argue.":
+      - generic: 5y
+      - generic: Lighthouse CI
+- generic "Selected key":
+  - paragraph:
+    - generic: key 03 of 16
+    - generic: Languages
+  - paragraph: CSS
+  - paragraph:
+    - generic: "8"
+    - generic: years on the board
+  - paragraph:
+    - generic: Used
+    - generic: Daily
+  - paragraph: Grid, container queries and custom properties before any library.
+- paragraph: // Services
+- heading "Four ways to put me to work." [level=2]:
+  - generic: Four
+  - generic: ways
+  - generic: to
+  - generic: put
+  - generic: me
+  - generic: to
+  - generic: work.
+- paragraph: Fixed scope, a written plan before any code, and a price you know up front. Open a row to see what is in it.
+- link "03 All services":
+  - /url: /services
+  - generic: "03"
+  - generic: All services
+- list "Services":
+  - heading "01 Frontend build Your product's interface, from the first component to the production deploy. From €9,500" [level=3]:
+    - button "01 Frontend build Your product's interface, from the first component to the production deploy. From €9,500":
+      - generic: "01"
+      - generic: Frontend build
+      - generic: Your product's interface, from the first component to the production deploy.
+      - generic: From €9,500
+  - heading "02 Performance audit A measured list of what is slow, why, and what each fix is worth. From €3,200" [level=3]:
+    - button "02 Performance audit A measured list of what is slow, why, and what each fix is worth. From €3,200" [expanded]:
+      - generic: "02"
+      - generic: Performance audit
+      - generic: A measured list of what is slow, why, and what each fix is worth.
+      - generic: From €3,200
+  - region "02 Performance audit A measured list of what is slow, why, and what each fix is worth. From €3,200":
+    - paragraph: "I profile your product on real devices and on your real traffic, then hand you a ranked list: the change, the expected gain and the effort. The first three fixes come as pull requests."
+    - 'link "See the service: Performance audit"':
+      - /url: /services/performance-audit
+      - generic: See the service
+    - paragraph: Includes
+    - list:
+      - generic: Field and lab measurements
+      - generic: Ranked findings with numbers
+      - generic: Three fixes as pull requests
+      - generic: A budget your CI can enforce
+    - term: Price
+    - definition: From €3,200
+    - term: Timeline
+    - definition: 1 week
+  - heading "03 Design system One set of tokens and components your whole team actually uses. From €12,000" [level=3]:
+    - button "03 Design system One set of tokens and components your whole team actually uses. From €12,000":
+      - generic: "03"
+      - generic: Design system
+      - generic: One set of tokens and components your whole team actually uses.
+      - generic: From €12,000
+  - heading "04 Team embed A senior frontend developer inside your team, three days a week. From €6,400 a month" [level=3]:
+    - button "04 Team embed A senior frontend developer inside your team, three days a week. From €6,400 a month":
+      - generic: "04"
+      - generic: Team embed
+      - generic: A senior frontend developer inside your team, three days a week.
+      - generic: From €6,400 a month
+- region "git log --career Eight years, every one committed.":
+  - paragraph: // git log --career
+  - heading "Eight years, every one committed." [level=2]:
+    - generic: Eight
+    - generic: years,
+    - generic: every
+    - generic: one
+    - generic: committed.
+  - paragraph: "Six teams, one direction: closer to the people who use the thing. The short version is below, the long one is a page away."
+  - link "Download CV":
+    - /url: /resume
+    - generic: Download CV
+  - link "01 Read the full resume":
+    - /url: /resume
+    - generic: "01"
+    - generic: Read the full resume
+  - list "Career history":
+    - text: "2023"
+    - generic: to
+    - text: Now
+    - generic: c618ff5
+    - paragraph:
+      - generic: HEAD → main
+      - generic: Soren Hale · Oslo
+    - heading "Independent frontend developer" [level=3]
+    - paragraph: Product builds, performance work and design systems for fintech and developer tool teams across Europe.
+    - list:
+      - generic: React
+      - generic: TypeScript
+      - generic: WebGL
+    - text: "2021"
+    - generic: to
+    - text: "2023"
+    - generic: 7e0230a
+    - paragraph:
+      - generic: Kestrel Pay · Oslo
+    - heading "Staff frontend engineer" [level=3]
+    - paragraph: "Led the merchant dashboard: live data, a new table engine and the performance budget every team now ships against."
+    - list:
+      - generic: React
+      - generic: TypeScript
+      - generic: WebSocket
+    - text: "2020"
+    - generic: to
+    - text: "2021"
+    - generic: 0cec1ce
+    - paragraph:
+      - generic: Ledgerline · Stockholm
+    - heading "Senior frontend engineer" [level=3]
+    - paragraph: Designed the shell and the shared library that replaced forty internal tools with one console.
+    - list:
+      - generic: React
+      - generic: Module Federation
+      - generic: Turborepo
+    - text: "2019"
+    - generic: to
+    - text: "2020"
+    - generic: d11045c
+    - paragraph:
+      - generic: Tidewater · Copenhagen
+    - heading "Frontend engineer" [level=3]
+    - paragraph: Built the GPU charting layer for sensor data and the accessible table view behind every chart.
+    - list:
+      - generic: TypeScript
+      - generic: WebGL
+      - generic: Web Workers
+    - text: "2018"
+    - generic: to
+    - text: "2019"
+    - generic: 8af695a
+    - paragraph:
+      - generic: Pilcrow Studio · Oslo
+    - heading "Frontend developer" [level=3]
+    - paragraph: Shipped marketing sites and two web apps for clients in publishing and travel. Learned to estimate.
+    - list:
+      - generic: JavaScript
+      - generic: Vue
+      - generic: Sass
+    - generic: "2018"
+    - generic: 39a7e40
+    - paragraph:
+      - generic: "# initial commit"
+      - generic: Brygge Digital · Bergen
+    - heading "Junior web developer" [level=3]
+    - paragraph: "First job: email templates, landing pages and the build script nobody else wanted to touch."
+    - list:
+      - generic: HTML
+      - generic: CSS
+      - generic: JavaScript
+- paragraph: // Open source and experiments
+- heading "What I build when nobody asks." [level=2]:
+  - generic: What
+  - generic: I
+  - generic: build
+  - generic: when
+  - generic: nobody
+  - generic: asks.
+- paragraph: Small libraries, command line tools and sketches. Most started as a fix for one project and stayed useful.
+- button "Previous":
+- button "Next" [active]:
+- list "Lab projects":
+  - link "use-latency. A React hook that measures how long every interaction really takes, in production.":
+    - /url: /lab/use-latency
+    - img "City avenues at dusk seen from above"
+    - generic: Library
+    - generic: use-latency
+    - generic: A React hook that measures how long every interaction really takes, in production.
+    - generic "2,140": 1,721
+    - emphasis: stars
+    - generic "48,200": 34,666
+    - emphasis: downloads
+    - text: Open
+  - link "glyphfield. Draws any picture as source code on a canvas. It runs the portrait at the top of this site.":
+    - /url: /lab/glyphfield
+    - img "Concrete letterforms in hard light, black and white"
+    - generic: Experiment
+    - generic: glyphfield
+    - generic: Draws any picture as source code on a canvas. It runs the portrait at the top of this site.
+    - generic "1,260": 1,013
+    - emphasis: stars
+    - generic "9,400": 6,761
+    - emphasis: downloads
+    - text: Open
+  - link "tinyflip. Layout animations in 1.1 kB, using the FLIP technique and nothing else.":
+    - /url: /lab/tinyflip
+    - img "Dark navy satin with one streak of gold light"
+    - generic: Library
+    - generic: tinyflip
+    - generic: Layout animations in 1.1 kB, using the FLIP technique and nothing else.
+    - generic "890": "716"
+    - emphasis: stars
+    - generic "12,600": 9,062
+    - emphasis: downloads
+    - text: Open
+  - link "a11y-probe. A command line check that tabs through your page and tells you where focus got lost.":
+    - /url: /lab/a11y-probe
+    - img "A grid of light and shadow on concrete"
+    - generic: Tool
+    - generic: a11y-probe
+    - generic: A command line check that tabs through your page and tells you where focus got lost.
+    - generic "640": "515"
+    - emphasis: stars
+    - generic "8,900": 6,401
+    - emphasis: downloads
+    - text: Open
+  - link "tokens-to-css. Turns a design token file into typed CSS custom properties, with dark mode built in.":
+    - /url: /lab/tokens-to-css
+    - img "A dark metal lattice grid on black stone"
+    - generic: Tool
+    - generic: tokens-to-css
+    - generic: Turns a design token file into typed CSS custom properties, with dark mode built in.
+    - generic "410": "330"
+    - emphasis: stars
+    - generic "6,300": 4,531
+    - emphasis: downloads
+    - text: Open
+  - link "shader-notes. Forty small WebGL sketches, each one under fifty lines and explained line by line.":
+    - /url: /lab/shader-notes
+    - img "Water beads on dark navy paint, close up"
+    - generic: Experiment
+    - generic: shader-notes
+    - generic: Forty small WebGL sketches, each one under fifty lines and explained line by line.
+    - generic "320": "257"
+    - emphasis: stars
+    - text: Open
+- link "02 Everything in the lab":
+  - /url: /lab
+  - generic: "02"
+  - generic: Everything in the lab
+- paragraph: // Code review
+- heading "Reviewed, then approved." [level=2]:
+  - generic: Reviewed,
+  - generic: then
+  - generic: approved.
+- paragraph: The people who merged the work, in their own words.
+- generic: reviews/clients.md
+- text: 5 of 5 approved
+- generic: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+- list:
+  - figure "Ingrid Solvang VP Engineering · Northwind":
+    - generic: Ingrid Solvang
+    - generic: VP Engineering · Northwind
+    - blockquote: We had been tuning the backend for a year. Soren found two seconds in the browser in his first week, and checkout conversion has not been below the old record since.
+    - text: Approved
+  - figure "Marcus Oyelaran Engineering manager · Kestrel Pay":
+    - generic: Marcus Oyelaran
+    - generic: Engineering manager · Kestrel Pay
+    - blockquote: He writes the kind of pull request you learn from. Our juniors started copying his commit messages, then his tests, then his habit of measuring before arguing.
+    - text: Approved
+  - figure "Hana Takeda Head of design · Halden":
+    - generic: Hana Takeda
+    - generic: Head of design · Halden
+    - blockquote: The design system shipped on time, and more to the point, people use it. Soren spent as much effort on the teams as on the components.
+    - text: Approved
+  - figure "Jonas Lindqvist Founder · Loopdocs":
+    - generic: Jonas Lindqvist
+    - generic: Founder · Loopdocs
+    - blockquote: I gave him a vague brief and a hard date. I got a plan in two days, a working build every Friday and no surprises at the end.
+    - text: Approved
+  - figure "Amara Nwosu Product lead · Tidewater":
+    - generic: Amara Nwosu
+    - generic: Product lead · Tidewater
+    - blockquote: Our analysts stopped exporting data to look at it. A million points, sixty frames a second, and it still works with a keyboard.
+    - text: Approved
+- region "Writing Notes from the build. Short, specific posts about performance, tooling and the unglamorous parts of shipping an interface.":
+  - paragraph: // Writing
+  - heading "Notes from the build." [level=2]:
+    - generic: Notes
+    - generic: from
+    - generic: the
+    - generic: build.
+  - paragraph: Short, specific posts about performance, tooling and the unglamorous parts of shipping an interface.
+  - link "01 All writing":
+    - /url: /writing
+    - generic: "01"
+    - generic: All writing
+  - link "The last hundred milliseconds. Getting a page from fast to instant is a different job from getting it from slow to fast.":
+    - /url: /writing/the-last-hundred-milliseconds
+    - img "A brass clock and a sealed envelope on a dark desk"
+    - generic: Latest
+    - generic: Performance
+    - time:
+      - generic: Posted
+      - text: 2026-09-18
+    - generic: 2 min read
+    - generic: The last hundred milliseconds
+    - generic: Getting a page from fast to instant is a different job from getting it from slow to fast.
+    - text: Read post
+  - paragraph: // Earlier posts
+  - list:
+    - link "What a design system is actually for. 2026-08-27, 2 min read":
+      - /url: /writing/what-a-design-system-is-for
+      - time: 2026-08-27
+      - generic: What a design system is actually for
+      - generic: 2 min read
+    - link "An INP budget you can keep. 2026-07-30, 2 min read":
+      - /url: /writing/an-inp-budget-you-can-keep
+      - time: 2026-07-30
+      - generic: An INP budget you can keep
+      - generic: 2 min read
+    - link "Code review is writing. 2026-06-19, 2 min read":
+      - /url: /writing/code-review-is-writing
+      - time: 2026-06-19
+      - generic: Code review is writing
+      - generic: 2 min read
+    - link "Server components, a year in. 2026-05-08, 2 min read":
+      - /url: /writing/server-components-after-a-year
+      - time: 2026-05-08
+      - generic: Server components, a year in
+      - generic: 2 min read
+- paragraph: // Questions
+- heading "Asked before the first call." [level=2]:
+  - generic: Asked
+  - generic: before
+  - generic: the
+  - generic: first
+  - generic: call.
+- paragraph: The things most teams want to know before we talk. If yours is not here, ask it directly.
+- paragraph: Something else?
+- paragraph: Replies within one working day
+- link "Ask by email":
+  - /url: mailto:hello@sorenhale.dev
+  - generic: Ask by email
+- list "Questions":
+  - heading "When are you available?" [level=3]:
+    - button "When are you available?":
+      - generic: "01"
+      - generic: When are you available?
+  - heading "Do you work alone or with a team?" [level=3]:
+    - button "Do you work alone or with a team?" [expanded]:
+      - generic: "02"
+      - generic: Do you work alone or with a team?
+  - region "Do you work alone or with a team?":
+    - paragraph: Both. I am often the only frontend developer on a small product, and just as often I join an existing team for a few months. For design and backend I work with people I have shipped with before.
+  - heading "How do you price a project?" [level=3]:
+    - button "How do you price a project?":
+      - generic: "03"
+      - generic: How do you price a project?
+  - heading "Do you only work in React?" [level=3]:
+    - button "Do you only work in React?":
+      - generic: "04"
+      - generic: Do you only work in React?
+  - heading "Can you work without a finished design?" [level=3]:
+    - button "Can you work without a finished design?":
+      - generic: "05"
+      - generic: Can you work without a finished design?
+  - heading "Will you work in our existing codebase?" [level=3]:
+    - button "Will you work in our existing codebase?":
+      - generic: "06"
+      - generic: Will you work in our existing codebase?
+  - heading "What happens when the project ends?" [level=3]:
+    - button "What happens when the project ends?":
+      - generic: "07"
+      - generic: What happens when the project ends?
+  - heading "Which hours do you work?" [level=3]:
+    - button "Which hours do you work?":
+      - generic: "08"
+      - generic: Which hours do you work?
+- paragraph: // Start a project
+- heading "Tell me what you are building." [level=2]:
+  - generic: Tell
+  - generic: me
+  - generic: what
+  - generic: you
+  - generic: are
+  - generic: building.
+- paragraph: Three quick picks so the first reply is useful. You finish the message on the contact page.
+- form "Tell me what you are building.":
+  - group "What do you need?":
+    - paragraph:
+      - generic: "01"
+      - text: What do you need?
+    - button "Frontend build"
+    - button "Performance audit"
+    - button "Design system"
+    - button "Team embed"
+    - button "Something else"
+  - group "Rough budget":
+    - paragraph:
+      - generic: "02"
+      - text: Rough budget
+    - button "Under €5k"
+    - button "€5–10k"
+    - button "€10–25k"
+    - button "€25k+"
+    - button "Not sure yet"
+  - generic: "03"
+  - text: Your name or company
+  - textbox "Your name or company":
+    - /placeholder: Ada at Northwind
+  - generic: brief.ts
+  - generic: draft, not sent
+  - generic: "export const brief = {"
+  - text: "kind:"
+  - emphasis:
+    - text: "null"
+    - generic: // not picked yet
+  - text: ","
+  - text: "budget:"
+  - emphasis:
+    - text: "null"
+    - generic: // not picked yet
+  - text: ","
+  - text: "name:"
+  - emphasis:
+    - text: "null"
+    - generic: // not picked yet
+  - text: ","
+  - generic: "}"
+  - paragraph: "Brief so far: nothing picked yet"
+  - button "Continue to contact":
+    - generic: Continue to contact
+  - paragraph:
+    - text: or write to
+    - link "hello@sorenhale.dev":
+      - /url: mailto:hello@sorenhale.dev?subject=New%20project
+  - paragraph: Nothing is sent from this page. Your picks are kept in this browser tab and wait for you on the contact form.
+- contentinfo:
+  - heading "Footer" [level=2]
+  - paragraph: Frontend developer, Oslo
+  - 'link "Write to me: hello@sorenhale.dev"':
+    - /url: mailto:hello@sorenhale.dev
+    - generic: Write to me
+    - generic: hello@sorenhale.dev
+  - paragraph: Open to work from November
+  - navigation "Footer":
+    - paragraph: // Site
+    - list "Site":
+      - link "Work":
+        - /url: /work
+      - link "Services":
+        - /url: /services
+      - link "Process":
+        - /url: /process
+      - link "Reviews":
+        - /url: /reviews
+      - link "Contact":
+        - /url: /contact
+    - paragraph: // About
+    - list "About":
+      - link "About":
+        - /url: /about
+      - link "Resume":
+        - /url: /resume
+      - link "Stack":
+        - /url: /stack
+      - link "Uses":
+        - /url: /uses
+      - link "Now":
+        - /url: /now
+    - paragraph: // More
+    - list "More":
+      - link "Lab":
+        - /url: /lab
+      - link "Writing":
+        - /url: /writing
+      - link "FAQ":
+        - /url: /faq
+      - link "Privacy":
+        - /url: /privacy
+      - link "Terms":
+        - /url: /terms
+      - link "Cookies":
+        - /url: /cookies
+    - paragraph: // Elsewhere
+    - list "Elsewhere":
+      - link "GitHub (opens in a new tab)":
+        - /url: https://github.com/
+        - text: GitHub
+        - generic: ↗
+        - generic: (opens in a new tab)
+      - link "LinkedIn (opens in a new tab)":
+        - /url: https://www.linkedin.com/
+        - text: LinkedIn
+        - generic: ↗
+        - generic: (opens in a new tab)
+      - link "Bluesky (opens in a new tab)":
+        - /url: https://bsky.app/
+        - text: Bluesky
+        - generic: ↗
+        - generic: (opens in a new tab)
+  - paragraph:
+    - generic: Local time, Oslo
+    - time: 17:03
+    - emphasis: CEST
+  - paragraph: © 2026 Soren Hale. Written by hand in Oslo.
+  - paragraph:
+    - generic: S
+    - generic: o
+    - generic: r
+    - generic: e
+    - generic: "n"
+    - generic: H
+    - generic: a
+    - generic: l
+    - generic: e
+- link "Create a free website with Framer, the website builder loved by startups, designers and agencies.":
+  - /url: https://www.framer.com
+  - paragraph: Create a free website with Framer, the website builder loved by startups, designers and agencies.
+- generic: scroll on
+- generic "Edit Framer Content": Edit Content
+- button "Edit Framer Content":
+- iframe [id="__framer-editorbar"]
+- region "Get Soren Hale":
+  - button "Get template Free":
+    - generic: Get template
+    - generic: Get template
+    - generic: Free
+  - button "Get All-Access $199":
+    - generic: Get All-Access
+    - generic: Get All-Access
+    - generic: $199
+  - link "Customization from $79":
+    - /url: https://solofoundryhq.com/customization.html?utm_source=demo&utm_medium=demo_bar&utm_campaign=soren-hale&utm_content=cust
+    - generic: Customization
+    - generic: Customization
+    - generic: from $79
+  - button "Hide these buttons": ×

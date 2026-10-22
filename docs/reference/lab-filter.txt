@@ -1,0 +1,242 @@
+- banner:
+  - link "Skip to content":
+    - /url: "#main"
+  - link "Soren Hale, home":
+    - /url: /
+    - text: Soren Hale
+  - navigation "Main":
+    - list:
+      - link "Work":
+        - /url: /work
+        - generic: "01"
+        - text: Work
+      - link "Services":
+        - /url: /services
+        - generic: "02"
+        - text: Services
+      - link "About":
+        - /url: /about
+        - generic: "03"
+        - text: About
+      - link "Lab":
+        - /url: /lab
+        - generic: "04"
+        - text: Lab
+      - link "Writing":
+        - /url: /writing
+        - generic: "05"
+        - text: Writing
+  - generic: Open to work from November
+  - link "Get in touch":
+    - /url: /contact
+    - generic: Get in touch
+- paragraph: // Lab
+- heading "Open source and experiments." [level=1]:
+  - generic: Open
+  - generic: source
+  - generic: and
+  - generic: experiments.
+- paragraph: Small tools that started as a script on a client project, and a few sketches I keep to stay honest about what I understand.
+- term: projects
+- definition: "6"
+- term: stars
+- definition: 5,660
+- term: downloads
+- definition: 85,400
+- group "Filter by kind":
+  - button "All 6":
+    - text: All
+    - emphasis: "6"
+  - button "Library 2" [active] [pressed]:
+    - text: Library
+    - emphasis: "2"
+  - button "Experiment 2":
+    - text: Experiment
+    - emphasis: "2"
+  - button "Tool 2":
+    - text: Tool
+    - emphasis: "2"
+- status: 02 of 06 projects
+- list "Library":
+  - link "use-latency. A React hook that measures how long every interaction really takes, in production.":
+    - /url: /lab/use-latency
+    - img "City avenues at dusk seen from above"
+    - generic: Library
+    - generic: use-latency
+    - generic: A React hook that measures how long every interaction really takes, in production.
+    - generic: $
+    - generic: npm install use-latency
+    - generic "2,140": 1,740
+    - emphasis: stars
+    - generic "48,200": 35,113
+    - emphasis: downloads
+    - text: Open
+  - link "tinyflip. Layout animations in 1.1 kB, using the FLIP technique and nothing else.":
+    - /url: /lab/tinyflip
+    - img "Dark navy satin with one streak of gold light"
+    - generic: Library
+    - generic: tinyflip
+    - generic: Layout animations in 1.1 kB, using the FLIP technique and nothing else.
+    - generic: $
+    - generic: npm install tinyflip
+    - generic "890": "723"
+    - emphasis: stars
+    - generic "12,600": 9,179
+    - emphasis: downloads
+    - text: Open
+- paragraph: // Start a project
+- heading "Tell me what you are building." [level=2]:
+  - generic: Tell
+  - generic: me
+  - generic: what
+  - generic: you
+  - generic: are
+  - generic: building.
+- paragraph: Three quick picks so the first reply is useful. You finish the message on the contact page.
+- form "Tell me what you are building.":
+  - group "What do you need?":
+    - paragraph:
+      - generic: "01"
+      - text: What do you need?
+    - button "Frontend build" [pressed]
+    - button "Performance audit"
+    - button "Design system"
+    - button "Team embed"
+    - button "Something else"
+  - group "Rough budget":
+    - paragraph:
+      - generic: "02"
+      - text: Rough budget
+    - button "Under €5k" [pressed]
+    - button "€5–10k"
+    - button "€10–25k"
+    - button "€25k+"
+    - button "Not sure yet"
+  - generic: "03"
+  - text: Your name or company
+  - textbox "Your name or company":
+    - /placeholder: Ada at Northwind
+  - generic: brief.ts
+  - generic: draft, not sent
+  - generic: "export const brief = {"
+  - text: "kind:"
+  - generic: "\"Frontend build\""
+  - text: ","
+  - text: "budget:"
+  - generic: "\"Under €5k\""
+  - text: ","
+  - text: "name:"
+  - emphasis:
+    - text: "null"
+    - generic: // not picked yet
+  - text: ","
+  - generic: "}"
+  - paragraph: "Brief so far: Frontend build, Under €5k"
+  - button "Continue to contact":
+    - generic: Continue to contact
+  - paragraph:
+    - text: or write to
+    - link "hello@sorenhale.dev":
+      - /url: mailto:hello@sorenhale.dev?subject=New%20project&body=kind%3A%20Frontend%20build%0Abudget%3A%20Under%20%E2%82%AC5k%0A%0A
+  - paragraph: Nothing is sent from this page. Your picks are kept in this browser tab and wait for you on the contact form.
+- contentinfo:
+  - heading "Footer" [level=2]
+  - paragraph: Frontend developer, Oslo
+  - 'link "Write to me: hello@sorenhale.dev"':
+    - /url: mailto:hello@sorenhale.dev
+    - generic: Write to me
+    - generic: hello@sorenhale.dev
+  - paragraph: Open to work from November
+  - navigation "Footer":
+    - paragraph: // Site
+    - list "Site":
+      - link "Work":
+        - /url: /work
+      - link "Services":
+        - /url: /services
+      - link "Process":
+        - /url: /process
+      - link "Reviews":
+        - /url: /reviews
+      - link "Contact":
+        - /url: /contact
+    - paragraph: // About
+    - list "About":
+      - link "About":
+        - /url: /about
+      - link "Resume":
+        - /url: /resume
+      - link "Stack":
+        - /url: /stack
+      - link "Uses":
+        - /url: /uses
+      - link "Now":
+        - /url: /now
+    - paragraph: // More
+    - list "More":
+      - link "Lab":
+        - /url: /lab
+      - link "Writing":
+        - /url: /writing
+      - link "FAQ":
+        - /url: /faq
+      - link "Privacy":
+        - /url: /privacy
+      - link "Terms":
+        - /url: /terms
+      - link "Cookies":
+        - /url: /cookies
+    - paragraph: // Elsewhere
+    - list "Elsewhere":
+      - link "GitHub (opens in a new tab)":
+        - /url: https://github.com/
+        - text: GitHub
+        - generic: ↗
+        - generic: (opens in a new tab)
+      - link "LinkedIn (opens in a new tab)":
+        - /url: https://www.linkedin.com/
+        - text: LinkedIn
+        - generic: ↗
+        - generic: (opens in a new tab)
+      - link "Bluesky (opens in a new tab)":
+        - /url: https://bsky.app/
+        - text: Bluesky
+        - generic: ↗
+        - generic: (opens in a new tab)
+  - paragraph:
+    - generic: Local time, Oslo
+    - time: 17:04
+    - emphasis: CEST
+  - paragraph: © 2026 Soren Hale. Written by hand in Oslo.
+  - paragraph:
+    - generic: S
+    - generic: o
+    - generic: r
+    - generic: e
+    - generic: "n"
+    - generic: H
+    - generic: a
+    - generic: l
+    - generic: e
+- link "Create a free website with Framer, the website builder loved by startups, designers and agencies.":
+  - /url: https://www.framer.com
+  - paragraph: Create a free website with Framer, the website builder loved by startups, designers and agencies.
+- generic: filter
+- generic "Edit Framer Content": Edit Content
+- button "Edit Framer Content":
+- iframe [id="__framer-editorbar"]
+- region "Get Soren Hale":
+  - button "Get template Free":
+    - generic: Get template
+    - generic: Get template
+    - generic: Free
+  - button "Get All-Access $199":
+    - generic: Get All-Access
+    - generic: Get All-Access
+    - generic: $199
+  - link "Customization from $79":
+    - /url: https://solofoundryhq.com/customization.html?utm_source=demo&utm_medium=demo_bar&utm_campaign=soren-hale&utm_content=cust
+    - generic: Customization
+    - generic: Customization
+    - generic: from $79
+  - button "Hide these buttons": ×

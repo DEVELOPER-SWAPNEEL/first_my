@@ -1,0 +1,540 @@
+{
+  "assets": [
+    {
+      "id": "4fa82b5f88d79857",
+      "kind": "script",
+      "name": "script",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 240748,
+          "property": "src"
+        }
+      ],
+      "url": "https://events.framer.com/script?v=2"
+    },
+    {
+      "id": "d2622d44717bb964",
+      "kind": "stylesheet",
+      "name": "css2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 240743,
+          "property": "href"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 240766,
+          "property": "href"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241159,
+          "property": "href"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241348,
+          "property": "href"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241442,
+          "property": "href"
+        }
+      ],
+      "url": "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..700&family=Geist:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap"
+    },
+    {
+      "id": "216dd7eacfbb1d15",
+      "kind": "image",
+      "name": "xh7hi06SnOdBxKKmGI2XGTqKs.webp",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241208,
+          "property": "srcset"
+        }
+      ],
+      "url": "https://framerusercontent.com/images/xh7hi06SnOdBxKKmGI2XGTqKs.webp?scale-down-to=1024"
+    },
+    {
+      "id": "0d491506e88d1e68",
+      "kind": "script",
+      "name": "rolldown-runtime.Dh6celcD.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241583,
+          "property": "href"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/rolldown-runtime.Dh6celcD.mjs"
+    },
+    {
+      "id": "972a7b7d0980073b",
+      "kind": "script",
+      "name": "react.iNMCLRE-.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241584,
+          "property": "href"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/react.iNMCLRE-.mjs"
+    },
+    {
+      "id": "1ada0a6022eec939",
+      "kind": "script",
+      "name": "motion.dK94hszq.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241585,
+          "property": "href"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/motion.dK94hszq.mjs"
+    },
+    {
+      "id": "f71395d1236184d0",
+      "kind": "script",
+      "name": "framer.BNAppio8.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241586,
+          "property": "href"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/framer.BNAppio8.mjs"
+    },
+    {
+      "id": "0f1609ac2b5f6a26",
+      "kind": "script",
+      "name": "l0WMb24c2.CDWhDz4a.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241587,
+          "property": "href"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/l0WMb24c2.CDWhDz4a.mjs"
+    },
+    {
+      "id": "38a74f939a97a192",
+      "kind": "script",
+      "name": "srA6mFiza.BYpKcZP2.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241588,
+          "property": "href"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/srA6mFiza.BYpKcZP2.mjs"
+    },
+    {
+      "id": "498ad68d3d403ae7",
+      "kind": "script",
+      "name": "UhBTVuWWe.569e0uls.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241589,
+          "property": "href"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/UhBTVuWWe.569e0uls.mjs"
+    },
+    {
+      "id": "e5dee3bd6a55b5fe",
+      "kind": "script",
+      "name": "WM7BDeAP3.CMh5i_TE.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241590,
+          "property": "href"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/WM7BDeAP3.CMh5i_TE.mjs"
+    },
+    {
+      "id": "771a357b9feffd8b",
+      "kind": "script",
+      "name": "5kd0wI-JLi6qILKcrxEEmgdU2AcUtWf9d6EP_6LfZOQ.Bwo4XXKs.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241591,
+          "property": "href"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/5kd0wI-JLi6qILKcrxEEmgdU2AcUtWf9d6EP_6LfZOQ.Bwo4XXKs.mjs"
+    },
+    {
+      "id": "602e7bb70c5b9438",
+      "kind": "script",
+      "name": "ShCta.BAo9FoL_.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241592,
+          "property": "href"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/ShCta.BAo9FoL_.mjs"
+    },
+    {
+      "id": "94b7cb61b4d5ed1f",
+      "kind": "script",
+      "name": "TkUFfQTLY6ILoG4Gpg1Rz51kThP4dLC5Cvn3hXLnJj8.Dl69AD1x.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "other"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241593,
+          "property": "href"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/TkUFfQTLY6ILoG4Gpg1Rz51kThP4dLC5Cvn3hXLnJj8.Dl69AD1x.mjs"
+    },
+    {
+      "id": "c0c4abbd7a82b39e",
+      "kind": "script",
+      "name": "script_main.DgbmH7RB.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 241594,
+          "property": "src"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/script_main.DgbmH7RB.mjs"
+    },
+    {
+      "id": "021ae6cf61bee7db",
+      "kind": "script",
+      "name": "init.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 240718,
+          "property": "href"
+        }
+      ],
+      "url": "https://framer.com/edit/init.mjs"
+    },
+    {
+      "id": "5afd6099115c5013",
+      "kind": "font",
+      "name": "GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2"
+    },
+    {
+      "id": "75a8b2e209eaad35",
+      "kind": "font",
+      "name": "3y9K6as8bTXq_nANBjzKo3IeZx8z6up5BeSl9D4dj_x9PpZBMlGIInHWVyNJ.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9K6as8bTXq_nANBjzKo3IeZx8z6up5BeSl9D4dj_x9PpZBMlGIInHWVyNJ.woff2"
+    },
+    {
+      "id": "47c091c982e8e934",
+      "kind": "font",
+      "name": "gyByhwUxId8gMEwcGFWNOITd.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://fonts.gstatic.com/s/geist/v5/gyByhwUxId8gMEwcGFWNOITd.woff2"
+    },
+    {
+      "id": "eecd9be6bd30124b",
+      "kind": "font",
+      "name": "tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwgknk-4.woff2",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "css"
+        }
+      ],
+      "url": "https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwgknk-4.woff2"
+    },
+    {
+      "id": "f042e7a3bb703541",
+      "kind": "script",
+      "name": "PX9hIOIVM.BkayNA3G.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/PX9hIOIVM.BkayNA3G.mjs"
+    },
+    {
+      "id": "f44d77ea3d71e56f",
+      "kind": "script",
+      "name": "UnTjFQRmOcGlvNxFFXUk9QN2t15xKZ77ChFl5OKGfIs.SDHLLGvW.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/UnTjFQRmOcGlvNxFFXUk9QN2t15xKZ77ChFl5OKGfIs.SDHLLGvW.mjs"
+    },
+    {
+      "id": "7235694458a35b3e",
+      "kind": "script",
+      "name": "chunk-BAHUFDKX.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://app.framerstatic.com/chunk-BAHUFDKX.mjs"
+    },
+    {
+      "id": "f7d6da41a88ece01",
+      "kind": "script",
+      "name": "lenis@1.1.NJQGRwQU.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://framerusercontent.com/sites/EXQAc2ukWKCA7R5O6qlER/lenis@1.1.NJQGRwQU.mjs"
+    },
+    {
+      "id": "c20be0fa8d8262c3",
+      "kind": "other",
+      "name": "WM7BDeAP3-indexes-default-0.framercms",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://framerusercontent.com/cms/XiXoQqSqzQtHndYtkuNX/uEaprBoQtGb6uAdzoUSH/WM7BDeAP3-indexes-default-0.framercms?range=777-1052"
+    },
+    {
+      "id": "d576cc9508dee2be",
+      "kind": "script",
+      "name": "EditButton-JSBAOQB4.mjs",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        }
+      ],
+      "url": "https://app.framerstatic.com/EditButton-JSBAOQB4.mjs"
+    },
+    {
+      "id": "ffe2d5acd357853f",
+      "kind": "other",
+      "name": "edit",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "iframe"
+        }
+      ],
+      "url": "https://framer.com/edit?framerSiteId=f85e94a482ae409ed69309df18bc2f5654138c8c4ff3dfaef6c612586282885d&source=wild-hours-611915.framer.app&features=%7B%22editorBarDisableFrameAncestorsSecurity%22%3Afalse%2C%22onPageLocalizationSupport%22%3Atrue%2C%22onPageMoveTool%22%3Atrue%2C%22onPageRichTextBlockSelection%22%3Atrue%7D&loadStart=1791904007676&forceShow=true"
+    },
+    {
+      "id": "cd016b0b192e0959",
+      "kind": "other",
+      "name": "WM7BDeAP3-indexes-default-0.framercms",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://framerusercontent.com/cms/XiXoQqSqzQtHndYtkuNX/uEaprBoQtGb6uAdzoUSH/WM7BDeAP3-indexes-default-0.framercms?range=501-776"
+    },
+    {
+      "id": "1118c4be6e43163b",
+      "kind": "other",
+      "name": "anonymous",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "beacon"
+        }
+      ],
+      "url": "https://events.framer.com/anonymous"
+    },
+    {
+      "id": "fa15b612f6cfe722",
+      "kind": "script",
+      "name": "data.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 242256,
+          "property": "src"
+        }
+      ],
+      "url": "https://solofoundryhq.com/data.js"
+    }
+  ],
+  "id": "32982d9e-51e0-4245-b8ba-4046ac02ee9e",
+  "inlineSvgs": [
+    {
+      "id": "68a033d8ed12c298",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"></path></svg>",
+      "name": "svg-1"
+    },
+    {
+      "id": "60950a3babd9d481",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"></path></svg>",
+      "name": "svg-2"
+    },
+    {
+      "id": "c257e36c83538ae4",
+      "markup": "<svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"></path></svg>",
+      "name": "svg-3"
+    },
+    {
+      "id": "cf3a6ba5562b5405",
+      "markup": "<svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"></path></svg>",
+      "name": "svg-4"
+    },
+    {
+      "id": "d2c922278fc257f4",
+      "markup": "<svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"></path></svg>",
+      "name": "svg-5"
+    },
+    {
+      "id": "901f72a20118ac2a",
+      "markup": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"></path></svg>",
+      "name": "svg-6"
+    },
+    {
+      "id": "0d3c6330ea2a7be6",
+      "markup": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"></path></svg>",
+      "name": "svg-7"
+    },
+    {
+      "id": "5d6c21d57882c697",
+      "markup": "<svg width=\"15\" height=\"15\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"></path></svg>",
+      "name": "svg-8"
+    },
+    {
+      "id": "1b3f9d0e4eacd6d9",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"></path></svg>",
+      "name": "svg-9"
+    },
+    {
+      "id": "6aace032f5c34642",
+      "markup": "<svg viewBox=\"0 0 24 24\" width=\"15\" height=\"15\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14M13 6l6 6-6 6\"></path></svg>",
+      "name": "svg-10"
+    },
+    {
+      "id": "84286092be64de06",
+      "markup": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"14\" height=\"14\" fill=\"none\"><path d=\"M1 9.414a1 1 0 0 1 .293-.707l7.469-7.469a1.75 1.75 0 0 1 2.476 0l1.524 1.524a1.75 1.75 0 0 1 0 2.476l-7.469 7.469a1 1 0 0 1-.707.293H2a1 1 0 0 1-1-1zM11.5 6.5l-4-4\" fill=\"transparent\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg>",
+      "name": "svg-11"
+    }
+  ],
+  "pageUrl": "https://wild-hours-611915.framer.app/lab/shader-notes",
+  "summary": {
+    "byKind": {
+      "font": 4,
+      "image": 1,
+      "other": 4,
+      "script": 20,
+      "stylesheet": 1,
+      "video": 0
+    },
+    "inlineSvgCount": 11,
+    "totalCount": 30
+  }
+}

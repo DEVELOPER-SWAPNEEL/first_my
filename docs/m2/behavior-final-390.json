@@ -1,0 +1,261 @@
+[
+  {
+    "kind": "stack",
+    "i": 0,
+    "selected": "Key 01 of 16 · Languages\n\nKey 01\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 1,
+    "selected": "Key 02 of 16 · Languages\n\nKey 02\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 2,
+    "selected": "Key 03 of 16 · Languages\n\nKey 03\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 3,
+    "selected": "Key 04 of 16 · Languages\n\nKey 04\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 4,
+    "selected": "Key 05 of 16 · Frameworks\n\nKey 05\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 5,
+    "selected": "Key 06 of 16 · Frameworks\n\nKey 06\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 6,
+    "selected": "Key 07 of 16 · Frameworks\n\nKey 07\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 7,
+    "selected": "Key 08 of 16 · Frameworks\n\nKey 08\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 8,
+    "selected": "Key 09 of 16 · Tooling\n\nKey 09\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 9,
+    "selected": "Key 10 of 16 · Tooling\n\nKey 10\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 10,
+    "selected": "Key 11 of 16 · Tooling\n\nKey 11\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 11,
+    "selected": "Key 12 of 16 · Tooling\n\nKey 12\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 12,
+    "selected": "Key 13 of 16 · Testing\n\nKey 13\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 13,
+    "selected": "Key 14 of 16 · Testing\n\nKey 14\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 14,
+    "selected": "Key 15 of 16 · Testing\n\nKey 15\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "stack",
+    "i": 15,
+    "selected": "Key 16 of 16 · Testing\n\nKey 16\n\n—\n\nExperience pending\n\nUse / proficiency pending\n\nTool identity, use, proficiency and experience are pending verification."
+  },
+  {
+    "kind": "services",
+    "i": 0,
+    "states": [
+      "false",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "kind": "services",
+    "i": 1,
+    "states": [
+      "false",
+      "true",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "kind": "services",
+    "i": 2,
+    "states": [
+      "false",
+      "false",
+      "true",
+      "false"
+    ]
+  },
+  {
+    "kind": "services",
+    "i": 3,
+    "states": [
+      "false",
+      "false",
+      "false",
+      "true"
+    ]
+  },
+  {
+    "kind": "services",
+    "close": [
+      "false",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "kind": "faq",
+    "i": 0,
+    "states": [
+      "false",
+      "false",
+      "false",
+      "false",
+      "false",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "kind": "faq",
+    "i": 1,
+    "states": [
+      "false",
+      "true",
+      "false",
+      "false",
+      "false",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "kind": "faq",
+    "i": 2,
+    "states": [
+      "false",
+      "false",
+      "true",
+      "false",
+      "false",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "kind": "faq",
+    "i": 3,
+    "states": [
+      "false",
+      "false",
+      "false",
+      "true",
+      "false",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "kind": "faq",
+    "i": 4,
+    "states": [
+      "false",
+      "false",
+      "false",
+      "false",
+      "true",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "kind": "faq",
+    "i": 5,
+    "states": [
+      "false",
+      "false",
+      "false",
+      "false",
+      "false",
+      "true",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "kind": "faq",
+    "i": 6,
+    "states": [
+      "false",
+      "false",
+      "false",
+      "false",
+      "false",
+      "false",
+      "true",
+      "false"
+    ]
+  },
+  {
+    "kind": "faq",
+    "i": 7,
+    "states": [
+      "false",
+      "false",
+      "false",
+      "false",
+      "false",
+      "false",
+      "false",
+      "true"
+    ]
+  },
+  {
+    "kind": "faq",
+    "close": [
+      "false",
+      "false",
+      "false",
+      "false",
+      "false",
+      "false",
+      "false",
+      "false"
+    ]
+  },
+  {
+    "kind": "brief",
+    "summary": "export const draftBrief = {\n  kind: \"Draft option A\",\n  range: \"Draft range D\",\n  label: \"<script>draft</script>\"\n}",
+    "disabled": true
+  }
+]

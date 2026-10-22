@@ -1,0 +1,128 @@
+{
+  "headings": [
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "I build interfaces that answer at once. "
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "Eight years, in three parts. "
+    },
+    {
+      "line": "23.52px",
+      "size": "21px",
+      "text": "I started with the build script nobody wanted."
+    },
+    {
+      "line": "23.52px",
+      "size": "21px",
+      "text": "Then three product teams, each one closer to the user."
+    },
+    {
+      "line": "23.52px",
+      "size": "21px",
+      "text": "Now I work on my own, one project at a time."
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "Six rules I work by. "
+    },
+    {
+      "line": "23px",
+      "size": "20px",
+      "text": "Measure first"
+    },
+    {
+      "line": "23px",
+      "size": "20px",
+      "text": "Ship on Friday"
+    },
+    {
+      "line": "23px",
+      "size": "20px",
+      "text": "Keyboard and screen reader, always"
+    },
+    {
+      "line": "23px",
+      "size": "20px",
+      "text": "Less JavaScript"
+    },
+    {
+      "line": "23px",
+      "size": "20px",
+      "text": "Write it down"
+    },
+    {
+      "line": "23px",
+      "size": "20px",
+      "text": "Say no early"
+    },
+    {
+      "line": "37.44px",
+      "size": "37.44px",
+      "text": "Reviewed, then approved. "
+    },
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "line": "normal",
+      "size": "18px",
+      "text": "Footer"
+    }
+  ],
+  "scrollWidth": 390,
+  "sections": [
+    {
+      "class": "sh sh-sec shph is-none is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shap is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shrv is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec sh-well shct is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "shct-form",
+      "columns": "350px",
+      "padding": "0px",
+      "tag": "FORM",
+      "width": 350
+    },
+    {
+      "class": "sh sh-sec shft is-ph is-bar",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "FOOTER",
+      "width": 390
+    }
+  ],
+  "size": [
+    390,
+    844
+  ]
+}

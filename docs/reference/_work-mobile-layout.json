@@ -1,0 +1,157 @@
+{
+  "headings": [
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "Eight products, each one measured. "
+    },
+    {
+      "line": "31.824px",
+      "size": "31.2px",
+      "text": "Northwind Checkout"
+    },
+    {
+      "line": "31.824px",
+      "size": "31.2px",
+      "text": "Ledgerline Console"
+    },
+    {
+      "line": "31.824px",
+      "size": "31.2px",
+      "text": "Kestrel Pay Dashboard"
+    },
+    {
+      "line": "31.824px",
+      "size": "31.2px",
+      "text": "Tidewater Charts"
+    },
+    {
+      "line": "31.824px",
+      "size": "31.2px",
+      "text": "Halden Design System"
+    },
+    {
+      "line": "31.824px",
+      "size": "31.2px",
+      "text": "Brattvik Onboarding"
+    },
+    {
+      "line": "31.824px",
+      "size": "31.2px",
+      "text": "Loopdocs"
+    },
+    {
+      "line": "31.824px",
+      "size": "31.2px",
+      "text": "Parcelway Tracking"
+    },
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "line": "normal",
+      "size": "18px",
+      "text": "Footer"
+    }
+  ],
+  "scrollWidth": 390,
+  "sections": [
+    {
+      "class": "sh sh-sec shph is-none is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "sh sh-sec shwi is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "shwi-card sh-plate",
+      "columns": "none",
+      "padding": "8px",
+      "tag": "ARTICLE",
+      "width": 350
+    },
+    {
+      "class": "shwi-card sh-plate",
+      "columns": "none",
+      "padding": "8px",
+      "tag": "ARTICLE",
+      "width": 350
+    },
+    {
+      "class": "shwi-card sh-plate",
+      "columns": "none",
+      "padding": "8px",
+      "tag": "ARTICLE",
+      "width": 350
+    },
+    {
+      "class": "shwi-card sh-plate",
+      "columns": "none",
+      "padding": "8px",
+      "tag": "ARTICLE",
+      "width": 350
+    },
+    {
+      "class": "shwi-card sh-plate",
+      "columns": "none",
+      "padding": "8px",
+      "tag": "ARTICLE",
+      "width": 350
+    },
+    {
+      "class": "shwi-card sh-plate",
+      "columns": "none",
+      "padding": "8px",
+      "tag": "ARTICLE",
+      "width": 350
+    },
+    {
+      "class": "shwi-card sh-plate",
+      "columns": "none",
+      "padding": "8px",
+      "tag": "ARTICLE",
+      "width": 350
+    },
+    {
+      "class": "shwi-card sh-plate",
+      "columns": "none",
+      "padding": "8px",
+      "tag": "ARTICLE",
+      "width": 350
+    },
+    {
+      "class": "sh sh-sec sh-well shct is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "shct-form",
+      "columns": "350px",
+      "padding": "0px",
+      "tag": "FORM",
+      "width": 350
+    },
+    {
+      "class": "sh sh-sec shft is-ph is-bar",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "FOOTER",
+      "width": 390
+    }
+  ],
+  "size": [
+    390,
+    844
+  ]
+}

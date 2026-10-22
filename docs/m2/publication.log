@@ -1,0 +1,6 @@
+
+> personal-website@0.1.0 check:publication
+> node --experimental-strip-types scripts/check-publication.ts
+
+Publication is blocked: unfinished routes, M2 structural fixtures and draft identity remain.
+Unresolved profile fields: name, headline, email, availability, location, timezone, github, linkedin, bluesky

@@ -1,0 +1,57 @@
+{
+  "overflow": false,
+  "sections": [
+    {
+      "height": 957.984375,
+      "id": "hero"
+    },
+    {
+      "height": 253.5,
+      "id": "clients"
+    },
+    {
+      "height": 4962.6875,
+      "id": "work"
+    },
+    {
+      "height": 1094.34375,
+      "id": "about"
+    },
+    {
+      "height": 1610.59375,
+      "id": "scores"
+    },
+    {
+      "height": 1256.578125,
+      "id": "stack"
+    },
+    {
+      "height": 1426.5625,
+      "id": "services"
+    },
+    {
+      "height": 1886.390625,
+      "id": "career"
+    },
+    {
+      "height": 857.234375,
+      "id": "lab"
+    },
+    {
+      "height": 1300.734375,
+      "id": "reviews"
+    },
+    {
+      "height": 1545.421875,
+      "id": "writing"
+    },
+    {
+      "height": 1327.484375,
+      "id": "faq"
+    },
+    {
+      "height": 1110.671875,
+      "id": "brief"
+    }
+  ]
+}

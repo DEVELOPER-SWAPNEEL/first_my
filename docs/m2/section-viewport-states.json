@@ -1,0 +1,470 @@
+[
+  {
+    "vp": {
+      "width": 390,
+      "height": 844
+    },
+    "id": "hero",
+    "geometry": {
+      "height": 880.25,
+      "top": 0,
+      "width": 375
+    }
+  },
+  {
+    "vp": {
+      "width": 390,
+      "height": 844
+    },
+    "id": "clients",
+    "geometry": {
+      "height": 253.5,
+      "top": 0.25,
+      "width": 375
+    }
+  },
+  {
+    "vp": {
+      "width": 390,
+      "height": 844
+    },
+    "id": "work",
+    "geometry": {
+      "height": 4039.6875,
+      "top": -0.25,
+      "width": 375
+    }
+  },
+  {
+    "vp": {
+      "width": 390,
+      "height": 844
+    },
+    "id": "about",
+    "geometry": {
+      "height": 1249.8125,
+      "top": 0.4375,
+      "width": 375
+    }
+  },
+  {
+    "vp": {
+      "width": 390,
+      "height": 844
+    },
+    "id": "scores",
+    "geometry": {
+      "height": 1501.265625,
+      "top": -0.75,
+      "width": 375
+    }
+  },
+  {
+    "vp": {
+      "width": 390,
+      "height": 844
+    },
+    "id": "stack",
+    "geometry": {
+      "height": 1341.046875,
+      "top": 0.515625,
+      "width": 375
+    }
+  },
+  {
+    "vp": {
+      "width": 390,
+      "height": 844
+    },
+    "id": "services",
+    "geometry": {
+      "height": 1613.828125,
+      "top": -0.4375,
+      "width": 375
+    }
+  },
+  {
+    "vp": {
+      "width": 390,
+      "height": 844
+    },
+    "id": "career",
+    "geometry": {
+      "height": 2338.296875,
+      "top": 0.390625,
+      "width": 375
+    }
+  },
+  {
+    "vp": {
+      "width": 390,
+      "height": 844
+    },
+    "id": "lab",
+    "geometry": {
+      "height": 952.90625,
+      "top": -0.3125,
+      "width": 375
+    }
+  },
+  {
+    "vp": {
+      "width": 390,
+      "height": 844
+    },
+    "id": "reviews",
+    "geometry": {
+      "height": 1648.640625,
+      "top": 0.59375,
+      "width": 375
+    }
+  },
+  {
+    "vp": {
+      "width": 390,
+      "height": 844
+    },
+    "id": "writing",
+    "geometry": {
+      "height": 1417.140625,
+      "top": -0.765625,
+      "width": 375
+    }
+  },
+  {
+    "vp": {
+      "width": 390,
+      "height": 844
+    },
+    "id": "faq",
+    "geometry": {
+      "height": 1436.75,
+      "top": 0.375,
+      "width": 375
+    }
+  },
+  {
+    "vp": {
+      "width": 390,
+      "height": 844
+    },
+    "id": "brief",
+    "geometry": {
+      "height": 1310.34375,
+      "top": 0.125,
+      "width": 375
+    }
+  },
+  {
+    "vp": {
+      "width": 810,
+      "height": 1080
+    },
+    "id": "hero",
+    "geometry": {
+      "height": 957.984375,
+      "top": 0,
+      "width": 795
+    }
+  },
+  {
+    "vp": {
+      "width": 810,
+      "height": 1080
+    },
+    "id": "clients",
+    "geometry": {
+      "height": 253.5,
+      "top": -0.015625,
+      "width": 795
+    }
+  },
+  {
+    "vp": {
+      "width": 810,
+      "height": 1080
+    },
+    "id": "work",
+    "geometry": {
+      "height": 4962.6875,
+      "top": 0.484375,
+      "width": 795
+    }
+  },
+  {
+    "vp": {
+      "width": 810,
+      "height": 1080
+    },
+    "id": "about",
+    "geometry": {
+      "height": 1094.34375,
+      "top": -0.828125,
+      "width": 795
+    }
+  },
+  {
+    "vp": {
+      "width": 810,
+      "height": 1080
+    },
+    "id": "scores",
+    "geometry": {
+      "height": 1610.59375,
+      "top": 0.515625,
+      "width": 795
+    }
+  },
+  {
+    "vp": {
+      "width": 810,
+      "height": 1080
+    },
+    "id": "stack",
+    "geometry": {
+      "height": 1256.578125,
+      "top": 0.109375,
+      "width": 795
+    }
+  },
+  {
+    "vp": {
+      "width": 810,
+      "height": 1080
+    },
+    "id": "services",
+    "geometry": {
+      "height": 1426.5625,
+      "top": -0.3125,
+      "width": 795
+    }
+  },
+  {
+    "vp": {
+      "width": 810,
+      "height": 1080
+    },
+    "id": "career",
+    "geometry": {
+      "height": 1886.390625,
+      "top": 0.25,
+      "width": 795
+    }
+  },
+  {
+    "vp": {
+      "width": 810,
+      "height": 1080
+    },
+    "id": "lab",
+    "geometry": {
+      "height": 857.234375,
+      "top": -0.359375,
+      "width": 795
+    }
+  },
+  {
+    "vp": {
+      "width": 810,
+      "height": 1080
+    },
+    "id": "reviews",
+    "geometry": {
+      "height": 1300.734375,
+      "top": -0.125,
+      "width": 795
+    }
+  },
+  {
+    "vp": {
+      "width": 810,
+      "height": 1080
+    },
+    "id": "writing",
+    "geometry": {
+      "height": 1545.421875,
+      "top": 0.609375,
+      "width": 795
+    }
+  },
+  {
+    "vp": {
+      "width": 810,
+      "height": 1080
+    },
+    "id": "faq",
+    "geometry": {
+      "height": 1327.484375,
+      "top": 0.03125,
+      "width": 795
+    }
+  },
+  {
+    "vp": {
+      "width": 810,
+      "height": 1080
+    },
+    "id": "brief",
+    "geometry": {
+      "height": 1110.671875,
+      "top": -0.484375,
+      "width": 795
+    }
+  },
+  {
+    "vp": {
+      "width": 1440,
+      "height": 900
+    },
+    "id": "hero",
+    "geometry": {
+      "height": 900,
+      "top": 0,
+      "width": 1425
+    }
+  },
+  {
+    "vp": {
+      "width": 1440,
+      "height": 900
+    },
+    "id": "clients",
+    "geometry": {
+      "height": 187.1875,
+      "top": 0,
+      "width": 1425
+    }
+  },
+  {
+    "vp": {
+      "width": 1440,
+      "height": 900
+    },
+    "id": "work",
+    "geometry": {
+      "height": 3806.984375,
+      "top": 0.1875,
+      "width": 1425
+    }
+  },
+  {
+    "vp": {
+      "width": 1440,
+      "height": 900
+    },
+    "id": "about",
+    "geometry": {
+      "height": 940.5625,
+      "top": 0.171875,
+      "width": 1425
+    }
+  },
+  {
+    "vp": {
+      "width": 1440,
+      "height": 900
+    },
+    "id": "scores",
+    "geometry": {
+      "height": 1114.75,
+      "top": -0.265625,
+      "width": 1425
+    }
+  },
+  {
+    "vp": {
+      "width": 1440,
+      "height": 900
+    },
+    "id": "stack",
+    "geometry": {
+      "height": 1019.984375,
+      "top": -0.515625,
+      "width": 1425
+    }
+  },
+  {
+    "vp": {
+      "width": 1440,
+      "height": 900
+    },
+    "id": "services",
+    "geometry": {
+      "height": 1148.359375,
+      "top": 0.46875,
+      "width": 1425
+    }
+  },
+  {
+    "vp": {
+      "width": 1440,
+      "height": 900
+    },
+    "id": "career",
+    "geometry": {
+      "height": 1592.8125,
+      "top": -0.171875,
+      "width": 1425
+    }
+  },
+  {
+    "vp": {
+      "width": 1440,
+      "height": 900
+    },
+    "id": "lab",
+    "geometry": {
+      "height": 977.578125,
+      "top": -0.359375,
+      "width": 1425
+    }
+  },
+  {
+    "vp": {
+      "width": 1440,
+      "height": 900
+    },
+    "id": "reviews",
+    "geometry": {
+      "height": 1173.546875,
+      "top": 0.21875,
+      "width": 1425
+    }
+  },
+  {
+    "vp": {
+      "width": 1440,
+      "height": 900
+    },
+    "id": "writing",
+    "geometry": {
+      "height": 1106.984375,
+      "top": -0.234375,
+      "width": 1425
+    }
+  },
+  {
+    "vp": {
+      "width": 1440,
+      "height": 900
+    },
+    "id": "faq",
+    "geometry": {
+      "height": 1019.375,
+      "top": 0.75,
+      "width": 1425
+    }
+  },
+  {
+    "vp": {
+      "width": 1440,
+      "height": 900
+    },
+    "id": "brief",
+    "geometry": {
+      "height": 913.359375,
+      "top": 0.125,
+      "width": 1425
+    }
+  }
+]

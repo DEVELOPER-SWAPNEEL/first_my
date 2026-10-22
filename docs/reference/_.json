@@ -1,0 +1,1034 @@
+{
+  "controls": [
+    {
+      "expanded": "false",
+      "label": "Menu",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "{ }View source",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "TypeScript. 8 years on the board. Daily. Strict mode, no any. Types are the first draft of the docs.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "8yTypeScript",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "JavaScript. 8 years on the board. Daily. The platform underneath everything else, and still where the bugs live.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "8yJavaScript",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "CSS. 8 years on the board. Daily. Grid, container queries and custom properties before any library.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "8yCSS",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "GLSL. 4 years on the board. Weekly. Shaders for charts and the occasional hero that earns its place.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "4yGLSL",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "React. 8 years on the board. Daily. Server components where they help, plain state where they do not.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "8yReact",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "Next.js. 6 years on the board. Daily. The default for products that need a server and a deadline.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "6yNext.js",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "Astro. 3 years on the board. Weekly. For docs and content sites that should ship almost no JavaScript.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "3yAstro",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "Svelte. 2 years on the board. Comfortable. Small tools and prototypes; I read it more often than I write it.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "2ySvelte",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "Vite. 5 years on the board. Daily. Fast feedback is a feature. Builds measured in seconds, not coffee.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "5yVite",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "Node.js. 7 years on the board. Weekly. Build scripts, small APIs and the glue between services.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "7yNode.js",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "Storybook. 6 years on the board. Weekly. Every component in isolation, with its states written down.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "6yStorybook",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "Figma. 7 years on the board. Weekly. I read design files fluently and push tokens back into them.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "7yFigma",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "Playwright. 5 years on the board. Daily. End-to-end tests on the flows that make money, on every pull request.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "5yPlaywright",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "Vitest. 4 years on the board. Daily. Unit tests that run before I have switched windows.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "4yVitest",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "Testing Library. 6 years on the board. Weekly. Tests that use the interface the way a person does.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "6yTesting Library",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "Lighthouse CI. 5 years on the board. Weekly. A performance budget the build enforces, so nobody has to argue.",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "5yLighthouse CI",
+      "type": "button"
+    },
+    {
+      "expanded": "true",
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "01Frontend buildYour product's interface, from the first component to the production deploy.From €9,500",
+      "type": "button"
+    },
+    {
+      "expanded": "false",
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "02Performance auditA measured list of what is slow, why, and what each fix is worth.From €3,200",
+      "type": "button"
+    },
+    {
+      "expanded": "false",
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "03Design systemOne set of tokens and components your whole team actually uses.From €12,000",
+      "type": "button"
+    },
+    {
+      "expanded": "false",
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "04Team embedA senior frontend developer inside your team, three days a week.From €6,400 a month",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "Previous",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": "Next",
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    },
+    {
+      "expanded": "true",
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "01When are you available?",
+      "type": "button"
+    },
+    {
+      "expanded": "false",
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "02Do you work alone or with a team?",
+      "type": "button"
+    },
+    {
+      "expanded": "false",
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "03How do you price a project?",
+      "type": "button"
+    },
+    {
+      "expanded": "false",
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "04Do you only work in React?",
+      "type": "button"
+    },
+    {
+      "expanded": "false",
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "05Can you work without a finished design?",
+      "type": "button"
+    },
+    {
+      "expanded": "false",
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "06Will you work in our existing codebase?",
+      "type": "button"
+    },
+    {
+      "expanded": "false",
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "07What happens when the project ends?",
+      "type": "button"
+    },
+    {
+      "expanded": "false",
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "08Which hours do you work?",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Frontend build",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Performance audit",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Design system",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Team embed",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Something else",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Under €5k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€5–10k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€10–25k",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "€25k+",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Not sure yet",
+      "type": "button"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "INPUT",
+      "text": "",
+      "type": "text"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "Continue to contact",
+      "type": "submit"
+    },
+    {
+      "expanded": null,
+      "label": null,
+      "role": null,
+      "tag": "BUTTON",
+      "text": "",
+      "type": "button"
+    }
+  ],
+  "headings": [
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "69.312px",
+      "size": "72.96px",
+      "tag": "H1",
+      "text": "Frontend developer shipping interfaces that feel instant. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "55.04px",
+      "size": "55.04px",
+      "tag": "H2",
+      "text": "Five products, each one measured. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "44.8px",
+      "size": "44.8px",
+      "tag": "H3",
+      "text": "Northwind Checkout"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "44.8px",
+      "size": "44.8px",
+      "tag": "H3",
+      "text": "Ledgerline Console"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "44.8px",
+      "size": "44.8px",
+      "tag": "H3",
+      "text": "Kestrel Pay Dashboard"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "44.8px",
+      "size": "44.8px",
+      "tag": "H3",
+      "text": "Tidewater Charts"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "44.8px",
+      "size": "44.8px",
+      "tag": "H3",
+      "text": "Halden Design System"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "49.28px",
+      "size": "44.8px",
+      "tag": "H2",
+      "text": "I build product interfaces that feel instant and stay that way. Eight years in fintech and developer tools taught me that speed is a feature, accessibility is not optional, and the best code is the code the next person can read.I build product interfaces that feel instant and stay that way. Eight years in fintech and developer tools taught me that speed is a feature, accessibility is not optional, and the best code is the code the next person can read. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "55.04px",
+      "size": "55.04px",
+      "tag": "H2",
+      "text": "Numbers, not adjectives. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "55.04px",
+      "size": "55.04px",
+      "tag": "H2",
+      "text": "The keys I press every day. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "55.04px",
+      "size": "55.04px",
+      "tag": "H2",
+      "text": "Four ways to put me to work. "
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "12px",
+      "tag": "H3",
+      "text": "01Frontend buildYour product's interface, from the first component to the production deploy.From €9,500"
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "12px",
+      "tag": "H3",
+      "text": "02Performance auditA measured list of what is slow, why, and what each fix is worth.From €3,200"
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "12px",
+      "tag": "H3",
+      "text": "03Design systemOne set of tokens and components your whole team actually uses.From €12,000"
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "12px",
+      "tag": "H3",
+      "text": "04Team embedA senior frontend developer inside your team, three days a week.From €6,400 a month"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "55.04px",
+      "size": "55.04px",
+      "tag": "H2",
+      "text": "Eight years, every one committed. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "30.24px",
+      "size": "28px",
+      "tag": "H3",
+      "text": "Independent frontend developer"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "30.24px",
+      "size": "28px",
+      "tag": "H3",
+      "text": "Staff frontend engineer"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "30.24px",
+      "size": "28px",
+      "tag": "H3",
+      "text": "Senior frontend engineer"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "30.24px",
+      "size": "28px",
+      "tag": "H3",
+      "text": "Frontend engineer"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "30.24px",
+      "size": "28px",
+      "tag": "H3",
+      "text": "Frontend developer"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "30.24px",
+      "size": "28px",
+      "tag": "H3",
+      "text": "Junior web developer"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "55.04px",
+      "size": "55.04px",
+      "tag": "H2",
+      "text": "What I build when nobody asks. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "55.04px",
+      "size": "55.04px",
+      "tag": "H2",
+      "text": "Reviewed, then approved. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "55.04px",
+      "size": "55.04px",
+      "tag": "H2",
+      "text": "Notes from the build. "
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "55.04px",
+      "size": "55.04px",
+      "tag": "H2",
+      "text": "Asked before the first call. "
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "12px",
+      "tag": "H3",
+      "text": "01When are you available?"
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "12px",
+      "tag": "H3",
+      "text": "02Do you work alone or with a team?"
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "12px",
+      "tag": "H3",
+      "text": "03How do you price a project?"
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "12px",
+      "tag": "H3",
+      "text": "04Do you only work in React?"
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "12px",
+      "tag": "H3",
+      "text": "05Can you work without a finished design?"
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "12px",
+      "tag": "H3",
+      "text": "06Will you work in our existing codebase?"
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "12px",
+      "tag": "H3",
+      "text": "07What happens when the project ends?"
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "12px",
+      "tag": "H3",
+      "text": "08Which hours do you work?"
+    },
+    {
+      "font": "\"Bricolage Grotesque\", system-ui, -apple-system, Arial, sans-serif",
+      "line": "67.7376px",
+      "size": "69.12px",
+      "tag": "H2",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "font": "Geist, system-ui, -apple-system, Arial, sans-serif",
+      "line": "normal",
+      "size": "18px",
+      "tag": "H2",
+      "text": "Footer"
+    }
+  ],
+  "images": [
+    {
+      "alt": "Soren Hale, frontend developer, in a navy work jacket against a dark wall",
+      "height": 1500,
+      "src": "https://framerusercontent.com/images/LoIqKcaRWqQnjoY49EI6dshKY.webp",
+      "width": 930
+    },
+    {
+      "alt": "",
+      "height": 396,
+      "src": "https://framerusercontent.com/images/NBnpKynwHgwRWuLCUi30GU6c55I.webp?scale-down-to=1024",
+      "width": 704
+    },
+    {
+      "alt": "",
+      "height": 392,
+      "src": "https://framerusercontent.com/images/YQjsAqZ8Nd96dGC0RfDYxu6u30.webp?scale-down-to=1024",
+      "width": 704
+    },
+    {
+      "alt": "",
+      "height": 0,
+      "src": "",
+      "width": 0
+    },
+    {
+      "alt": "",
+      "height": 0,
+      "src": "",
+      "width": 0
+    },
+    {
+      "alt": "",
+      "height": 0,
+      "src": "",
+      "width": 0
+    },
+    {
+      "alt": "A dark desk at night with a closed laptop, a notebook and a lamp-lit plant",
+      "height": 320,
+      "src": "https://framerusercontent.com/images/oiAGfMgu0PR7p7gXMkWT7I25swE.webp?scale-down-to=512",
+      "width": 256
+    },
+    {
+      "alt": "City avenues at dusk seen from above",
+      "height": 223,
+      "src": "https://framerusercontent.com/images/pHOBF7LHy4BbDr36flWPxPYRixo.webp?scale-down-to=512",
+      "width": 400
+    },
+    {
+      "alt": "Concrete letterforms in hard light, black and white",
+      "height": 249,
+      "src": "https://framerusercontent.com/images/pdpM5ZpkjW3FJZ62wHeZYKUF4.webp?scale-down-to=512",
+      "width": 400
+    },
+    {
+      "alt": "Dark navy satin with one streak of gold light",
+      "height": 223,
+      "src": "https://framerusercontent.com/images/OXEQQ8bdmGvOph7lbqliYervcNk.webp?scale-down-to=512",
+      "width": 400
+    },
+    {
+      "alt": "A grid of light and shadow on concrete",
+      "height": 249,
+      "src": "https://framerusercontent.com/images/1AehyHUZKh0JRaCcsVJqyNjCfk.webp?scale-down-to=512",
+      "width": 400
+    },
+    {
+      "alt": "A dark metal lattice grid on black stone",
+      "height": 181,
+      "src": "https://framerusercontent.com/images/AXiA433zY758QPQ734IwJYbDpps.webp?scale-down-to=512",
+      "width": 400
+    },
+    {
+      "alt": "Water beads on dark navy paint, close up",
+      "height": 250,
+      "src": "https://framerusercontent.com/images/xh7hi06SnOdBxKKmGI2XGTqKs.webp?scale-down-to=512",
+      "width": 400
+    },
+    {
+      "alt": "",
+      "height": 0,
+      "src": "",
+      "width": 0
+    },
+    {
+      "alt": "",
+      "height": 0,
+      "src": "",
+      "width": 0
+    },
+    {
+      "alt": "",
+      "height": 0,
+      "src": "",
+      "width": 0
+    },
+    {
+      "alt": "",
+      "height": 0,
+      "src": "",
+      "width": 0
+    },
+    {
+      "alt": "",
+      "height": 0,
+      "src": "",
+      "width": 0
+    },
+    {
+      "alt": "A brass clock and a sealed envelope on a dark desk",
+      "height": 356,
+      "src": "https://framerusercontent.com/images/z5MQSE0EqfjxmDrgOPiYdNc.webp?scale-down-to=1024",
+      "width": 640
+    }
+  ],
+  "links": [
+    {
+      "href": "https://wild-hours-611915.framer.app/#main",
+      "text": "Skip to content"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/",
+      "text": "Soren Hale"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "02Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "03About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "04Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "05Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Get in touch"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "See the work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Download CV"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "mainsoren/northwind-checkoutfeat(checkout): cut LCP 2.9s → 0.8s+212 −1,048 · merged 3 days ago"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "08All projects"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/northwind-checkout",
+      "text": "Northwind Checkout"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/northwind-checkout",
+      "text": "Open case"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/northwind-checkout",
+      "text": "Product"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/ledgerline-console",
+      "text": "Ledgerline Console"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/ledgerline-console",
+      "text": "Open case"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/ledgerline-console",
+      "text": "Tooling"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/kestrel-pay-dashboard",
+      "text": "Kestrel Pay Dashboard"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/kestrel-pay-dashboard",
+      "text": "Open case"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/kestrel-pay-dashboard",
+      "text": "Product"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/tidewater-charts",
+      "text": "Tidewater Charts"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/tidewater-charts",
+      "text": "Open case"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/tidewater-charts",
+      "text": "Experiment"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/halden-design-system",
+      "text": "Halden Design System"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/halden-design-system",
+      "text": "Open case"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work/halden-design-system",
+      "text": "Tooling"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "02More about me"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "01See the launches behind them"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "02The full stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "03All services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services/frontend-build",
+      "text": "See the service"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services/performance-audit",
+      "text": "See the service"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services/design-system",
+      "text": "See the service"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services/team-embed",
+      "text": "See the service"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Download CV"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "01Read the full resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/use-latency",
+      "text": "Libraryuse-latencyA React hook that measures how long every interaction really takes, in production.2,140stars48,200downloadsOpen"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/glyphfield",
+      "text": "ExperimentglyphfieldDraws any picture as source code on a canvas. It runs the portrait at the top of this site.1,260stars9,400downloadsOpen"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/tinyflip",
+      "text": "LibrarytinyflipLayout animations in 1.1 kB, using the FLIP technique and nothing else.890stars12,600downloadsOpen"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/a11y-probe",
+      "text": "Toola11y-probeA command line check that tabs through your page and tells you where focus got lost.640stars8,900downloadsOpen"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/tokens-to-css",
+      "text": "Tooltokens-to-cssTurns a design token file into typed CSS custom properties, with dark mode built in.410stars6,300downloadsOpen"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab/shader-notes",
+      "text": "Experimentshader-notesForty small WebGL sketches, each one under fifty lines and explained line by line.320starsOpen"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "02Everything in the lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "01All writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/the-last-hundred-milliseconds",
+      "text": "LatestPerformancePosted 2026-09-182 min readThe last hundred millisecondsGetting a page from fast to instant is a different job from getting it from slow to fast.Read post "
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/what-a-design-system-is-for",
+      "text": "2026-08-27What a design system is actually for2 min read"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/an-inp-budget-you-can-keep",
+      "text": "2026-07-30An INP budget you can keep2 min read"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/code-review-is-writing",
+      "text": "2026-06-19Code review is writing2 min read"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing/server-components-after-a-year",
+      "text": "2026-05-08Server components, a year in2 min read"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Ask by email"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev?subject=New%20project",
+      "text": "hello@sorenhale.dev"
+    },
+    {
+      "href": "mailto:hello@sorenhale.dev",
+      "text": "Write to mehello@sorenhale.dev"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/work",
+      "text": "Work"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/services",
+      "text": "Services"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/process",
+      "text": "Process"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/reviews",
+      "text": "Reviews"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/about",
+      "text": "About"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/resume",
+      "text": "Resume"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/stack",
+      "text": "Stack"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/uses",
+      "text": "Uses"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/now",
+      "text": "Now"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/lab",
+      "text": "Lab"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/writing",
+      "text": "Writing"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/faq",
+      "text": "FAQ"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/privacy",
+      "text": "Privacy"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/terms",
+      "text": "Terms"
+    },
+    {
+      "href": "https://wild-hours-611915.framer.app/cookies",
+      "text": "Cookies"
+    },
+    {
+      "href": "https://github.com/",
+      "text": "GitHub↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.linkedin.com/",
+      "text": "LinkedIn↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://bsky.app/",
+      "text": "Bluesky↗ (opens in a new tab)"
+    },
+    {
+      "href": "https://www.framer.com/",
+      "text": "Create a free website with Framer, the website builder loved by startups, designers and agencies."
+    }
+  ],
+  "size": [
+    1280,
+    720
+  ],
+  "text": "Skip to content\nSoren Hale\n01\nWork\n02\nServices\n03\nAbout\n04\nLab\n05\nWriting\nOpen to work from November\nGet in touch\n\n// Frontend developer · React, TypeScript, WebGL\n\nFrontend developer\nshipping interfaces\nthat feel instant.\n\nEight years building product interfaces for fintech and developer tools. React, TypeScript, and a stubborn eye on the last hundred milliseconds.\n\nSee the work\nDownload CV\nYears shipping product\n8\nInterfaces launched\n46\nAverage Lighthouse\n99\n{ }\nView source\nmain\nsoren/northwind-checkout\nfeat(checkout): cut LCP 2.9s → 0.8s\n+212 −1,048 · merged 3 days ago\n\nMove over the picture to read the source\n\n// Shipped for\n\nShipped for: Northwind, Ledgerline, Kestrel Pay, Tidewater, Halden, Brattvik Bank, Loopdocs, Parcelway\n\nNorthwind\n/\nLedgerline\n/\nKestrel Pay\n/\nTidewater\n/\nHalden\n/\nBrattvik Bank\n/\nLoopdocs\n/\nParcelway\n/\nNorthwind\n/\nLedgerline\n/\nKestrel Pay\n/\nTidewater\n/\nHalden\n/\nBrattvik Bank\n/\nLoopdocs\n/\nParcelway\n/\nNorthwind\n/\nLedgerline\n/\nKestrel Pay\n/\nTidewater\n/\nHalden\n/\nBrattvik Bank\n/\nLoopdocs\n/\nParcelway\n/\nNorthwind\n/\nLedgerline\n/\nKestrel Pay\n/\nTidewater\n/\nHalden\n/\nBrattvik Bank\n/\nLoopdocs\n/\nParcelway\n/\nstatus\nOpen to work from November\ntimezone\nOslo · Europe/Oslo\nreply\nReplies within one working day\n\n// Selected work\n\nFive products, each one measured. \n\nEvery case starts with a number that was wrong and ends with the one that shipped. Open any of them for the full write-up.\n\n08\nAll projects\n\n01 of 05\nNorthwind · 2025\n\nNorthwind Checkout\n\nA checkout that is ready before the customer has finished reaching for their card.\n\nLead frontend developer\n\nfrom\n2.9 s\n→\nto\n0.8 s\nLCP on a mid-range phone\n\nReact\nTypeScript\nXState\nVite\n\nOpen case\nProduct\n\n02 of 05\nLedgerline · 2024\n\nLedgerline Console\n\nForty internal tools moved into one console, on one design system, with one way to ship.\n\nFrontend architect\n\nfrom\n14 min\n→\nto\n95 s\nFrom merge to production\n\nReact\nTypeScript\nModule Federation\nTurborepo\n\nOpen case\nTooling\n\n03 of 05\nKestrel Pay · 2024\n\nKestrel Pay Dashboard\n\nLive payment data on a table of 200,000 rows that still answers a click at once.\n\nSenior frontend developer\n\nfrom\n380 ms\n→\nto\n48 ms\nINP on the transactions table\n\nReact\nTypeScript\nTanStack Virtual\nWebSocket\n\nOpen case\nProduct\n\n04 of 05\nTidewater · 2023\n\nTidewater Charts\n\nA charting layer that pans through a million points without dropping a frame.\n\nFrontend and WebGL developer\n\nfrom\n12 fps\n→\nto\n60 fps\nPan and zoom at 1M points\n\nTypeScript\nWebGL\nregl\nWeb Workers\n\nOpen case\nExperiment\n\n05 of 05\nHalden · 2023\n\nHalden Design System\n\nSixty-two components, one token file and no accessibility exceptions.\n\nDesign systems lead\n\nfrom\n71\n→\nto\n100\nLighthouse accessibility, product average\n\nReact\nTypeScript\nStorybook\nRadix\n\nOpen case\nTooling\n\n// About\n\nI build product interfaces that feel instant and stay that way. Eight years in fintech and developer tools taught me that speed is a feature, accessibility is not optional, and the best code is the code the next person can read.\nI build product interfaces that feel instant and stay that way. Eight years in fintech and developer tools taught me that speed is a feature, accessibility is not optional, and the best code is the code the next person can read.\nSoren Hale · Oslo\n\nNow\nUpdated October 2026\n\nBuilding\nKestrel Pay, transactions v3\nMaintaining\ntinyvirtual, 2.1k stars\nReading\nThe CSS anchor positioning spec\nBased in\nOslo, working CET hours\n02\nMore about me\n\n// The numbers\n\nNumbers, not adjectives. \n\nEvery launch is measured on a mid-range phone and a throttled connection before it goes out. These are the medians, not the best run of the day.\n\nmedian of the last 12 launches\n\n01\nSee the launches behind them\n\n01\nPerformance\n\n98\nof 100\n\n02\nAccessibility\n\n100\nof 100\n\n03\nBest practices\n\n100\nof 100\n\n04\nSEO\n\n100\nof 100\n\nCore Web Vitals\nfield data, 75th percentile\n\nLCP\nLargest Contentful Paint\n\n0.8 s\n\n0\nwithin budget\nbudget 2.5 s\n\nINP\nInteraction to Next Paint\n\n48 ms\n\n0\nwithin budget\nbudget 200 ms\n\nCLS\nCumulative Layout Shift\n\n0.01\n\n0\nwithin budget\nbudget 0.1\n\n// The stack\n\nThe keys I press every day. \n\nThe tools I would pick again tomorrow. Point at a key, or tab across the board, to see how long it has been there and what it is for.\n\n16 tools · 4 groups\n\n02\nThe full stack\n\nLanguages\n04\n\n8y\nTypeScript\n8y\nJavaScript\n8y\nCSS\n4y\nGLSL\n\nFrameworks\n04\n\n8y\nReact\n6y\nNext.js\n3y\nAstro\n2y\nSvelte\n\nTooling\n04\n\n5y\nVite\n7y\nNode.js\n6y\nStorybook\n7y\nFigma\n\nTesting\n04\n\n5y\nPlaywright\n4y\nVitest\n6y\nTesting Library\n5y\nLighthouse CI\n\nkey 01 of 16\nLanguages\n\nTypeScript\n\n8\nyears on the board\n\nUsed\nDaily\n\nStrict mode, no any. Types are the first draft of the docs.\n\n// Services\n\nFour ways to put me to work. \n\nFixed scope, a written plan before any code, and a price you know up front. Open a row to see what is in it.\n\n03\nAll services\n01\nFrontend build\nYour product's interface, from the first component to the production deploy.\nFrom €9,500\n\nI join your team or work from a design file and take the frontend the whole way: architecture, components, state, tests and the release pipeline. You get working software every week, not a big reveal at the end.\n\nSee the service\n\nIncludes\n\nArchitecture note before any code\nTyped component library\nTests on every critical flow\nA handover call and written docs\nPrice\nFrom €9,500\nTimeline\n4 to 8 weeks\n02\nPerformance audit\nA measured list of what is slow, why, and what each fix is worth.\nFrom €3,200\n03\nDesign system\nOne set of tokens and components your whole team actually uses.\nFrom €12,000\n04\nTeam embed\nA senior frontend developer inside your team, three days a week.\nFrom €6,400 a month\n\n// git log --career\n\nEight years, every one committed. \n\nSix teams, one direction: closer to the people who use the thing. The short version is below, the long one is a page away.\n\nDownload CV\n01\nRead the full resume\n2023 to Now\nc618ff5\n\nHEAD → main\nSoren Hale · Oslo\n\nIndependent frontend developer\n\nProduct builds, performance work and design systems for fintech and developer tool teams across Europe.\n\nReact\nTypeScript\nWebGL\n2021 to 2023\n7e0230a\n\nKestrel Pay · Oslo\n\nStaff frontend engineer\n\nLed the merchant dashboard: live data, a new table engine and the performance budget every team now ships against.\n\nReact\nTypeScript\nWebSocket\n2020 to 2021\n0cec1ce\n\nLedgerline · Stockholm\n\nSenior frontend engineer\n\nDesigned the shell and the shared library that replaced forty internal tools with one console.\n\nReact\nModule Federation\nTurborepo\n2019 to 2020\nd11045c\n\nTidewater · Copenhagen\n\nFrontend engineer\n\nBuilt the GPU charting layer for sensor data and the accessible table view behind every chart.\n\nTypeScript\nWebGL\nWeb Workers\n2018 to 2019\n8af695a\n\nPilcrow Studio · Oslo\n\nFrontend developer\n\nShipped marketing sites and two web apps for clients in publishing and travel. Learned to estimate.\n\nJavaScript\nVue\nSass\n2018\n39a7e40\n\ninitial commit\nBrygge Digital · Bergen\n\nJunior web developer\n\nFirst job: email templates, landing pages and the build script nobody else wanted to touch.\n\nHTML\nCSS\nJavaScript\n\n// Open source and experiments\n\nWhat I build when nobody asks. \n\nSmall libraries, command line tools and sketches. Most started as a fix for one project and stayed useful.\n\nLibrary\nuse-latency\nA React hook that measures how long every interaction really takes, in production.\n2,140\nstars\n48,200\ndownloads\nOpen\nExperiment\nglyphfield\nDraws any picture as source code on a canvas. It runs the portrait at the top of this site.\n1,260\nstars\n9,400\ndownloads\nOpen\nLibrary\ntinyflip\nLayout animations in 1.1 kB, using the FLIP technique and nothing else.\n890\nstars\n12,600\ndownloads\nOpen\nTool\na11y-probe\nA command line check that tabs through your page and tells you where focus got lost.\n640\nstars\n8,900\ndownloads\nOpen\nTool\ntokens-to-css\nTurns a design token file into typed CSS custom properties, with dark mode built in.\n410\nstars\n6,300\ndownloads\nOpen\nExperiment\nshader-notes\nForty small WebGL sketches, each one under fifty lines and explained line by line.\n320\nstars\nOpen\n02\nEverything in the lab\n\n// Code review\n\nReviewed, then approved. \n\nThe people who merged the work, in their own words.\n\nreviews/clients.md\n5 of 5 approved\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\nIngrid Solvang\nVP Engineering · Northwind\nWe had been tuning the backend for a year. Soren found two seconds in the browser in his first week, and checkout conversion has not been below the old record since.\nApproved\nMarcus Oyelaran\nEngineering manager · Kestrel Pay\nHe writes the kind of pull request you learn from. Our juniors started copying his commit messages, then his tests, then his habit of measuring before arguing.\nApproved\nHana Takeda\nHead of design · Halden\nThe design system shipped on time, and more to the point, people use it. Soren spent as much effort on the teams as on the components.\nApproved\nJonas Lindqvist\nFounder · Loopdocs\nI gave him a vague brief and a hard date. I got a plan in two days, a working build every Friday and no surprises at the end.\nApproved\nAmara Nwosu\nProduct lead · Tidewater\nOur analysts stopped exporting data to look at it. A million points, sixty frames a second, and it still works with a keyboard.\nApproved\n\n// Writing\n\nNotes from the build. \n\nShort, specific posts about performance, tooling and the unglamorous parts of shipping an interface.\n\n01\nAll writing\nLatest\nPerformance\nPosted\n2026-09-18\n2 min read\nThe last hundred milliseconds\nGetting a page from fast to instant is a different job from getting it from slow to fast.\nRead post\n\n// Earlier posts\n\n2026-08-27\nWhat a design system is actually for\n2 min read\n2026-07-30\nAn INP budget you can keep\n2 min read\n2026-06-19\nCode review is writing\n2 min read\n2026-05-08\nServer components, a year in\n2 min read\n\n// Questions\n\nAsked before the first call. \n\nThe things most teams want to know before we talk. If yours is not here, ask it directly.\n\nSomething else?\n\nReplies within one working day\n\nAsk by email\n01\nWhen are you available?\n\nI take on one main project at a time and usually book four to six weeks ahead. The status line at the top of the site is kept up to date.\n\n02\nDo you work alone or with a team?\n03\nHow do you price a project?\n04\nDo you only work in React?\n05\nCan you work without a finished design?\n06\nWill you work in our existing codebase?\n07\nWhat happens when the project ends?\n08\nWhich hours do you work?\n\n// Start a project\n\nTell me what you are building. \n\nThree quick picks so the first reply is useful. You finish the message on the contact page.\n\n01\nWhat do you need?\n\nFrontend build\nPerformance audit\nDesign system\nTeam embed\nSomething else\n\n02\nRough budget\n\nUnder €5k\n€5–10k\n€10–25k\n€25k+\nNot sure yet\n03\nYour name or company\nbrief.ts\ndraft, not sent\nexport const brief = {\nkind: null // not picked yet,\nbudget: null // not picked yet,\nname: null // not picked yet,\n}\n\nBrief so far: nothing picked yet\n\nContinue to contact\n\nor write to hello@sorenhale.dev\n\nNothing is sent from this page. Your picks are kept in this browser tab and wait for you on the contact form.\n\nFooter\n\nFrontend developer, Oslo\n\nWrite to me\nhello@sorenhale.dev\n\nOpen to work from November\n\n// Site\n\nWork\nServices\nProcess\nReviews\nContact\n\n// About\n\nAbout\nResume\nStack\nUses\nNow\n\n// More\n\nLab\nWriting\nFAQ\nPrivacy\nTerms\nCookies\n\n// Elsewhere\n\nGitHub\n↗\n(opens in a new tab)\nLinkedIn\n↗\n(opens in a new tab)\nBluesky\n↗\n(opens in a new tab)\n\nLocal time, Oslo\n17:01 CEST\n\n© 2026 Soren Hale. Written by hand in Oslo.\n\nSorenHale\n\nCreate a free website with Framer, the website builder loved by startups, designers and agencies.\n\nEdit Content",
+  "url": "https://wild-hours-611915.framer.app/"
+}

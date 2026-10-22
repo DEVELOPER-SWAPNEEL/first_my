@@ -1,0 +1,67 @@
+[
+  {
+    "class": "sh shh is-live is-in is-ph has-sfbar",
+    "height": 918,
+    "top": 0
+  },
+  {
+    "class": "sh sh-sec shmk is-ph",
+    "height": 283.28125,
+    "top": 918
+  },
+  {
+    "class": "sh sh-sec shwk is-ph",
+    "height": 4778.640625,
+    "top": 1201.28125
+  },
+  {
+    "class": "sh sh-sec shab is-ph",
+    "height": 1109.015625,
+    "top": 5979.921875
+  },
+  {
+    "class": "sh sh-sec sh-lime shbn is-ph is-rm",
+    "height": 1733.890625,
+    "top": 7088.9375
+  },
+  {
+    "class": "sh sh-sec shst is-ph is-rm is-col",
+    "height": 1260.21875,
+    "top": 8822.828125
+  },
+  {
+    "class": "sh sh-sec shsv is-ph is-rm",
+    "height": 1543.921875,
+    "top": 10083.046875
+  },
+  {
+    "class": "sh sh-sec shlg is-ph is-final",
+    "height": 1744.375,
+    "top": 11626.96875
+  },
+  {
+    "class": "sh sh-sec shlb sh-well is-ph",
+    "height": 788.984375,
+    "top": 13371.34375
+  },
+  {
+    "class": "sh sh-sec shrv is-ph",
+    "height": 1486.046875,
+    "top": 14160.328125
+  },
+  {
+    "class": "sh sh-sec shwr is-ph",
+    "height": 1403.171875,
+    "top": 15646.375
+  },
+  {
+    "class": "sh sh-sec shfq is-ph",
+    "height": 1174.328125,
+    "top": 17049.546875
+  },
+  {
+    "class": "sh sh-sec sh-well shct is-ph",
+    "height": 1117.78125,
+    "top": 18223.875
+  }
+]

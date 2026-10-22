@@ -1,0 +1,65 @@
+[
+  {
+    "menu": "block",
+    "nav": "none",
+    "overflow": false,
+    "width": 305,
+    "word": 247.859375
+  },
+  {
+    "menu": "block",
+    "nav": "none",
+    "overflow": false,
+    "width": 344,
+    "word": 282.359375
+  },
+  {
+    "menu": "block",
+    "nav": "none",
+    "overflow": false,
+    "width": 345,
+    "word": 283.234375
+  },
+  {
+    "menu": "block",
+    "nav": "none",
+    "overflow": false,
+    "width": 794,
+    "word": 667.921875
+  },
+  {
+    "menu": "block",
+    "nav": "none",
+    "overflow": false,
+    "width": 795,
+    "word": 633.09375
+  },
+  {
+    "menu": "block",
+    "nav": "none",
+    "overflow": false,
+    "width": 1084,
+    "word": 891.15625
+  },
+  {
+    "menu": "none",
+    "nav": "block",
+    "overflow": false,
+    "width": 1085,
+    "word": 892.046875
+  },
+  {
+    "menu": "none",
+    "nav": "block",
+    "overflow": false,
+    "width": 1264,
+    "word": 1023.328125
+  },
+  {
+    "menu": "none",
+    "nav": "block",
+    "overflow": false,
+    "width": 1265,
+    "word": 1024.21875
+  }
+]

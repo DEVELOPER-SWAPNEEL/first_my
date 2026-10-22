@@ -1,0 +1,11 @@
+file:///Users/john/Documents/ChatGPT/personal%20website/next.config.ts:3
+  throw new Error(
+        ^
+
+Error: Publication blocked: unfinished routes, M2 draft fixtures and draft identity.
+    at file:///Users/john/Documents/ChatGPT/personal%20website/next.config.ts:3:9
+    at ModuleJob.run (node:internal/modules/esm/module_job:413:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:660:26)
+    at async importModuleDynamicallyWrapper (node:internal/vm/module:525:15)
+
+Node.js v24.13.0

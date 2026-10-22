@@ -1,0 +1,144 @@
+{
+  "headings": [
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "Soren Hale "
+    },
+    {
+      "line": "18.2px",
+      "size": "13px",
+      "text": "// Experience"
+    },
+    {
+      "line": "23px",
+      "size": "20px",
+      "text": "Independent frontend developer"
+    },
+    {
+      "line": "23px",
+      "size": "20px",
+      "text": "Staff frontend engineer"
+    },
+    {
+      "line": "23px",
+      "size": "20px",
+      "text": "Senior frontend engineer"
+    },
+    {
+      "line": "23px",
+      "size": "20px",
+      "text": "Frontend engineer"
+    },
+    {
+      "line": "23px",
+      "size": "20px",
+      "text": "Frontend developer"
+    },
+    {
+      "line": "23px",
+      "size": "20px",
+      "text": "Junior web developer"
+    },
+    {
+      "line": "18.2px",
+      "size": "13px",
+      "text": "// Skills"
+    },
+    {
+      "line": "18.2px",
+      "size": "13px",
+      "text": "// Education"
+    },
+    {
+      "line": "18.2px",
+      "size": "13px",
+      "text": "// Languages"
+    },
+    {
+      "line": "18.2px",
+      "size": "13px",
+      "text": "// Talks"
+    },
+    {
+      "line": "36.6912px",
+      "size": "37.44px",
+      "text": "Tell me what you are building. "
+    },
+    {
+      "line": "normal",
+      "size": "18px",
+      "text": "Footer"
+    }
+  ],
+  "scrollWidth": 390,
+  "sections": [
+    {
+      "class": "sh sh-sec shre is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "shre-blk",
+      "columns": "314px",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 314
+    },
+    {
+      "class": "shre-blk",
+      "columns": "314px",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 314
+    },
+    {
+      "class": "shre-blk",
+      "columns": "314px",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 314
+    },
+    {
+      "class": "shre-blk",
+      "columns": "314px",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 314
+    },
+    {
+      "class": "shre-blk",
+      "columns": "314px",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 314
+    },
+    {
+      "class": "sh sh-sec sh-well shct is-ph",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "SECTION",
+      "width": 390
+    },
+    {
+      "class": "shct-form",
+      "columns": "350px",
+      "padding": "0px",
+      "tag": "FORM",
+      "width": 350
+    },
+    {
+      "class": "sh sh-sec shft is-ph is-bar",
+      "columns": "none",
+      "padding": "0px",
+      "tag": "FOOTER",
+      "width": 390
+    }
+  ],
+  "size": [
+    390,
+    844
+  ]
+}

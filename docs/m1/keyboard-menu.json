@@ -1,0 +1,102 @@
+[
+  {
+    "inDialog": true,
+    "label": "00Home→",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "01Work→",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "02Services→",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "03About→",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "04Lab→",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "05Writing→",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "Stack",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "Uses",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "Now",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "Process",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "Resume",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "Reviews",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "FAQ",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "Contact",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "Get in touch→",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "Draft Name",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "Close menu",
+    "tag": "BUTTON"
+  },
+  {
+    "inDialog": true,
+    "label": "00Home→",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "01Work→",
+    "tag": "A"
+  },
+  {
+    "inDialog": true,
+    "label": "02Services→",
+    "tag": "A"
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "size": {
+      "width": 390,
+      "height": 844
+    },
+    "sections": [
+      {
+        "height": 880.25,
+        "id": "hero",
+        "top": 0,
+        "width": 375
+      },
+      {
+        "height": 391.5,
+        "id": "clients",
+        "top": 880.25,
+        "width": 375
+      },
+      {
+        "height": 4039.6875,
+        "id": "work",
+        "top": 1271.75,
+        "width": 375
+      },
+      {
+        "height": 1192.796875,
+        "id": "about",
+        "top": 5311.4375,
+        "width": 375
+      },
+      {
+        "height": 1501.265625,
+        "id": "scores",
+        "top": 6504.234375,
+        "width": 375
+      },
+      {
+        "height": 1341.046875,
+        "id": "stack",
+        "top": 8005.5,
+        "width": 375
+      },
+      {
+        "height": 1613.828125,
+        "id": "services",
+        "top": 9346.546875,
+        "width": 375
+      },
+      {
+        "height": 2338.296875,
+        "id": "career",
+        "top": 10960.375,
+        "width": 375
+      },
+      {
+        "height": 952.90625,
+        "id": "lab",
+        "top": 13298.671875,
+        "width": 375
+      },
+      {
+        "height": 1648.640625,
+        "id": "reviews",
+        "top": 14251.578125,
+        "width": 375
+      },
+      {
+        "height": 1417.140625,
+        "id": "writing",
+        "top": 15900.21875,
+        "width": 375
+      },
+      {
+        "height": 1436.75,
+        "id": "faq",
+        "top": 17317.359375,
+        "width": 375
+      },
+      {
+        "height": 1310.34375,
+        "id": "brief",
+        "top": 18754.109375,
+        "width": 375
+      }
+    ]
+  },
+  {
+    "size": {
+      "width": 810,
+      "height": 1080
+    },
+    "sections": [
+      {
+        "height": 957.984375,
+        "id": "hero",
+        "top": -18526,
+        "width": 795
+      },
+      {
+        "height": 299.5,
+        "id": "clients",
+        "top": -17568.015625,
+        "width": 795
+      },
+      {
+        "height": 4962.6875,
+        "id": "work",
+        "top": -17268.515625,
+        "width": 795
+      },
+      {
+        "height": 1094.34375,
+        "id": "about",
+        "top": -12305.828125,
+        "width": 795
+      },
+      {
+        "height": 1610.59375,
+        "id": "scores",
+        "top": -11211.484375,
+        "width": 795
+      },
+      {
+        "height": 1256.578125,
+        "id": "stack",
+        "top": -9600.890625,
+        "width": 795
+      },
+      {
+        "height": 1426.5625,
+        "id": "services",
+        "top": -8344.3125,
+        "width": 795
+      },
+      {
+        "height": 1886.390625,
+        "id": "career",
+        "top": -6917.75,
+        "width": 795
+      },
+      {
+        "height": 857.234375,
+        "id": "lab",
+        "top": -5031.359375,
+        "width": 795
+      },
+      {
+        "height": 1300.734375,
+        "id": "reviews",
+        "top": -4174.125,
+        "width": 795
+      },
+      {
+        "height": 1545.421875,
+        "id": "writing",
+        "top": -2873.390625,
+        "width": 795
+      },
+      {
+        "height": 1327.484375,
+        "id": "faq",
+        "top": -1327.96875,
+        "width": 795
+      },
+      {
+        "height": 1110.671875,
+        "id": "brief",
+        "top": -0.484375,
+        "width": 795
+      }
+    ]
+  },
+  {
+    "size": {
+      "width": 1440,
+      "height": 900
+    },
+    "sections": [
+      {
+        "height": 900,
+        "id": "hero",
+        "top": -15717,
+        "width": 1425
+      },
+      {
+        "height": 187.1875,
+        "id": "clients",
+        "top": -14817,
+        "width": 1425
+      },
+      {
+        "height": 3806.984375,
+        "id": "work",
+        "top": -14629.8125,
+        "width": 1425
+      },
+      {
+        "height": 940.5625,
+        "id": "about",
+        "top": -10822.828125,
+        "width": 1425
+      },
+      {
+        "height": 1114.75,
+        "id": "scores",
+        "top": -9882.265625,
+        "width": 1425
+      },
+      {
+        "height": 1019.984375,
+        "id": "stack",
+        "top": -8767.515625,
+        "width": 1425
+      },
+      {
+        "height": 1148.359375,
+        "id": "services",
+        "top": -7747.53125,
+        "width": 1425
+      },
+      {
+        "height": 1592.8125,
+        "id": "career",
+        "top": -6599.171875,
+        "width": 1425
+      },
+      {
+        "height": 977.578125,
+        "id": "lab",
+        "top": -5006.359375,
+        "width": 1425
+      },
+      {
+        "height": 1173.546875,
+        "id": "reviews",
+        "top": -4028.78125,
+        "width": 1425
+      },
+      {
+        "height": 1106.984375,
+        "id": "writing",
+        "top": -2855.234375,
+        "width": 1425
+      },
+      {
+        "height": 1019.375,
+        "id": "faq",
+        "top": -1748.25,
+        "width": 1425
+      },
+      {
+        "height": 913.359375,
+        "id": "brief",
+        "top": -728.875,
+        "width": 1425
+      }
+    ]
+  }
+]

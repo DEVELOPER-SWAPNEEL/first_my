@@ -1,0 +1,428 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": [
+        "hero",
+        "clients",
+        "work",
+        "about",
+        "scores",
+        "stack",
+        "services",
+        "career",
+        "lab",
+        "reviews",
+        "writing",
+        "faq",
+        "brief"
+      ]
+    },
+    {
+      "path": "/about",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/contact",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/cookies",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/faq",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/lab",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/lab/a11y-probe",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/lab/glyphfield",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/lab/shader-notes",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/lab/tinyflip",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/lab/tokens-to-css",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/lab/use-latency",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/now",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/privacy",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/process",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/resume",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/reviews",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/services",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/services/design-system",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/services/frontend-build",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/services/performance-audit",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/services/team-embed",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/stack",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/terms",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/uses",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/work",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/work/brattvik-onboarding",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/work/halden-design-system",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/work/kestrel-pay-dashboard",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/work/ledgerline-console",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/work/loopdocs",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/work/northwind-checkout",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/work/parcelway-tracking",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/work/tidewater-charts",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/writing",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/writing/an-inp-budget-you-can-keep",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/writing/code-review-is-writing",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/writing/estimates-that-hold",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/writing/server-components-after-a-year",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/writing/the-last-hundred-milliseconds",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    },
+    {
+      "path": "/writing/what-a-design-system-is-for",
+      "status": 200,
+      "h1": 1,
+      "robots": [
+        "noindex, nofollow"
+      ],
+      "sections": []
+    }
+  ],
+  "homeLinks": [
+    "#main",
+    "/",
+    "/about",
+    "/contact",
+    "/cookies",
+    "/faq",
+    "/lab",
+    "/lab/a11y-probe",
+    "/lab/glyphfield",
+    "/lab/shader-notes",
+    "/lab/tinyflip",
+    "/lab/tokens-to-css",
+    "/lab/use-latency",
+    "/now",
+    "/privacy",
+    "/process",
+    "/resume",
+    "/reviews",
+    "/services",
+    "/services/design-system",
+    "/services/frontend-build",
+    "/services/performance-audit",
+    "/services/team-embed",
+    "/stack",
+    "/terms",
+    "/uses",
+    "/work",
+    "/work/halden-design-system",
+    "/work/kestrel-pay-dashboard",
+    "/work/ledgerline-console",
+    "/work/northwind-checkout",
+    "/work/tidewater-charts",
+    "/writing",
+    "/writing/an-inp-budget-you-can-keep",
+    "/writing/code-review-is-writing",
+    "/writing/server-components-after-a-year",
+    "/writing/the-last-hundred-milliseconds",
+    "/writing/what-a-design-system-is-for"
+  ],
+  "unknownRoute404": true
+}

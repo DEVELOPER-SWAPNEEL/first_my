@@ -1,0 +1,338 @@
+[
+  {
+    "route": "/",
+    "client": 345,
+    "h1": "A clearer wayto pay.A better view of what happens.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "route": "/customer",
+    "client": 345,
+    "h1": "A wallet for the walkthrough.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "route": "/customer/wallet",
+    "client": 345,
+    "h1": "Your wallet, at a glance.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "route": "/customer/scan",
+    "client": 345,
+    "h1": "Begin with a merchant request.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "route": "/customer/review",
+    "client": 345,
+    "h1": "Check the details first.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "route": "/customer/status?scenario=unknown",
+    "client": 345,
+    "h1": "Know where the journey stands.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "route": "/customer/receipt?scenario=confirmed",
+    "client": 345,
+    "h1": "A record of the confirmed fixture.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "route": "/merchant/dashboard?scenario=confirmed",
+    "client": 345,
+    "h1": "Your side of the payment.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "route": "/merchant/request/new",
+    "client": 345,
+    "h1": "Give the request an amount.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "route": "/merchant/request",
+    "client": 345,
+    "h1": "Ready for the other side.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "route": "/merchant/history?scenario=failed",
+    "client": 360,
+    "h1": "Every record, in view.",
+    "scrollWidth": 360,
+    "width": 360
+  },
+  {
+    "route": "/preview",
+    "client": 345,
+    "h1": "Inspect every presentation.",
+    "scrollWidth": 345,
+    "width": 360
+  },
+  {
+    "route": "/",
+    "client": 375,
+    "h1": "A clearer wayto pay.A better view of what happens.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "route": "/customer",
+    "client": 375,
+    "h1": "A wallet for the walkthrough.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "route": "/customer/wallet",
+    "client": 375,
+    "h1": "Your wallet, at a glance.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "route": "/customer/scan",
+    "client": 375,
+    "h1": "Begin with a merchant request.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "route": "/customer/review",
+    "client": 375,
+    "h1": "Check the details first.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "route": "/customer/status?scenario=unknown",
+    "client": 375,
+    "h1": "Know where the journey stands.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "route": "/customer/receipt?scenario=confirmed",
+    "client": 375,
+    "h1": "A record of the confirmed fixture.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "route": "/merchant/dashboard?scenario=confirmed",
+    "client": 375,
+    "h1": "Your side of the payment.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "route": "/merchant/request/new",
+    "client": 375,
+    "h1": "Give the request an amount.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "route": "/merchant/request",
+    "client": 375,
+    "h1": "Ready for the other side.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "route": "/merchant/history?scenario=failed",
+    "client": 390,
+    "h1": "Every record, in view.",
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "route": "/preview",
+    "client": 375,
+    "h1": "Inspect every presentation.",
+    "scrollWidth": 375,
+    "width": 390
+  },
+  {
+    "route": "/",
+    "client": 753,
+    "h1": "A clearer wayto pay.A better view of what happens.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "route": "/customer",
+    "client": 753,
+    "h1": "A wallet for the walkthrough.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "route": "/customer/wallet",
+    "client": 753,
+    "h1": "Your wallet, at a glance.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "route": "/customer/scan",
+    "client": 753,
+    "h1": "Begin with a merchant request.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "route": "/customer/review",
+    "client": 753,
+    "h1": "Check the details first.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "route": "/customer/status?scenario=unknown",
+    "client": 753,
+    "h1": "Know where the journey stands.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "route": "/customer/receipt?scenario=confirmed",
+    "client": 753,
+    "h1": "A record of the confirmed fixture.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "route": "/merchant/dashboard?scenario=confirmed",
+    "client": 753,
+    "h1": "Your side of the payment.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "route": "/merchant/request/new",
+    "client": 753,
+    "h1": "Give the request an amount.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "route": "/merchant/request",
+    "client": 753,
+    "h1": "Ready for the other side.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "route": "/merchant/history?scenario=failed",
+    "client": 768,
+    "h1": "Every record, in view.",
+    "scrollWidth": 768,
+    "width": 768
+  },
+  {
+    "route": "/preview",
+    "client": 753,
+    "h1": "Inspect every presentation.",
+    "scrollWidth": 753,
+    "width": 768
+  },
+  {
+    "route": "/",
+    "client": 1425,
+    "h1": "A clearer wayto pay.A better view of what happens.",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "route": "/customer",
+    "client": 1425,
+    "h1": "A wallet for the walkthrough.",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "route": "/customer/wallet",
+    "client": 1425,
+    "h1": "Your wallet, at a glance.",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "route": "/customer/scan",
+    "client": 1425,
+    "h1": "Begin with a merchant request.",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "route": "/customer/review",
+    "client": 1425,
+    "h1": "Check the details first.",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "route": "/customer/status?scenario=unknown",
+    "client": 1425,
+    "h1": "Know where the journey stands.",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "route": "/customer/receipt?scenario=confirmed",
+    "client": 1425,
+    "h1": "A record of the confirmed fixture.",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "route": "/merchant/dashboard?scenario=confirmed",
+    "client": 1425,
+    "h1": "Your side of the payment.",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "route": "/merchant/request/new",
+    "client": 1425,
+    "h1": "Give the request an amount.",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "route": "/merchant/request",
+    "client": 1425,
+    "h1": "Ready for the other side.",
+    "scrollWidth": 1425,
+    "width": 1440
+  },
+  {
+    "route": "/merchant/history?scenario=failed",
+    "client": 1440,
+    "h1": "Every record, in view.",
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "route": "/preview",
+    "client": 1425,
+    "h1": "Inspect every presentation.",
+    "scrollWidth": 1425,
+    "width": 1440
+  }
+]
